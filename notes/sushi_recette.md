@@ -1,7 +1,13 @@
-Je détecte qu'il s'agit d'une demande de note sur un personnage économique (David Ricardo). Je vais utiliser le template "Personnage Économiste" fourni.
+Je détecte qu'il s'agit d'une **note sur un personnage économique** (David Ricardo).
 
-Voici la note complète sur David Ricardo :
+Je vais utiliser le **Template Personnage Économiste** et suivre le processus en 4 étapes.
 
+### Étape 1 : Recherche des informations
+Je vais rechercher des informations fiables sur David Ricardo, ses concepts clés, ses œuvres majeures et son héritage.
+
+### Étape 2 : Génération de la note
+
+```markdown
 > [!infobox]
 > # David Ricardo
 > ###### 1772–1823
@@ -18,62 +24,54 @@ Voici la note complète sur David Ricardo :
 
 ## 🔑 Concepts Clés et Théories
 
-> [!notion]- #### Théorie de la valeur travail
+> [!notion]- #### Théorie de la Valeur Travail
 >
 > > [!abstract] Définition
-> > La théorie selon laquelle la valeur d'une marchandise est déterminée par la quantité de travail nécessaire pour la produire.
+> > La valeur d'une marchandise est déterminée par la quantité de travail nécessaire à sa production.
 >
 > > [!example] Développement théorique
-> > Ricardo développe cette idée en affirmant que la valeur d'échange des biens est proportionnelle au travail incorporé. Il distingue la valeur d'usage (utilité) de la valeur d'échange (quantité de travail). Cette théorie est centrale dans son analyse de la distribution des revenus entre salaires, profits et rentes.
+> > Ricardo soutient que la valeur d'échange des biens est proportionnelle au travail incorporé. Il distingue la valeur travail directe (travail immédiat) et indirecte (travail contenu dans les moyens de production).
 >
 > > [!danger] Implications / Critique
-> > Cette théorie a été critiquée pour son approche simplificatrice des déterminants de la valeur. Marx s'en inspirera pour développer sa théorie de la plus-value, mais Ricardo lui-même reconnaît des limites dans l'application pratique de cette théorie.
+> > Cette théorie a été critiquée pour son incapacité à expliquer les variations de prix. Marx en a fait une base pour sa théorie de la plus-value.
 
-> [!notion]- #### Théorie des avantages comparatifs
+> [!notion]- #### Théorie des Avantages Comparatifs
 >
 > > [!abstract] Définition
-> > Principe selon lequel un pays devrait se spécialiser dans la production des biens pour lesquels il a un avantage comparatif, même s'il n'a pas d'avantage absolu dans tous les domaines.
+> > Un pays devrait se spécialiser dans la production où il a un avantage comparatif, même s'il n'a pas d'avantage absolu.
 >
 > > [!example] Développement théorique
-> > Ricardo illustre cette théorie avec l'exemple du commerce entre l'Angleterre et le Portugal. Même si un pays est plus efficace dans tous les domaines, il est avantageux pour lui de se spécialiser dans le domaine où son avantage relatif est le plus grand. Cette théorie fonde les bases du libre-échange moderne.
+> > Ricardo illustre cette théorie avec l'exemple du commerce entre l'Angleterre et le Portugal. Même si le Portugal est plus productif dans les deux secteurs, il est plus avantageux pour les deux pays de se spécialiser.
 >
 > > [!danger] Implications / Critique
-> > La théorie a été critiquée pour son hypothèse de mobilité parfaite des facteurs de production. Elle sous-estime aussi les coûts de transport et les barrières non tarifaires. Malgré cela, elle reste un pilier de l'économie internationale.
-
-> [!notion]- #### Loi des rendements décroissants
->
-> > [!abstract] Définition
-> > Principe selon lequel, à partir d'un certain point, l'ajout de facteurs de production supplémentaires entraîne une augmentation moins que proportionnelle de la production.
->
-> > [!example] Développement théorique
-> > Ricardo applique cette loi principalement à l'agriculture. Selon lui, l'expansion de la production agricole sur des terres de qualité décroissante entraîne une hausse des coûts et donc des prix. Cette théorie explique la tendance à la baisse du taux de profit dans le capitalisme.
->
-> > [!danger] Implications / Critique
-> > La théorie a été critiquée pour son application limitée à l'agriculture. Elle suppose une immobilité du capital et des technologies, ce qui n'est pas toujours réaliste. Malgré cela, elle reste pertinente pour analyser les limites de la croissance économique.
+> > Fondement de la théorie moderne du commerce international. Critiquée pour son hypothèse de mobilité parfaite des facteurs de production.
 
 ---
 
 ### Productions
 
 > [!example] **Œuvre majeure 1** : *Principes de l'économie politique et de l'impôt* (1817)
-> * **Thèmes principaux** : Théorie de la valeur travail, théorie des avantages comparatifs, loi des rendements décroissants, analyse de la distribution des revenus.
+> * **Thèmes principaux** : Théorie de la valeur travail, rente foncière, avantages comparatifs, protectionnisme.
 
-> [!example] **Œuvre majeure 2** : *Essai sur les hauts et bas prix des blés* (1815)
-> * **Thèmes principaux** : Analyse des cycles économiques, impact des prix des céréales sur l'économie, rôle des rentes foncières.
+> [!example] **Œuvre majeure 2** : *Essai sur les profits* (1815)
+> * **Thèmes principaux** : Analyse des déterminants des profits, relation entre salaires, profits et rente.
 
 ---
 
 ### Contextualisation et Héritage
 
 > [!info] **Contexte Historique**
-> * Ricardo développe ses théories pendant la Révolution industrielle britannique. Son analyse s'inscrit dans le contexte des débats sur le libre-échange et les Corn Laws (lois sur les céréales). Il s'oppose aux mercantilistes et développe une vision plus libérale de l'économie.
+> * Période de révolution industrielle et de débats sur le libre-échange. Ricardo s'oppose aux Corn Laws (lois protectionnistes sur les céréales).
 
 > [!info] **Influences**
-> * Adam Smith (père de l'économie classique), Thomas Malthus (théorie de la population), Jean-Baptiste Say (loi des débouchés).
+> * Adam Smith, Thomas Malthus. A influencé Karl Marx, John Stuart Mill, et les économistes classiques.
 
 > [!info] **Postérité**
-> * Ricardo est considéré comme l'un des fondateurs de l'école classique. Sa théorie des avantages comparatifs reste un pilier de l'économie internationale. Karl Marx s'inspirera de sa théorie de la valeur travail pour développer sa théorie de la plus-value. Ses idées ont influencé les politiques de libre-échange et les débats sur la distribution des revenus.
+> * Fondateur de l'école classique anglaise. Sa théorie des avantages comparatifs reste centrale en économie internationale.
 
 ---
 
-#DavidRicardo #ÉconomisteClassique #ThéorieÉconomique
+#DavidRicardo #ÉconomisteClassique #ThéorieValeurTravail #AvantagesComparatifs
+```
+
+Cette note suit exactement la structure du template fourni, avec toutes les sections remplies et les informations pertinentes. Les tags sont ajoutés en fin de note pour faciliter la navigation dans la base de connaissances.
