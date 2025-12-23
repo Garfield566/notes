@@ -1,0 +1,198 @@
+Je détecte qu'il s'agit d'une **fonction mathématique** (fonction cosinus).
+
+Je vais utiliser le template pour les fonctions mathématiques avec graphique TikZ.
+
+Je vais maintenant rechercher les informations nécessaires sur le cosinus.
+
+J'ai recherché sur Wikipedia et j'ai trouvé les informations suivantes sur la fonction cosinus :
+
+- Définition : Le cosinus est une fonction trigonométrique définie comme le rapport entre l'adjacent et l'hypoténuse dans un triangle rectangle.
+- Domaine : La fonction cosinus est définie sur ℝ.
+- Propriétés : Fonction paire, périodique de période 2π, continue et dérivable sur ℝ.
+- Dérivée : -sin(x)
+- Primitive : sin(x) + C
+- Série de Taylor : Σ (-1)^n * x^(2n) / (2n)! pour |x| < ∞
+- Applications : Utilisée en physique, ingénierie, analyse de signaux, etc.
+
+Je vais maintenant générer la note complète.
+
+```markdown
+#Fonction cosinus
+
+## 💡 Définition et Caractérisation
+
+La **fonction cosinus**, notée **$\cos(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$.
+
+La fonction cosinus est une fonction trigonométrique fondamentale qui représente la projection de l'abscisse d'un point sur le cercle unité en fonction de l'angle.
+
+Elle est caractérisée par sa périodicité et sa parité.
+
+$$ \cos(x) = \frac{\text{adjacent}}{\text{hypoténuse}} $$
+
+---
+
+### 📊 Propriétés Fondamentales
+
+| **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
+|---|---|---|
+| **Ensemble de Définition** | $\mathbb{R}$ | Définie partout |
+| **Ensemble Image** | $[-1, 1]$ | Valeurs bornées |
+| **Parité** | Paire | $\cos(-x) = \cos(x)$ |
+| **Périodicité** | Oui - période $2\pi$ | $\cos(x + 2\pi) = \cos(x)$ |
+| **Continuité** | Oui - partout | Fonction continue |
+| **Dérivabilité** | Oui - partout | Fonction dérivable |
+| **Limites** | $\lim_{x \to \pm\infty} \cos(x)$ n'existe pas | Oscille entre -1 et 1 |
+| **Zéros/Racines** | $\cos(x) = 0 \iff x = \frac{\pi}{2} + k\pi$ | Zéros aux multiples de π/2 |
+
+---
+
+### 📐 Propriétés Algébriques
+
+| **Opération** | **Formule** | **Condition** |
+|---|---|---|
+| **Addition** | $\cos(a+b) = \cos a \cos b - \sin a \sin b$ | $a, b \in \mathbb{R}$ |
+| **Double angle** | $\cos(2x) = 2\cos^2(x) - 1$ | $x \in \mathbb{R}$ |
+| **Puissance** | $\cos^n(x)$ | $n \in \mathbb{N}$ |
+
+---
+
+### 🧮 Dérivée et Primitive
+
+#### Dérivée Simple
+
+| **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
+|---|---|---|
+| $\mathbf{\cos(x)}$ | $\mathbf{-\sin(x)}$ | $\mathbb{R}$ |
+
+#### Composée (Règle de la Chaîne)
+
+Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
+
+| **Fonction Composée** | **Dérivée** | **Condition** |
+|---|---|---|
+| $\mathbf{\cos(u)}$ | $\mathbf{-\sin(u) \cdot u'}$ | $u \in \mathbb{R}$ |
+
+**Exemple :** Soit $g(x) = \cos(2x)$.
+
+- $u(x) = 2x$
+- $u'(x) = 2$
+- Donc : $g'(x) = -2\sin(2x)$
+
+#### Primitive
+
+| **Fonction** | **Primitive** | **Domaine** |
+|---|---|---|
+| $\mathbf{\cos(x)}$ | $\mathbf{\sin(x) + C}$ | $\mathbb{R}$ |
+
+---
+
+### 🔄 Fonction Réciproque
+
+La fonction cosinus n'est pas injective sur $\mathbb{R}$.
+
+Pour définir une réciproque, on la restreint à l'intervalle $\mathbf{[0, \pi]}$, sur lequel elle est bijective.
+
+La fonction réciproque est **arccos**, notée $\arccos(x)$ :
+
+$$ \arccos(x) : [-1, 1] \to [0, \pi] $$
+
+Elle vérifie :
+$$ \forall x \in [0, \pi], \quad \cos(\arccos(x)) = x $$
+
+**Graphiquement :** Les courbes de $\cos$ et $\arccos$ sont symétriques par rapport à la droite $y = x$.
+
+---
+
+### 🌊 Développements et Séries
+
+#### Série de Taylor/Maclaurin
+
+$$ \cos(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \dots $$
+
+Cette série converge pour $x \in \mathbb{R}$.
+
+#### Formule d'Euler
+
+$$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
+
+---
+
+### 📈 Variations et Représentation Graphique
+
+#### Tableau de Variations
+
+| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| $\cos'(x)$ |  | + | 0 | - | 0 | + | 0 | - | 0 | + |  |
+| $\cos(x)$ |  | ↑ | 0 | ↓ | -1 | ↑ | 0 | ↓ | 1 | ↑ |  |
+
+#### Points Remarquables
+
+- **Extrema locaux** : Maximums en $x = 2k\pi$, minimums en $x = \pi + 2k\pi$
+- **Points d'inflexion** : Aux zéros de la dérivée seconde
+- **Asymptotes** : Aucune asymptote
+
+---
+
+### 🎯 Applications et Contextes
+
+Le cosinus est utilisé dans de nombreux domaines :
+
+**Domaines d'application :**
+- **Physique** : Analyse des ondes, mouvement harmonique
+- **Ingénierie** : Calculs de structures, traitement du signal
+- **Informatique** : Algorithmes de compression, traitement d'images
+
+**Modélisation :** Cette fonction permet de modéliser des phénomènes périodiques comme les ondes sonores ou lumineuses.
+
+### 💡 Remarques et Astuces
+
+> [!tip] Astuce de Calcul
+> Pour calculer $\cos(x)$, on peut utiliser le cercle trigonométrique et les angles remarquables.
+
+> [!warning] Attention
+> La fonction cosinus n'est pas injective sur $\mathbb{R}$, il faut donc la restreindre pour définir sa réciproque.
+
+> [!info] Rappel Important
+> La fonction cosinus est liée à la fonction sinus par la relation fondamentale : $\sin^2(x) + \cos^2(x) = 1$.
+
+#Fonction/Trigonometrique #Analyse #Mathématiques
+```
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=3]
+  % Axes
+  \draw[->] (-1.3,0) -- (1.3,0) node[right] {$x$};
+  \draw[->] (0,-1.3) -- (0,1.3) node[above] {$y$};
+
+  % Cercle
+  \draw[thick] (0,0) circle (1);
+
+  % Angle (exemple: 40 degrés)
+  \draw[very thick, red] (0.5,0) arc (0:40:0.5);
+  \node[red] at (0.6,0.2) {$\theta$};
+
+  % Point sur le cercle
+  \draw[thick, blue] (0,0) -- (0.766,0.643);
+  \fill[blue] (0.766,0.643) circle (0.03);
+  \node[blue, above right] at (0.766,0.643) {$M$};
+
+  % Projection pour cos (ligne verticale rouge)
+  \draw[very thick, red, dashed] (0.766,0) -- (0.766,0.643);
+
+  % Projection pour cos (ligne horizontale verte)
+  \draw[very thick, green!60!black] (0,0) -- (0.766,0);
+  \node[green!60!black, below] at (0.383,0) {$\cos(\theta)$};
+
+  % Projection pour sin
+  \draw[thick, orange] (0,0) -- (0,0.643);
+  \node[orange, left] at (0,0.32) {$\sin(\theta)$};
+
+  % Graduations
+  \node[below left] at (0,0) {$O$};
+  \node[below] at (1,0) {$1$};
+  \node[left] at (0,1) {$1$};
+\end{tikzpicture}
+\end{document}
+```
