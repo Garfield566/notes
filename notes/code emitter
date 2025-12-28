@@ -1,0 +1,81 @@
+import micropip
+await micropip.install('matplotlib')
+await micropip.install('numpy')
+import matplotlib.pyplot as plt
+import numpy as np
+
+plt.clf()
+
+# THEME SETUP
+def apply_dark_theme():
+    plt.rcParams.update({
+        'figure.facecolor': '#181926', # Background Color
+        'axes.facecolor': '#181926',
+        'axes.edgecolor': '#c2c2c4', # Axes Color
+        'axes.labelcolor': '#c2c2c4',
+        'xtick.color': '#c2c2c4',
+        'ytick.color': '#c2c2c4',
+        'grid.color': '#c2c2c4',
+        'text.color': '#c2c2c4',
+        'axes.titlecolor': '#c2c2c4',
+        'toolbar': 'None'
+    })
+
+# AXES STYLING
+def style_axes(ax, xlim, ylim, zlim):
+    ax.set_xlim(xlim)
+    ax.set_ylim(ylim)
+    ax.set_zlim(zlim)
+    ax.xaxis.pane.set_facecolor('#181926')
+    ax.yaxis.pane.set_facecolor('#181926')
+    ax.zaxis.pane.set_facecolor('#181926')
+    ax.xaxis.pane.set_edgecolor('#181926')
+    ax.yaxis.pane.set_edgecolor('#181926')
+    ax.zaxis.pane.set_edgecolor('#181926')
+    ax.set_xticks([]); ax.set_yticks([]); ax.set_zticks([])
+    ax.set_xticklabels([]); ax.set_yticklabels([]); ax.set_zticklabels([])
+    ax.set_xlabel(''); ax.set_ylabel(''); ax.set_zlabel('')
+    ax.set_title('')
+    ax.grid(False)
+
+# MAIN PLOT FUNCTION
+def plot_graph():
+    apply_dark_theme()
+    plt.clf()
+    fig = plt.figure()
+    ax = fig.add_subplot(projection='3d')
+    
+    xlim = (0, 2)
+    ylim = (0, 2)
+    zlim = (0, 4)
+
+    def f(x, y):
+        return ((np.sin(5*x)+np.sin(5*y))/2)+2.4
+
+    # Surface grid: from 0 to 2
+    x_surf = np.linspace(0, 2, 60)
+    y_surf = np.linspace(0, 2, 60)
+    X_surf, Y_surf = np.meshgrid(x_surf, y_surf)
+    Z_surf = f(X_surf, Y_surf)
+
+    # Line grid: from 0 to 1
+    x_line = np.linspace(0, 1, 30)
+    y_line = np.linspace(0, 1, 30)
+
+    # Project base plane under the surface (full surface area)
+    ax.plot_surface(X_surf, Y_surf, np.zeros_like(Z_surf), alpha=0.3, color='gray')
+
+    # Draw vertical lines only in the 0–1 range
+    for i in range(0, len(x_line), 4):
+        for j in range(0, len(y_line), 4):
+            xi, yj = x_line[i], y_line[j]
+            ax.plot([xi, xi], [yj, yj], [0, f(xi, yj)], color='gray', linewidth=0.5)
+
+    # Plot the full surface from 0 to 2
+    ax.plot_wireframe(X_surf, Y_surf, Z_surf, alpha=0.7, color='#8aadf4')
+
+    style_axes(ax, xlim, ylim, zlim)
+    plt.tight_layout()
+    plt.show()
+
+plot_graph()
