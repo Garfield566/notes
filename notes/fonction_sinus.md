@@ -1,19 +1,16 @@
-Voici un exemple concret de fiche fonction en utilisant la fonction exponentielle comme modèle. Vous pouvez adapter ce template pour d'autres fonctions en remplissant les sections correspondantes.
+Voici une fiche complète pour la fonction sinus, basée sur votre modèle :
 
 ---
 
-## 💡 Définition et Caractérisation
+# Fonction Sinus
 
-La **fonction exponentielle**, notée **$e^x$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$.
+La **fonction sinus**, notée **$\sin(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$.
 
-[DESCRIPTION DÉTAILLÉE DE LA FONCTION]
-La fonction exponentielle est la fonction qui, à tout réel $x$, associe $e^x$ où $e$ est la base des logarithmes naturels (environ 2,71828).
+Fonction trigonométrique fondamentale, elle représente le rapport entre l'ordonnée d'un point et la longueur du rayon dans le cercle unité.
 
-Elle est caractérisée par [PROPRIÉTÉ CARACTÉRISTIQUE PRINCIPALE].
-La fonction exponentielle est la seule fonction continue qui est égale à sa dérivée et qui vaut 1 en 0.
+Elle est caractérisée par sa périodicité et son comportement oscillatoire.
 
-$$[FORMULE DÉFINITION PRINCIPALE]$$
-$e^x = \sum_{n=0}^{+\infty} \frac{x^n}{n!}$ (développement en série)
+$$ \sin(x) = \text{ordonnée du point sur le cercle unité d'angle } x \text{ (en radians)} $$
 
 ---
 
@@ -21,14 +18,14 @@ $e^x = \sum_{n=0}^{+\infty} \frac{x^n}{n!}$ (développement en série)
 
 | **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
 |---|---|---|
-| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout réel. |
-| **Ensemble Image** | $]0, +\infty[$ | La fonction exponentielle est toujours positive. |
-| **Parité** | Ni paire ni impaire | $e^{-x} = \frac{1}{e^x}$ |
-| **Périodicité** | Non périodique | La fonction croît indéfiniment. |
-| **Continuité** | Continue sur $\mathbb{R}$ | La fonction est continue partout. |
-| **Dérivabilité** | Dérivable sur $\mathbb{R}$ | $e' = e$ |
-| **Limites** | $\lim_{x \to -\infty} e^x = 0$ et $\lim_{x \to +\infty} e^x = +\infty$ | La fonction tend vers 0 à gauche et vers l'infini à droite. |
-| **Zéros/Racines** | $e^x = 0 \iff x = -\infty$ | La fonction n'a pas de racine réelle. |
+| **Ensemble de Définition** | $\mathbb{R}$ | Définie partout |
+| **Ensemble Image** | $[-1, 1]$ | Valeurs bornées |
+| **Parité** | Impaire | $\sin(-x) = -\sin(x)$ |
+| **Périodicité** | Oui - période $2\pi$ | $\sin(x + 2\pi) = \sin(x)$ |
+| **Continuité** | Oui partout | Fonction continue |
+| **Dérivabilité** | Oui partout | Fonction dérivable |
+| **Limites** | $\lim_{x \to \pm\infty} \sin(x) = \text{oscille entre } -1 \text{ et } 1$ | Pas de limite finie |
+| **Zéros/Racines** | $\sin(x) = 0 \iff x = k\pi, k \in \mathbb{Z}$ | Zéros aux multiples de $\pi$ |
 
 ---
 
@@ -36,9 +33,9 @@ $e^x = \sum_{n=0}^{+\infty} \frac{x^n}{n!}$ (développement en série)
 
 | **Opération** | **Formule** | **Condition** |
 |---|---|---|
-| **Produit** | $e^{a+b} = e^a \cdot e^b$ | $a, b \in \mathbb{R}$ |
-| **Puissance** | $e^{a \cdot b} = (e^a)^b$ | $a, b \in \mathbb{R}$ |
-| **Inverse** | $e^{-a} = \frac{1}{e^a}$ | $a \in \mathbb{R}$ |
+| **Formule d'addition** | $\sin(a+b) = \sin a \cos b + \cos a \sin b$ | $a, b \in \mathbb{R}$ |
+| **Formule de duplication** | $\sin(2x) = 2 \sin x \cos x$ | $x \in \mathbb{R}$ |
+| **Formule de Moivre** | $\sin^n(x) = \frac{1}{2^{n-1}} \sum_{k=0}^{\lfloor (n-1)/2 \rfloor} (-1)^k \binom{n}{2k+1} \cos^{n-2k-1}(x)$ | $n \in \mathbb{N}$ |
 
 ---
 
@@ -48,42 +45,44 @@ $e^x = \sum_{n=0}^{+\infty} \frac{x^n}{n!}$ (développement en série)
 
 | **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
 |---|---|---|
-| $\mathbf{e^x}$ | $\mathbf{e^x}$ | $\mathbb{R}$ |
+| $\sin(x)$ | $\cos(x)$ | $\mathbb{R}$ |
 
 #### Composée (Règle de la Chaîne)
 
-Si $u(x)$ est une fonction dérivable [CONDITIONS SUR u], on applique la règle de la chaîne :
+Si $u(x)$ est dérivable, alors :
 
 | **Fonction Composée** | **Dérivée** | **Condition** |
 |---|---|---|
-| $\mathbf{e^{u(x)}}$ | $\mathbf{e^{u(x)} \cdot u'(x)}$ | $u$ dérivable sur $\mathbb{R}$ |
+| $\sin(u(x))$ | $\cos(u(x)) \cdot u'(x)$ | $u$ dérivable |
 
-**Exemple :** Soit $g(x) = e^{2x}$.
+**Exemple :** Soit $g(x) = \sin(x^2)$.
 
-- $u(x) = 2x$
-- $u'(x) = 2$
-- Donc : $g'(x) = 2e^{2x}$
+- $u(x) = x^2$
+- $u'(x) = 2x$
+- Donc : $g'(x) = 2x \cos(x^2)$
 
 #### Primitive
 
 | **Fonction** | **Primitive** | **Domaine** |
 |---|---|---|
-| $\mathbf{e^x}$ | $\mathbf{e^x + C}$ | $\mathbb{R}$ |
+| $\sin(x)$ | $-\cos(x) + C$ | $\mathbb{R}$ |
 
 ---
 
 ### 🔄 Fonction Réciproque
 
-La fonction exponentielle est injective sur $\mathbb{R}$.
+La fonction sinus est **non injective** sur $\mathbb{R}$.
 
-La fonction réciproque est la **fonction logarithme népérien**, notée $\ln$ :
+Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[-\frac{\pi}{2}, \frac{\pi}{2}]}$, sur lequel elle est bijective.
 
-$$\ln : ]0, +\infty[ \to \mathbb{R}$$
+La fonction réciproque est **l'arc sinus**, notée $\arcsin$ :
+
+$$ \arcsin : [-1, 1] \to \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] $$
 
 Elle vérifie :
-$$\forall x > 0, \quad \ln(e^x) = x$$
+$$ \forall x \in \left[-\frac{\pi}{2}, \frac{\pi}{2}\right], \quad \sin(\arcsin(x)) = x $$
 
-**Graphiquement :** Les courbes de $e^x$ et $\ln(x)$ sont symétriques par rapport à la droite $y = x$.
+**Graphiquement :** Les courbes de $\sin$ et $\arcsin$ sont symétriques par rapport à la droite $y = x$.
 
 ---
 
@@ -91,13 +90,13 @@ $$\forall x > 0, \quad \ln(e^x) = x$$
 
 #### Série de Taylor/Maclaurin
 
-$$e^x = \sum_{n=0}^{+\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots$$
+$$ \sin(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} = x - \frac{x^3}{6} + \frac{x^5}{120} - \dots $$
 
 Cette série converge pour $x \in \mathbb{R}$.
 
-#### Formule d'Euler (si applicable)
+#### Formule d'Euler
 
-$$e^{i\theta} = \cos(\theta) + i \sin(\theta)$$
+$$ \sin(x) = \frac{e^{ix} - e^{-ix}}{2i} $$
 
 ---
 
@@ -105,43 +104,43 @@ $$e^{i\theta} = \cos(\theta) + i \sin(\theta)$$
 
 #### Tableau de Variations
 
-| $x$ | $-\infty$ |  | $0$ |  | $+\infty$ |
-|---|---|---|---|---|---|
-| $f'(x)$ |  | $+$ |  | $+$ |  |
-| $f(x)$ | $0$ | $\nearrow$ | $1$ | $\nearrow$ | $+\infty$ |
+| $x$ | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $2\pi$ |
+|---|---|---|---|---|---|---|---|
+| $\sin'(x) = \cos(x)$ | 0 | + | 0 | - | 0 | + | 0 |
+| $\sin(x)$ | -1 | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ | 1 |
 
 #### Points Remarquables
 
-- **Extrema locaux** : Aucun.
-- **Points d'inflexion** : Aucun.
-- **Asymptotes** :
-  - Horizontale : $y = 0$ (en $-\infty$).
+- **Extrema locaux** : $(k\pi + \frac{\pi}{2}, (-1)^k)$
+- **Points d'inflexion** : $(k\pi, 0)$
+- **Asymptotes** : Aucune
 
 ---
 
 ### 🎯 Applications et Contextes
 
-[DESCRIPTION DES APPLICATIONS PRATIQUES]
-La fonction exponentielle modélise des phénomènes de croissance ou décroissance exponentielle, comme la radioactivité, la croissance bactérienne, ou les intérêts composés en finance.
+La fonction sinus est omniprésente en physique, ingénierie et mathématiques.
 
 **Domaines d'application :**
-- **Biologie** : Croissance de populations.
-- **Physique** : Décroissance radioactive.
-- **Finance** : Calcul des intérêts composés.
+- **Physique** : Modélisation des ondes (lumière, son)
+- **Ingénierie** : Analyse des circuits électriques (AC)
+- **Mathématiques** : Résolution d'équations différentielles
 
-**Modélisation :** Cette fonction permet de modéliser des phénomènes où la variation est proportionnelle à la quantité présente.
+**Modélisation :** Cette fonction permet de modéliser tout phénomène périodique.
+
+---
 
 ### 💡 Remarques et Astuces
 
 > [!tip] Astuce de Calcul
-> Pour calculer $e^{a+b}$, on peut utiliser la propriété $e^{a+b} = e^a \cdot e^b$.
+> Pour calculer $\sin(x)$ pour des angles non standards, utilisez les identités trigonométriques ou les séries de Taylor.
 
 > [!warning] Attention
-> La fonction exponentielle n'est pas périodique, contrairement aux fonctions trigonométriques.
+> La fonction sinus est périodique : ne pas oublier de considérer tous les angles possibles !
 
 > [!info] Rappel Important
-> La dérivée de $e^x$ est $e^x$ pour tout $x \in \mathbb{R}$.
+> $\sin(0) = 0$, $\sin(\frac{\pi}{2}) = 1$, $\sin(\pi) = 0$, $\sin(\frac{3\pi}{2}) = -1$
 
 ---
 
-#Fonction/Exponentielle #Analyse #Mathématiques
+#Fonction/Trigonométrique #Analyse #Périodique
