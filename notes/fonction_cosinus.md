@@ -20,14 +20,49 @@
 \end{document}
 ```
 
-[GRAPHIQUE TIKZ SERA INSÉRÉ ICI]
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=3]
+  % Axes
+  \draw[->] (-1.3,0) -- (1.3,0) node[right] {$x$};
+  \draw[->] (0,-1.3) -- (0,1.3) node[above] {$y$};
+
+  % Cercle
+  \draw[thick] (0,0) circle (1);
+
+  % Angle (exemple: 40 degrés)
+  \draw[very thick, red] (0.5,0) arc (0:40:0.5);
+  \node[red] at (0.6,0.2) {$\theta$};
+
+  % Point sur le cercle
+  \draw[thick, blue] (0,0) -- (0.766,0.643);
+  \fill[blue] (0.766,0.643) circle (0.03);
+  \node[blue, above right] at (0.766,0.643) {$M$};
+
+  % Projection pour cos (ligne verticale rouge)
+  \draw[very thick, red, dashed] (0.766,0) -- (0.766,0.643);
+
+  % Projection pour cos (ligne horizontale verte)
+  \draw[very thick, green!60!black] (0,0) -- (0.766,0);
+  \node[green!60!black, below] at (0.383,0) {$\cos(\theta)$};
+
+  % Projection pour sin
+  \draw[thick, orange] (0,0) -- (0,0.643);
+  \node[orange, left] at (0,0.32) {$\sin(\theta)$};
+
+  % Graduations
+  \node[below left] at (0,0) {$O$};
+  \node[below] at (1,0) {$1$};
+  \node[left] at (0,1) {$1$};
+\end{tikzpicture}
+\end{document}
+```
+
 ## 💡 Définition et Caractérisation
 
 La **fonction cosinus**, notée **$\cos(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$ (ensemble des nombres réels).
 
-Le cosinus d'un angle est défini comme le rapport entre la longueur de l'adjacent et l'hypoténuse dans un triangle rectangle. En analyse, il s'agit d'une fonction périodique, continue et dérivable sur $\mathbb{R}$.
-
-Elle est caractérisée par sa périodicité de $2\pi$ et sa symétrie paire.
+Elle représente la projection sur l'axe des abscisses d'un point $M$ se déplaçant sur le cercle unité de centre $O$ et d'angle $\theta$ avec l'axe des abscisses. Cette fonction est périodique de période $2\pi$ et est une fonction paire, c'est-à-dire qu'elle vérifie $\cos(-x) = \cos(x)$.
 
 $$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
 
@@ -36,14 +71,14 @@ $$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
 
 | **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
 |---|---|---|
-| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel |
-| **Ensemble Image** | $[-1, 1]$ | Le cosinus prend ses valeurs entre -1 et 1 |
+| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel. |
+| **Ensemble Image** | $[-1, 1]$ | La fonction atteint son maximum en 1 et son minimum en -1. |
 | **Parité** | Paire | $\cos(-x) = \cos(x)$ |
 | **Périodicité** | Oui - période $2\pi$ | $\cos(x + 2\pi) = \cos(x)$ |
-| **Continuité** | Oui - partout continue | La fonction n'a pas de discontinuité |
-| **Dérivabilité** | Oui - partout dérivable | La dérivée est $-\sin(x)$ |
-| **Limites** | $\lim_{x \to \infty} \cos(x)$ n'existe pas | La fonction oscille entre -1 et 1 |
-| **Zéros/Racines** | $\cos(x) = 0 \iff x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}$ | Les zéros sont aux multiples de $\frac{\pi}{2}$ |
+| **Continuité** | Oui - partout continue | La fonction ne présente aucune discontinuité. |
+| **Dérivabilité** | Oui - partout dérivable | La dérivée est $-\sin(x)$. |
+| **Limites** | $\lim_{x \to \infty} \cos(x)$ n'existe pas | La fonction oscille entre -1 et 1. |
+| **Zéros/Racines** | $\cos(x) = 0 \iff x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}$ | Les racines sont situées aux multiples de $\frac{\pi}{2}$. |
 
 ---
 ### 📐 Propriétés Algébriques
@@ -86,7 +121,7 @@ Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
 ---
 ### 🔄 Fonction Réciproque
 
-La fonction cosinus n'est pas injective sur $\mathbb{R}$. Pour définir une réciproque, on la restreint à l'intervalle $\mathbf{[0, \pi]}$, sur lequel elle est bijective.
+La fonction cosinus n'est pas injective sur $\mathbb{R}$. Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[0, \pi]}$, sur lequel elle est bijective.
 
 La fonction réciproque est **l'arccosinus**, notée $\arccos(x)$ :
 
@@ -95,7 +130,7 @@ $$ \arccos(x) : [-1, 1] \to [0, \pi] $$
 Elle vérifie :
 $$ \forall x \in [-1, 1], \quad \cos(\arccos(x)) = x $$
 
-**Graphiquement :** Les courbes de $\cos$ et $\arccos$ sont symétriques par rapport à la droite $y = x$.
+**Graphiquement :** Les courbes de $\cos(x)$ et $\arccos(x)$ sont symétriques par rapport à la droite $y = x$.
 
 ---
 ### 🌊 Développements et Séries
@@ -115,40 +150,39 @@ $$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
 
 #### Tableau de Variations
 
-| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| $\cos'(x)$ |  | + |  | - |  | + |  | - |  | + |  |
-| $\cos(x)$ |  | $\nearrow$ | 0 | $\searrow$ | -1 | $\nearrow$ | 0 | $\searrow$ | 1 | $\nearrow$ | 0 |
+| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\pi$ |  | $-\frac{\pi}{2}$ |  | $0$ |  | $\frac{\pi}{2}$ |  | $\pi$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| $\cos'(x)$ |  | + |  | - |  | + |  | - |  | + |  | - |  | + |  | - |  |
+| $\cos(x)$ |  | 1 |  | 0 |  | -1 |  | 0 |  | 1 |  | 0 |  | -1 |  | 0 |  | 1 |
 
 #### Points Remarquables
 
-- **Extrema locaux** : Maximums en $x = 2k\pi$, minimums en $x = (2k+1)\pi$
-- **Points d'inflexion** : Aux zéros de $\cos(x)$
-- **Asymptotes** : Aucune asymptote
+- **Extrema locaux** : $(0, 1)$, $(\pi, -1)$, etc.
+- **Points d'inflexion** : $(\frac{\pi}{2}, 0)$, $(\frac{3\pi}{2}, 0)$, etc.
+- **Asymptotes** : Aucune asymptote.
 
 ---
 ### 🎯 Applications et Contextes
 
-Le cosinus est omniprésent en mathématiques et en physique :
+La fonction cosinus est omniprésente en mathématiques et en physique. Elle permet de modéliser des phénomènes périodiques comme les ondes, les oscillations mécaniques, et les signaux électriques.
 
 **Domaines d'application :**
-- **Trigonométrie** : Calculs dans les triangles
-- **Physique ondulatoire** : Modélisation des ondes
-- **Analyse harmonique** : Décomposition en séries de Fourier
-- **Informatique graphique** : Calculs de rotations
+- **Trigonométrie** : Résolution de triangles, calculs d'angles.
+- **Physique ondulatoire** : Description des ondes lumineuses et sonores.
+- **Analyse harmonique** : Décomposition de signaux en séries de Fourier.
 
-**Modélisation :** Le cosinus permet de modéliser des phénomènes périodiques comme les ondes sonores, les mouvements oscillatoires, et les variations saisonnières.
+**Modélisation :** La fonction cosinus permet de modéliser des phénomènes périodiques comme les marées, les oscillations d'un pendule, ou les variations de température saisonnières.
 
 ---
 ### 💡 Remarques et Astuces
 
 > [!tip] Astuce de Calcul
-> Pour calculer $\cos(x)$ pour un angle en degrés, utilisez la conversion $x_{rad} = x_{deg} \times \frac{\pi}{180}$.
+> Pour calculer $\cos(x)$ pour un angle donné, on peut utiliser le cercle trigonométrique et les valeurs remarquables (0, $\frac{\pi}{6}$, $\frac{\pi}{4}$, $\frac{\pi}{3}$, $\frac{\pi}{2}$).
 
 > [!warning] Attention
-> Ne confondez pas $\cos(x)$ avec $\cosh(x)$ (cosinus hyperbolique).
+> La fonction cosinus n'est pas injective sur $\mathbb{R}$, il faut donc la restreindre pour définir une réciproque.
 
 > [!info] Rappel Important
-> La dérivée de $\cos(x)$ est $-\sin(x)$, et sa primitive est $\sin(x) + C$.
+> La fonction cosinus est une fonction paire, ce qui signifie que $\cos(-x) = \cos(x)$.
 
-#Fonction/Trigonométrique #Analyse #Mathématiques
+#Fonction/Trigonométrique #Mathématiques #Analyse
