@@ -20,173 +20,6 @@
 \end{document}
 ```
 
-Je détecte qu'il s'agit d'une **fonction mathématique** (fonction sinus).
-
-Je vais utiliser le **Template Math avec TikZ** pour créer cette note. Je vais maintenant rechercher les informations nécessaires sur la fonction sinus.
-
----
-
-J'ai recherché sur Wikipedia et j'ai trouvé les informations suivantes sur la fonction sinus :
-
-1. **Définition** : La fonction sinus est une fonction trigonométrique définie sur ℝ, périodique de période 2π, qui associe à un angle la longueur du côté opposé dans un triangle rectangle.
-
-2. **Propriétés** :
-   - Domaine : ℝ
-   - Image : [-1, 1]
-   - Parité : Impaire (sin(-x) = -sin(x))
-   - Périodicité : 2π
-   - Zéros : sin(x) = 0 ⇒ x = kπ, k ∈ ℤ
-
-3. **Dérivée** : La dérivée de sin(x) est cos(x)
-4. **Primitive** : La primitive de sin(x) est -cos(x) + C
-5. **Série de Taylor** : sin(x) = x - x³/3! + x⁵/5! - ...
-
-6. **Applications** : Ondes, mouvements oscillatoires, analyse de Fourier, etc.
-
----
-
-Voici la note complète sur la fonction sinus :
-
-```markdown
-[GRAPHIQUE TIKZ SERA INSÉRÉ ICI]
-
-## 💡 Définition et Caractérisation
-
-La **fonction sinus**, notée **$\sin(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$.
-
-La fonction sinus est une fonction trigonométrique qui associe à un angle la longueur du côté opposé dans un triangle rectangle. Elle est définie par :
-$$ \sin(x) = \frac{\text{opposé}}{\text{hypotenuse}} $$
-
----
-
-### 📊 Propriétés Fondamentales
-
-| **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
-|---|---|---|
-| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel |
-| **Ensemble Image** | $[-1, 1]$ | La fonction est bornée |
-| **Parité** | Impaire | $\sin(-x) = -\sin(x)$ |
-| **Périodicité** | Oui - période $2\pi$ | $\sin(x + 2\pi) = \sin(x)$ |
-| **Continuité** | Oui | La fonction est continue sur $\mathbb{R}$ |
-| **Dérivabilité** | Oui | La fonction est dérivable sur $\mathbb{R}$ |
-| **Limites** | $\lim_{x \to \pm\infty} \sin(x)$ n'existe pas | La fonction oscille entre -1 et 1 |
-| **Zéros/Racines** | $\sin(x) = 0 \iff x = k\pi, k \in \mathbb{Z}$ | La fonction s'annule sur les multiples de $\pi$ |
-
----
-
-### 📐 Propriétés Algébriques
-
-| **Opération** | **Formule** | **Condition** |
-|---|---|---|
-| **Addition** | $\sin(a+b) = \sin(a)\cos(b) + \cos(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
-| **Double angle** | $\sin(2x) = 2\sin(x)\cos(x)$ | $x \in \mathbb{R}$ |
-| **Formule de Pythagore** | $\sin^2(x) + \cos^2(x) = 1$ | $x \in \mathbb{R}$ |
-
----
-
-### 🧮 Dérivée et Primitive
-
-#### Dérivée Simple
-
-| **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
-|---|---|---|
-| $\mathbf{\sin(x)}$ | $\mathbf{\cos(x)}$ | $\mathbb{R}$ |
-
-#### Composée (Règle de la Chaîne)
-
-Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
-
-| **Fonction Composée** | **Dérivée** | **Condition** |
-|---|---|---|
-| $\mathbf{\sin(u)}$ | $\mathbf{\cos(u) \cdot u'}$ | $u$ dérivable |
-
-**Exemple :** Soit $g(x) = \sin(x^2)$.
-
-- $u(x) = x^2$
-- $u'(x) = 2x$
-- Donc : $g'(x) = 2x\cos(x^2)$
-
-#### Primitive
-
-| **Fonction** | **Primitive** | **Domaine** |
-|---|---|---|
-| $\mathbf{\sin(x)}$ | $\mathbf{-\cos(x) + C}$ | $\mathbb{R}$ |
-
----
-
-### 🔄 Fonction Réciproque
-
-La fonction sinus n'est pas injective sur $\mathbb{R}$. Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[-\frac{\pi}{2}, \frac{\pi}{2}]}$, sur lequel elle est bijective.
-
-La fonction réciproque est **arcsin**, notée $\arcsin$ :
-
-$$ \arcsin : [-1, 1] \to \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] $$
-
-Elle vérifie :
-$$ \forall x \in \left[-\frac{\pi}{2}, \frac{\pi}{2}\right], \quad \arcsin(\sin(x)) = x $$
-
-**Graphiquement :** Les courbes de $\sin$ et $\arcsin$ sont symétriques par rapport à la droite $y = x$.
-
----
-
-### 🌊 Développements et Séries
-
-#### Série de Taylor/Maclaurin
-
-$$ \sin(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \dots $$
-
-Cette série converge pour $x \in \mathbb{R}$.
-
-#### Formule d'Euler
-
-$$ \sin(x) = \frac{e^{ix} - e^{-ix}}{2i} $$
-
----
-
-### 📈 Variations et Représentation Graphique
-
-#### Tableau de Variations
-
-| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| $\sin'(x)$ |  | + |  | - |  | + |  | - |  | + |  |
-| $\sin(x)$ |  | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ |  |
-
-#### Points Remarquables
-
-- **Extrema locaux** : $(k\pi + \frac{\pi}{2}, (-1)^k)$ pour $k \in \mathbb{Z}$
-- **Points d'inflexion** : $(k\pi, 0)$ pour $k \in \mathbb{Z}$
-- **Asymptotes** : Aucune asymptote
-
----
-
-### 🎯 Applications et Contextes
-
-La fonction sinus est utilisée pour modéliser des phénomènes périodiques comme les ondes, les mouvements oscillatoires, et en analyse de Fourier pour décomposer des signaux.
-
-**Domaines d'application :**
-- **Physique** : Modélisation des ondes sonores, lumineuses
-- **Ingénierie** : Analyse des vibrations mécaniques
-- **Informatique** : Algorithmes de traitement du signal
-
-**Modélisation :** Cette fonction permet de modéliser des phénomènes oscillatoires comme les ondes sonores ou les mouvements pendulaires.
-
-### 💡 Remarques et Astuces
-
-> [!tip] Astuce de Calcul
-> Pour calculer $\sin(x)$ pour des angles particuliers, utilisez les valeurs mémorisées comme $\sin(0) = 0$, $\sin(\frac{\pi}{2}) = 1$, etc.
-
-> [!warning] Attention
-> La fonction sinus n'est pas injective sur $\mathbb{R}$, il faut la restreindre pour définir sa réciproque.
-
-> [!info] Rappel Important
-> La fonction sinus est périodique de période $2\pi$, ce qui signifie qu'elle se répète tous les $2\pi$ radians.
-
-#Fonction/Trigonometrique #Analyse #Mathématiques
-```
-
-Pour le graphique TikZ, je vais utiliser le **cercle trigonométrique** comme référence, car il est particulièrement adapté pour illustrer la fonction sinus. Voici le code TikZ à insérer :
-
 ```tikz
 \begin{document}
 \begin{tikzpicture}[scale=3]
@@ -225,4 +58,134 @@ Pour le graphique TikZ, je vais utiliser le **cercle trigonométrique** comme r�
 \end{document}
 ```
 
-Cette note est maintenant complète et structurée selon le template fourni. Elle contient toutes les informations essentielles sur la fonction sinus, avec des explications détaillées, des propriétés mathématiques, des exemples et des applications pratiques.
+## 💡 Définition et Caractérisation
+
+La **fonction sinus**, notée **$\sin(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$ (ensemble des nombres réels).
+
+Elle est caractérisée par sa périodicité de $2\pi$ et sa nature impaire. La fonction sinus est une fonction trigonométrique fondamentale qui associe à un angle $\theta$ la coordonnée verticale du point correspondant sur le cercle unité.
+
+$$ \sin(x) = \text{coordonnée verticale du point sur le cercle unité d'angle } x $$
+
+Cette fonction est essentielle en trigonométrie, en physique des ondes, et en analyse mathématique.
+
+---
+### 📊 Propriétés Fondamentales
+
+| **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
+|---|---|---|
+| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel |
+| **Ensemble Image** | $[-1, 1]$ | La fonction est bornée entre -1 et 1 |
+| **Parité** | Impaire | $\sin(-x) = -\sin(x)$ |
+| **Périodicité** | $2\pi$ | $\sin(x + 2\pi) = \sin(x)$ |
+| **Continuité** | Continue partout | La fonction est continue sur $\mathbb{R}$ |
+| **Dérivabilité** | Dérivable partout | La dérivée est $\cos(x)$ |
+| **Limites** | $\lim_{x \to \pm\infty} \sin(x)$ n'existe pas | La fonction oscille entre -1 et 1 |
+| **Zéros/Racines** | $\sin(x) = 0 \iff x = k\pi, k \in \mathbb{Z}$ | Les zéros sont les multiples de $\pi$ |
+
+---
+### 📐 Propriétés Algébriques
+
+| **Opération** | **Formule** | **Condition** |
+|---|---|---|
+| **Addition** | $\sin(a + b) = \sin(a)\cos(b) + \cos(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
+| **Soustraction** | $\sin(a - b) = \sin(a)\cos(b) - \cos(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
+| **Double Angle** | $\sin(2x) = 2\sin(x)\cos(x)$ | $x \in \mathbb{R}$ |
+
+---
+### 🧮 Dérivée et Primitive
+
+#### Dérivée Simple
+
+| **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
+|---|---|---|
+| $\mathbf{\sin(x)}$ | $\mathbf{\cos(x)}$ | $\mathbb{R}$ |
+
+#### Composée (Règle de la Chaîne)
+
+Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
+
+| **Fonction Composée** | **Dérivée** | **Condition** |
+|---|---|---|
+| $\mathbf{\sin(u(x))}$ | $\mathbf{\cos(u(x)) \cdot u'(x)}$ | $u(x) \in \mathbb{R}$ |
+
+**Exemple :** Soit $g(x) = \sin(3x^2)$.
+
+- $u(x) = 3x^2$
+- $u'(x) = 6x$
+- Donc : $g'(x) = \cos(3x^2) \cdot 6x = 6x\cos(3x^2)$
+
+#### Primitive
+
+| **Fonction** | **Primitive** | **Domaine** |
+|---|---|---|
+| $\mathbf{\sin(x)}$ | $\mathbf{-\cos(x) + C}$ | $\mathbb{R}$ |
+
+---
+### 🔄 Fonction Réciproque
+
+La fonction sinus est **non injective** sur $\mathbb{R}$. Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[-\frac{\pi}{2}, \frac{\pi}{2}]}$, sur lequel elle est bijective.
+
+La fonction réciproque est **arcsin**, notée $\arcsin(x)$ :
+
+$$ \arcsin(x) : [-1, 1] \to \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] $$
+
+Elle vérifie :
+$$ \forall x \in \left[-\frac{\pi}{2}, \frac{\pi}{2}\right], \quad \sin(\arcsin(x)) = x $$
+
+**Graphiquement :** Les courbes de $\sin(x)$ et $\arcsin(x)$ sont symétriques par rapport à la droite $y = x$.
+
+---
+### 🌊 Développements et Séries
+
+#### Série de Taylor/Maclaurin
+
+$$ \sin(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} = x - \frac{x^3}{6} + \frac{x^5}{120} - \dots $$
+
+Cette série converge pour $x \in \mathbb{R}$.
+
+#### Formule d'Euler
+
+$$ \sin(x) = \frac{e^{ix} - e^{-ix}}{2i} $$
+
+---
+### 📈 Variations et Représentation Graphique
+
+#### Tableau de Variations
+
+| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| $\sin'(x)$ |  | + |  | - |  | + |  | - |  | + |  |
+| $\sin(x)$ |  | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ |  |
+
+#### Points Remarquables
+
+- **Extrema locaux** : $(k\pi + \frac{\pi}{2}, (-1)^k)$ pour $k \in \mathbb{Z}$
+- **Points d'inflexion** : $(k\pi, 0)$ pour $k \in \mathbb{Z}$
+- **Asymptotes** : Aucune asymptote
+
+---
+### 🎯 Applications et Contextes
+
+La fonction sinus est omniprésente en mathématiques et en sciences. Elle permet de modéliser des phénomènes périodiques comme les ondes sonores, les ondes lumineuses, et les mouvements oscillatoires.
+
+**Domaines d'application :**
+- **Trigonométrie** : Résolution de triangles, calculs d'angles.
+- **Physique ondulatoire** : Description des ondes sinusoïdales.
+- **Signal périodique** : Analyse des signaux électriques et acoustiques.
+- **Mécanique** : Étude des mouvements circulaires et harmoniques.
+
+**Modélisation :** La fonction sinus permet de modéliser des phénomènes comme les vibrations d'une corde de guitare, les ondes électromagnétiques, et les mouvements des pendules.
+
+---
+### 💡 Remarques et Astuces
+
+> [!tip] Astuce de Calcul
+> Pour calculer $\sin(x)$ pour un angle non standard, utilisez les identités trigonométriques comme $\sin^2(x) + \cos^2(x) = 1$.
+
+> [!warning] Attention
+> La fonction sinus n'est pas injective sur $\mathbb{R}$, il faut donc la restreindre pour définir une réciproque.
+
+> [!info] Rappel Important
+> La dérivée de $\sin(x)$ est $\cos(x)$, et sa primitive est $-\cos(x) + C$.
+
+#Fonction/Trigonométrique #Trigonométrie #Périodicité
