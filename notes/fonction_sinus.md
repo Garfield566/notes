@@ -20,172 +20,197 @@
 \end{document}
 ```
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=3]
-  % Axes
-  \draw[->] (-1.3,0) -- (1.3,0) node[right] {$x$};
-  \draw[->] (0,-1.3) -- (0,1.3) node[above] {$y$};
+## 💡 Qu'est-ce que la fonction sinus ?
 
-  % Cercle
-  \draw[thick] (0,0) circle (1);
+### Introduction
 
-  % Angle (exemple: 40 degrés)
-  \draw[very thick, red] (0.5,0) arc (0:40:0.5);
-  \node[red] at (0.6,0.2) {$\theta$};
+La fonction sinus apparaît naturellement en géométrie lorsque l'on étudie les triangles rectangles. Elle permet de relier les angles aux longueurs des côtés, ce qui est crucial pour résoudre des problèmes de mesure et de construction. En physique, elle modélise les phénomènes périodiques comme les ondes sonores ou les mouvements oscillatoires.
 
-  % Point sur le cercle
-  \draw[thick, blue] (0,0) -- (0.766,0.643);
-  \fill[blue] (0.766,0.643) circle (0.03);
-  \node[blue, above right] at (0.766,0.643) {$M$};
+Intuitivement, le sinus d'un angle dans un triangle rectangle représente la proportion entre la longueur du côté opposé à cet angle et la longueur de l'hypotenuse. C'est une mesure de "l'élévation" relative par rapport à l'angle.
 
-  % Projection pour cos (ligne verticale rouge)
-  \draw[very thick, red, dashed] (0.766,0) -- (0.766,0.643);
+### Définition(s)
 
-  % Projection pour cos (ligne horizontale verte)
-  \draw[very thick, green!60!black] (0,0) -- (0.766,0);
-  \node[green!60!black, below] at (0.383,0) {$\cos(\theta)$};
+> [!abstract] Définition géométrique (triangle rectangle)
+> Dans un triangle rectangle ABC avec angle droit en C, le sinus d'un angle α est le rapport entre la longueur du côté opposé (BC) et la longueur de l'hypotenuse (AB).
+>
+> $$\sin(\alpha) = \frac{\text{opposé}}{\text{hypotenuse}} = \frac{BC}{AB}$$
+>
+> **Illustration graphique (SI POSSIBLE):**
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[scale=2]
+>   % Triangle rectangle
+>   \draw[very thick] (0,0) -- (3,0) -- (3,2) -- cycle;
+>
+>   % Angle droit
+>   \draw (3,0) -- (2.8,0) -- (2.8,0.2) -- (3,0.2);
+>
+>   % Arc pour l'angle (en rouge)
+>   \draw[very thick, red] (0.6,0) arc (0:33.7:0.6);
+>   \node[red] at (0.8,0.15) {$\alpha$};
+>
+>   % Labels
+>   \node[below] at (1.5,0) {adjacent};
+>   \node[right] at (3,1) {opposé};
+>   \node[above left] at (1.5,1.2) {hypotenuse};
+>
+>   % Formule
+>   \node[below] at (1.5,-0.5) {$\sin(\alpha) = \frac{\text{opposé}}{\text{hypotenuse}}$};
+> \end{tikzpicture}
+> \end{document}
+> ```
 
-  % Projection pour sin
-  \draw[thick, orange] (0,0) -- (0,0.643);
-  \node[orange, left] at (0,0.32) {$\sin(\theta)$};
+> [!abstract] Définition analytique (cercle trigonométrique)
+> Sur le cercle trigonométrique de rayon 1, le sinus d'un angle θ est l'ordonnée du point M correspondant à cet angle.
+>
+> $$\sin(\theta) = y$$
+>
+> **Illustration graphique (SI POSSIBLE):**
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}[scale=3]
+>   % Axes
+>   \draw[->] (-1.3,0) -- (1.3,0) node[right] {$x$};
+>   \draw[->] (0,-1.3) -- (0,1.3) node[above] {$y$};
+>
+>   % Cercle
+>   \draw[thick] (0,0) circle (1);
+>
+>   % Angle (exemple: 40 degrés)
+>   \draw[very thick, red] (0.5,0) arc (0:40:0.5);
+>   \node[red] at (0.6,0.2) {$\theta$};
+>
+>   % Point sur le cercle
+>   \draw[thick, blue] (0,0) -- (0.766,0.643);
+>   \fill[blue] (0.766,0.643) circle (0.03);
+>   \node[blue, above right] at (0.766,0.643) {$M$};
+>
+>   % Projection pour cos (ligne verticale rouge)
+>   \draw[very thick, red, dashed] (0.766,0) -- (0.766,0.643);
+>
+>   % Projection pour cos (ligne horizontale verte)
+>   \draw[very thick, green!60!black] (0,0) -- (0.766,0);
+>   \node[green!60!black, below] at (0.383,0) {$\cos(\theta)$};
+>
+>   % Projection pour sin
+>   \draw[thick, orange] (0,0) -- (0,0.643);
+>   \node[orange, left] at (0,0.32) {$\sin(\theta)$};
+>
+>   % Graduations
+>   \node[below left] at (0,0) {$O$};
+>   \node[below] at (1,0) {$1$};
+>   \node[left] at (0,1) {$1$};
+> \end{tikzpicture}
+> \end{document}
+> ```
 
-  % Graduations
-  \node[below left] at (0,0) {$O$};
-  \node[below] at (1,0) {$1$};
-  \node[left] at (0,1) {$1$};
-\end{tikzpicture}
-\end{document}
-```
-
-## 💡 Définition et Caractérisation
-
-La **fonction sinus**, notée **$\sin(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$ (ensemble des nombres réels).
-
-Elle est caractérisée par sa périodicité de $2\pi$ et sa nature impaire. La fonction sinus est une fonction trigonométrique fondamentale qui associe à un angle $\theta$ la coordonnée verticale du point correspondant sur le cercle unité.
-
-$$ \sin(x) = \text{coordonnée verticale du point sur le cercle unité d'angle } x $$
-
-Cette fonction est essentielle en trigonométrie, en physique des ondes, et en analyse mathématique.
-
----
-### 📊 Propriétés Fondamentales
-
-| **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
-|---|---|---|
-| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel |
-| **Ensemble Image** | $[-1, 1]$ | La fonction est bornée entre -1 et 1 |
-| **Parité** | Impaire | $\sin(-x) = -\sin(x)$ |
-| **Périodicité** | $2\pi$ | $\sin(x + 2\pi) = \sin(x)$ |
-| **Continuité** | Continue partout | La fonction est continue sur $\mathbb{R}$ |
-| **Dérivabilité** | Dérivable partout | La dérivée est $\cos(x)$ |
-| **Limites** | $\lim_{x \to \pm\infty} \sin(x)$ n'existe pas | La fonction oscille entre -1 et 1 |
-| **Zéros/Racines** | $\sin(x) = 0 \iff x = k\pi, k \in \mathbb{Z}$ | Les zéros sont les multiples de $\pi$ |
-
----
-### 📐 Propriétés Algébriques
-
-| **Opération** | **Formule** | **Condition** |
-|---|---|---|
-| **Addition** | $\sin(a + b) = \sin(a)\cos(b) + \cos(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
-| **Soustraction** | $\sin(a - b) = \sin(a)\cos(b) - \cos(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
-| **Double Angle** | $\sin(2x) = 2\sin(x)\cos(x)$ | $x \in \mathbb{R}$ |
-
----
-### 🧮 Dérivée et Primitive
-
-#### Dérivée Simple
-
-| **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
-|---|---|---|
-| $\mathbf{\sin(x)}$ | $\mathbf{\cos(x)}$ | $\mathbb{R}$ |
-
-#### Composée (Règle de la Chaîne)
-
-Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
-
-| **Fonction Composée** | **Dérivée** | **Condition** |
-|---|---|---|
-| $\mathbf{\sin(u(x))}$ | $\mathbf{\cos(u(x)) \cdot u'(x)}$ | $u(x) \in \mathbb{R}$ |
-
-**Exemple :** Soit $g(x) = \sin(3x^2)$.
-
-- $u(x) = 3x^2$
-- $u'(x) = 6x$
-- Donc : $g'(x) = \cos(3x^2) \cdot 6x = 6x\cos(3x^2)$
-
-#### Primitive
-
-| **Fonction** | **Primitive** | **Domaine** |
-|---|---|---|
-| $\mathbf{\sin(x)}$ | $\mathbf{-\cos(x) + C}$ | $\mathbb{R}$ |
+Ces deux définitions sont équivalentes car le cercle trigonométrique est une généralisation du triangle rectangle où l'hypotenuse est toujours de longueur 1.
 
 ---
-### 🔄 Fonction Réciproque
 
-La fonction sinus est **non injective** sur $\mathbb{R}$. Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[-\frac{\pi}{2}, \frac{\pi}{2}]}$, sur lequel elle est bijective.
+## 🔍 Comment ça fonctionne ?
 
-La fonction réciproque est **arcsin**, notée $\arcsin(x)$ :
+### L'idée centrale
 
-$$ \arcsin(x) : [-1, 1] \to \left[-\frac{\pi}{2}, \frac{\pi}{2}\right] $$
+La fonction sinus est une fonction périodique qui oscille entre -1 et 1. Elle modélise parfaitement les phénomènes qui se répètent régulièrement comme les ondes, les mouvements pendulaires ou les variations saisonnières.
 
-Elle vérifie :
-$$ \forall x \in \left[-\frac{\pi}{2}, \frac{\pi}{2}\right], \quad \sin(\arcsin(x)) = x $$
+Prenons un exemple simple: si on considère un point tournant autour d'un cercle à vitesse constante, sa position verticale (ordonnée) suit exactement une fonction sinus par rapport à l'angle parcouru.
 
-**Graphiquement :** Les courbes de $\sin(x)$ et $\arcsin(x)$ sont symétriques par rapport à la droite $y = x$.
+### Domaine et contraintes
 
----
-### 🌊 Développements et Séries
+La fonction sinus est définie pour tous les nombres réels, c'est-à-dire sur l'ensemble ℝ. Cela vient du fait que l'on peut définir un angle pour n'importe quel nombre réel en utilisant la notion d'angle orienté.
 
-#### Série de Taylor/Maclaurin
-
-$$ \sin(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} = x - \frac{x^3}{6} + \frac{x^5}{120} - \dots $$
-
-Cette série converge pour $x \in \mathbb{R}$.
-
-#### Formule d'Euler
-
-$$ \sin(x) = \frac{e^{ix} - e^{-ix}}{2i} $$
+Cependant, pour des angles supérieurs à 2π (360°), la fonction sinus se répète, ce qui est la manifestation mathématique de sa périodicité.
 
 ---
-### 📈 Variations et Représentation Graphique
 
-#### Tableau de Variations
+## 📊 Propriétés principales
 
-| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\frac{\pi}{2}$ |  | $\frac{\pi}{2}$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| $\sin'(x)$ |  | + |  | - |  | + |  | - |  | + |  |
-| $\sin(x)$ |  | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ | 1 | $\searrow$ | -1 | $\nearrow$ |  |
+### Périodicité
 
-#### Points Remarquables
+La fonction sinus se répète tous les 2π radians (360°). C'est pourquoi on dit qu'elle est périodique de période 2π.
 
-- **Extrema locaux** : $(k\pi + \frac{\pi}{2}, (-1)^k)$ pour $k \in \mathbb{Z}$
-- **Points d'inflexion** : $(k\pi, 0)$ pour $k \in \mathbb{Z}$
-- **Asymptotes** : Aucune asymptote
+$$\sin(\theta + 2\pi) = \sin(\theta)$$
+
+**Pourquoi ?** Parce que faire un tour complet autour du cercle trigonométrique ramène au même point de départ.
+
+**Conséquence pratique:** On peut réduire n'importe quel angle modulo 2π pour simplifier les calculs.
+
+### Symétrie
+
+La fonction sinus est impaire, ce qui signifie qu'elle est symétrique par rapport à l'origine.
+
+$$\sin(-\theta) = -\sin(\theta)$$
+
+**Pourquoi ?** Sur le cercle trigonométrique, un angle négatif correspond à un angle positif dans le sens inverse, ce qui inverse la position verticale.
+
+### Valeurs remarquables
+
+| Angle (radians) | Angle (degrés) | Valeur du sinus | Pourquoi c'est intéressant |
+|-----------------|----------------|-----------------|-----------------------------|
+| 0               | 0°             | 0               | Point de départ sur l'axe horizontal |
+| π/6             | 30°            | 1/2             | Triangle équilatéral divisé |
+| π/4             | 45°            | √2/2            | Angle bissecteur du carré |
+| π/2             | 90°            | 1               | Point le plus haut du cercle |
+| π               | 180°           | 0               | Retour sur l'axe horizontal |
+| 3π/2            | 270°           | -1              | Point le plus bas du cercle |
 
 ---
-### 🎯 Applications et Contextes
 
-La fonction sinus est omniprésente en mathématiques et en sciences. Elle permet de modéliser des phénomènes périodiques comme les ondes sonores, les ondes lumineuses, et les mouvements oscillatoires.
+## 🎯 Applications et exemples
 
-**Domaines d'application :**
-- **Trigonométrie** : Résolution de triangles, calculs d'angles.
-- **Physique ondulatoire** : Description des ondes sinusoïdales.
-- **Signal périodique** : Analyse des signaux électriques et acoustiques.
-- **Mécanique** : Étude des mouvements circulaires et harmoniques.
+### Exemple 1: Calcul de la hauteur d'un arbre
 
-**Modélisation :** La fonction sinus permet de modéliser des phénomènes comme les vibrations d'une corde de guitare, les ondes électromagnétiques, et les mouvements des pendules.
+**Contexte:** Un arbre de 10 mètres de haut fait un angle de 30° avec le sol. Quelle est la hauteur réelle de l'arbre?
+
+**Résolution:**
+
+Étape 1: On modélise la situation avec un triangle rectangle où l'hypotenuse est la longueur de l'arbre (10m) et l'angle adjacent est de 30°.
+
+Étape 2: On utilise la définition du sinus:
+$$\sin(30°) = \frac{\text{hauteur réelle}}{\text{longueur de l'arbre}}$$
+
+Étape 3: On connaît sin(30°) = 0.5, donc:
+$$0.5 = \frac{h}{10} \implies h = 5m$$
+
+**Interprétation:** La hauteur réelle de l'arbre est de 5 mètres. Cet exemple montre comment le sinus permet de calculer des distances inaccessibles directement.
 
 ---
-### 💡 Remarques et Astuces
 
-> [!tip] Astuce de Calcul
-> Pour calculer $\sin(x)$ pour un angle non standard, utilisez les identités trigonométriques comme $\sin^2(x) + \cos^2(x) = 1$.
+### Exemple 2: Modélisation d'une onde sonore
 
-> [!warning] Attention
-> La fonction sinus n'est pas injective sur $\mathbb{R}$, il faut donc la restreindre pour définir une réciproque.
+**Contexte:** Une onde sonore peut être modélisée par une fonction sinus. Si on a une onde de fréquence 440 Hz, quelle est sa période?
 
-> [!info] Rappel Important
-> La dérivée de $\sin(x)$ est $\cos(x)$, et sa primitive est $-\cos(x) + C$.
+**Résolution:**
 
-#Fonction/Trigonométrique #Trigonométrie #Périodicité
+Étape 1: La fréquence est de 440 Hz, ce qui signifie 440 oscillations par seconde.
+
+Étape 2: La période T est l'inverse de la fréquence:
+$$T = \frac{1}{f} = \frac{1}{440} \approx 0.00227s$$
+
+Étape 3: L'onde peut donc être modélisée par:
+$$y(t) = A \cdot \sin(2\pi \cdot 440 \cdot t + \phi)$$
+
+**Interprétation:** Cette modélisation permet de comprendre comment les ondes sonores se propagent et comment elles sont perçues par l'oreille humaine.
+
+---
+
+## 🔗 Liens avec d'autres concepts
+
+- **[[Fonction cosinus]]**: Le sinus et le cosinus sont liés par une relation fondamentale: $\sin^2(\theta) + \cos^2(\theta) = 1$. Ils représentent respectivement l'ordonnée et l'abscisse d'un point sur le cercle trigonométrique.
+- **[[Fonction tangente]]**: La tangente est définie comme le rapport entre le sinus et le cosinus: $\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)}$.
+- **[[Séries de Fourier]]**: Le sinus est une des fonctions de base utilisées dans les séries de Fourier pour décomposer des signaux périodiques complexes.
+
+---
+
+## 📝 À retenir
+
+> [!summary] L'essentiel
+>
+> La fonction sinus est une fonction périodique qui modélise les phénomènes oscillatoires. Elle est définie géométriquement comme le rapport entre l'opposé et l'hypotenuse dans un triangle rectangle, ou comme l'ordonnée d'un point sur le cercle trigonométrique.
+>
+> Ses propriétés principales sont sa périodicité (période 2π), son caractère impair (sin(-x) = -sin(x)), et ses valeurs remarquables aux angles standards.
+>
+> Elle trouve des applications dans de nombreux domaines: calcul de distances inaccessibles, modélisation d'ondes, analyse de signaux, etc.
+
+#Fonction/trigonometrique #analyse #geometrie
