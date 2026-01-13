@@ -20,169 +20,136 @@
 \end{document}
 ```
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=3]
-  % Axes
-  \draw[->] (-1.3,0) -- (1.3,0) node[right] {$x$};
-  \draw[->] (0,-1.3) -- (0,1.3) node[above] {$y$};
+## 💡 Qu'est-ce que la fonction cosinus ?
 
-  % Cercle
-  \draw[thick] (0,0) circle (1);
+### Introduction
 
-  % Angle (exemple: 40 degrés)
-  \draw[very thick, red] (0.5,0) arc (0:40:0.5);
-  \node[red] at (0.6,0.2) {$\theta$};
+La fonction cosinus apparaît naturellement en trigonométrie pour résoudre des problèmes géométriques liés aux triangles rectangles. Elle quantifie la proportion entre l'adjacent et l'hypoténuse dans un triangle rectangle, mais son importance dépasse largement ce cadre initial. En physique, elle décrit les oscillations périodiques comme les mouvements des pendules ou les ondes lumineuses. Son étude a conduit à des avancées majeures en analyse, notamment dans la compréhension des séries de Fourier et des équations différentielles.
 
-  % Point sur le cercle
-  \draw[thick, blue] (0,0) -- (0.766,0.643);
-  \fill[blue] (0.766,0.643) circle (0.03);
-  \node[blue, above right] at (0.766,0.643) {$M$};
+### Définition(s)
 
-  % Projection pour cos (ligne verticale rouge)
-  \draw[very thick, red, dashed] (0.766,0) -- (0.766,0.643);
+> [!abstract] Définition géométrique (triangle rectangle)
+> Dans un triangle rectangle, le cosinus d'un angle θ est le rapport entre la longueur du côté adjacent à l'angle et la longueur de l'hypoténuse.
+>
+> $$
+> \cos(\theta) = \frac{\text{adjacent}}{\text{hypoténuse}}
+> $$
 
-  % Projection pour cos (ligne horizontale verte)
-  \draw[very thick, green!60!black] (0,0) -- (0.766,0);
-  \node[green!60!black, below] at (0.383,0) {$\cos(\theta)$};
+> [!abstract] Définition analytique (fonction circulaire)
+> La fonction cosinus est définie comme la coordonnée x d'un point M sur le cercle unité (rayon 1) dont l'angle polaire est θ.
+>
+> $$
+> \cos(\theta) = x \quad \text{où} \quad M = (x, y) \text{ sur le cercle unité}
+> $$
 
-  % Projection pour sin
-  \draw[thick, orange] (0,0) -- (0,0.643);
-  \node[orange, left] at (0,0.32) {$\sin(\theta)$};
-
-  % Graduations
-  \node[below left] at (0,0) {$O$};
-  \node[below] at (1,0) {$1$};
-  \node[left] at (0,1) {$1$};
-\end{tikzpicture}
-\end{document}
-```
-
-## 💡 Définition et Caractérisation
-
-La **fonction cosinus**, notée **$\cos(x)$**, est définie sur l'intervalle $\mathbf{\mathbb{R}}$ (ensemble des nombres réels).
-
-Elle représente la projection sur l'axe des abscisses d'un point $M$ se déplaçant sur le cercle unité de centre $O$ et d'angle $\theta$ avec l'axe des abscisses. Cette fonction est périodique de période $2\pi$ et est une fonction paire, c'est-à-dire qu'elle vérifie $\cos(-x) = \cos(x)$.
-
-$$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
+Ces deux définitions sont équivalentes car le cercle unité peut être vu comme un triangle rectangle dont l'hypoténuse est de longueur 1.
 
 ---
-### 📊 Propriétés Fondamentales
 
-| **Caractéristique** | **Valeur / Propriété** | **Conséquence** |
-|---|---|---|
-| **Ensemble de Définition** | $\mathbb{R}$ | La fonction est définie pour tout nombre réel. |
-| **Ensemble Image** | $[-1, 1]$ | La fonction atteint son maximum en 1 et son minimum en -1. |
-| **Parité** | Paire | $\cos(-x) = \cos(x)$ |
-| **Périodicité** | Oui - période $2\pi$ | $\cos(x + 2\pi) = \cos(x)$ |
-| **Continuité** | Oui - partout continue | La fonction ne présente aucune discontinuité. |
-| **Dérivabilité** | Oui - partout dérivable | La dérivée est $-\sin(x)$. |
-| **Limites** | $\lim_{x \to \infty} \cos(x)$ n'existe pas | La fonction oscille entre -1 et 1. |
-| **Zéros/Racines** | $\cos(x) = 0 \iff x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}$ | Les racines sont situées aux multiples de $\frac{\pi}{2}$. |
+## 🔍 Comment ça fonctionne ?
 
----
-### 📐 Propriétés Algébriques
+### L'idée centrale
 
-| **Opération** | **Formule** | **Condition** |
-|---|---|---|
-| **Formule d'addition** | $\cos(a + b) = \cos(a)\cos(b) - \sin(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
-| **Formule de soustraction** | $\cos(a - b) = \cos(a)\cos(b) + \sin(a)\sin(b)$ | $a, b \in \mathbb{R}$ |
-| **Formule de duplication** | $\cos(2x) = 2\cos^2(x) - 1$ | $x \in \mathbb{R}$ |
+Le cosinus mesure comment un angle "compresse" une longueur. Plus l'angle θ augmente, plus la composante horizontale (cosinus) diminue, reflétant la transition progressive d'une orientation horizontale à verticale. Cette propriété est cruciale pour modéliser les phénomènes oscillatoires où les amplitudes varient périodiquement.
+
+### Domaine et contraintes
+
+La fonction cosinus est définie pour tous les angles réels, mais elle est périodique de période 2π, ce qui signifie qu'elle se répète tous les 360° :
+
+$$
+\cos(\theta + 2\pi) = \cos(\theta)
+$$
+
+Cette périodicité vient du fait que le cercle trigonométrique est fermé : après un tour complet, on revient au point de départ.
 
 ---
-### 🧮 Dérivée et Primitive
 
-#### Dérivée Simple
+## 📊 Propriétés principales
 
-| **Fonction** | **Dérivée** | **Domaine de dérivabilité** |
-|---|---|---|
-| $\mathbf{\cos(x)}$ | $\mathbf{-\sin(x)}$ | $\mathbb{R}$ |
+### Symétrie et parité
 
-#### Composée (Règle de la Chaîne)
+Le cosinus est une fonction paire, ce qui signifie qu'elle est symétrique par rapport à l'axe des ordonnées :
 
-Si $u(x)$ est une fonction dérivable, on applique la règle de la chaîne :
+$$
+\cos(-\theta) = \cos(\theta)
+$$
 
-| **Fonction Composée** | **Dérivée** | **Condition** |
-|---|---|---|
-| $\mathbf{\cos(u(x))}$ | $\mathbf{-\sin(u(x)) \cdot u'(x)}$ | $u$ dérivable |
+**Pourquoi ?** Cela vient du fait que l'angle -θ correspond à l'angle θ mesuré dans le sens inverse, mais la projection sur l'axe x reste la même.
 
-**Exemple :** Soit $g(x) = \cos(3x^2)$.
+**Conséquence pratique:** Cette symétrie simplifie le calcul des intégrales et permet de réduire les calculs à des angles positifs.
 
-- $u(x) = 3x^2$
-- $u'(x) = 6x$
-- Donc : $g'(x) = -\sin(3x^2) \cdot 6x = -6x \sin(3x^2)$
+### Valeurs remarquables
 
-#### Primitive
-
-| **Fonction** | **Primitive** | **Domaine** |
-|---|---|---|
-| $\mathbf{\cos(x)}$ | $\mathbf{\sin(x) + C}$ | $\mathbb{R}$ |
+| Angle (rad) | Angle (deg) | Valeur | Signification |
+|------------|------------|--------|--------------|
+| 0          | 0°         | 1      | Maximum de la fonction |
+| π/2        | 90°        | 0      | Transition entre positif et négatif |
+| π          | 180°       | -1     | Minimum de la fonction |
+| 3π/2       | 270°       | 0      | Retour à zéro |
 
 ---
-### 🔄 Fonction Réciproque
 
-La fonction cosinus n'est pas injective sur $\mathbb{R}$. Pour définir une réciproque, on la **restreint** à l'intervalle $\mathbf{[0, \pi]}$, sur lequel elle est bijective.
+## 🎯 Applications et exemples
 
-La fonction réciproque est **l'arccosinus**, notée $\arccos(x)$ :
+### Exemple 1: Calcul de la hauteur d'un bâtiment
 
-$$ \arccos(x) : [-1, 1] \to [0, \pi] $$
+**Contexte:** Un ingénieur doit calculer la hauteur d'un bâtiment en utilisant un théodolite qui mesure un angle de 30° avec le sol.
 
-Elle vérifie :
-$$ \forall x \in [-1, 1], \quad \cos(\arccos(x)) = x $$
+**Résolution:**
 
-**Graphiquement :** Les courbes de $\cos(x)$ et $\arccos(x)$ sont symétriques par rapport à la droite $y = x$.
+1. L'ingénieur mesure la distance horizontale entre le théodolite et le bâtiment: 50 mètres.
+2. La hauteur h du bâtiment est donnée par:
+   $$
+   \tan(30°) = \frac{h}{50} \implies h = 50 \times \tan(30°)
+   $$
+3. Sachant que $\tan(30°) = \frac{\sin(30°)}{\cos(30°)} = \frac{1/2}{\sqrt{3}/2} = \frac{1}{\sqrt{3}}$
+4. Donc:
+   $$
+   h = 50 \times \frac{1}{\sqrt{3}} \approx 28.87 \text{ mètres}
+   $$
 
----
-### 🌊 Développements et Séries
-
-#### Série de Taylor/Maclaurin
-
-$$ \cos(x) = \sum_{n=0}^{+\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots $$
-
-Cette série converge pour $x \in \mathbb{R}$.
-
-#### Formule d'Euler
-
-$$ \cos(x) = \frac{e^{ix} + e^{-ix}}{2} $$
+**Interprétation:** Le cosinus permet ici de relier une mesure angulaire à une distance verticale, ce qui est essentiel en topographie et en ingénierie.
 
 ---
-### 📈 Variations et Représentation Graphique
 
-#### Tableau de Variations
+### Exemple 2: Oscillation d'un pendule
 
-| $x$ | $-\infty$ |  | $-\frac{3\pi}{2}$ |  | $-\pi$ |  | $-\frac{\pi}{2}$ |  | $0$ |  | $\frac{\pi}{2}$ |  | $\pi$ |  | $\frac{3\pi}{2}$ |  | $+\infty$ |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| $\cos'(x)$ |  | + |  | - |  | + |  | - |  | + |  | - |  | + |  | - |  |
-| $\cos(x)$ |  | 1 |  | 0 |  | -1 |  | 0 |  | 1 |  | 0 |  | -1 |  | 0 |  | 1 |
+**Contexte:** Un pendule de longueur L oscille avec une amplitude θ.
 
-#### Points Remarquables
+**Résolution:**
 
-- **Extrema locaux** : $(0, 1)$, $(\pi, -1)$, etc.
-- **Points d'inflexion** : $(\frac{\pi}{2}, 0)$, $(\frac{3\pi}{2}, 0)$, etc.
-- **Asymptotes** : Aucune asymptote.
+1. La position horizontale x(t) du pendule est donnée par:
+   $$
+   x(t) = L \cos(\omega t)
+   $$
+   où ω est la fréquence angulaire.
+2. Pour un pendule simple, ω = √(g/L) où g est l'accélération gravitationnelle.
+3. Si L = 1 m et θ₀ = 10° (0.1745 rad), alors:
+   $$
+   x(t) = \cos(\sqrt{9.81} \times t)
+   $$
 
----
-### 🎯 Applications et Contextes
-
-La fonction cosinus est omniprésente en mathématiques et en physique. Elle permet de modéliser des phénomènes périodiques comme les ondes, les oscillations mécaniques, et les signaux électriques.
-
-**Domaines d'application :**
-- **Trigonométrie** : Résolution de triangles, calculs d'angles.
-- **Physique ondulatoire** : Description des ondes lumineuses et sonores.
-- **Analyse harmonique** : Décomposition de signaux en séries de Fourier.
-
-**Modélisation :** La fonction cosinus permet de modéliser des phénomènes périodiques comme les marées, les oscillations d'un pendule, ou les variations de température saisonnières.
+**Interprétation:** Le cosinus modélise parfaitement le mouvement périodique du pendule, montrant comment sa position varie dans le temps.
 
 ---
-### 💡 Remarques et Astuces
 
-> [!tip] Astuce de Calcul
-> Pour calculer $\cos(x)$ pour un angle donné, on peut utiliser le cercle trigonométrique et les valeurs remarquables (0, $\frac{\pi}{6}$, $\frac{\pi}{4}$, $\frac{\pi}{3}$, $\frac{\pi}{2}$).
+## 🔗 Liens avec d'autres concepts
 
-> [!warning] Attention
-> La fonction cosinus n'est pas injective sur $\mathbb{R}$, il faut donc la restreindre pour définir une réciproque.
+- **[[Fonction sinus]]**: Le cosinus et le sinus sont liés par la relation fondamentale $\sin^2(\theta) + \cos^2(\theta) = 1$, qui vient directement du théorème de Pythagore appliqué au cercle unité.
+- **[[Séries de Fourier]]**: Le cosinus est une des fonctions de base utilisées pour décomposer des signaux périodiques en composantes fréquentielles.
+- **[[Fonctions exponentielles]]**: L'identité d'Euler $e^{i\theta} = \cos(\theta) + i\sin(\theta)$ relie le cosinus aux nombres complexes et aux exponentielles.
 
-> [!info] Rappel Important
-> La fonction cosinus est une fonction paire, ce qui signifie que $\cos(-x) = \cos(x)$.
+---
 
-#Fonction/Trigonométrique #Mathématiques #Analyse
+## 📝 À retenir
+
+> [!summary] L'essentiel
+>
+> La fonction cosinus mesure la projection d'un angle sur l'axe horizontal. Elle est périodique, paire et atteint ses valeurs extrêmes à 0, π/2, π et 3π/2. Ses applications vont de la géométrie aux oscillations mécaniques en passant par l'analyse des signaux. La relation fondamentale avec le sinus et l'exponentielle complexe en fait un outil central en mathématiques.
+>
+> Formule clé:
+> $$
+> \cos(\theta) = \frac{e^{i\theta} + e^{-i\theta}}{2}
+> $$
+
+#Fonction/Trigonométrie #Analyse #Oscillations
