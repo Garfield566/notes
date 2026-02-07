@@ -1,100 +1,75 @@
 # Léonard de Vinci
 
 ## Infobox
+
 - **Dates** : 15 avril 1452 - 2 mai 1519
 - **Discipline** : Peinture, sculpture, ingénierie, anatomie
 - **Mouvement** : Renaissance italienne
 - **Formation** : Atelier de Verrocchio à Florence
 - **Œuvre majeure** : *La Joconde*, *L'Homme de Vitruve*
-- **Image** : [Portrait de Léonard de Vinci]
 
 ---
 
 ## Biographie
 
-Léonard de Vinci naît le 15 avril 1452 à Vinci, en Toscane, dans une famille d'artisans. Son père, notaire, et sa mère, paysanne, ne se marient pas, mais il grandit dans un environnement stimulant. Dès son plus jeune âge, il montre un talent exceptionnel pour le dessin, ce qui le conduit à l'atelier de Verrocchio à Florence, où il apprend la peinture, la sculpture et les techniques artistiques.
+Léonard de Vinci naît près de Florence dans une famille d'artisans. Son père, notaire, reconnaît sa précocité artistique et l'envoie à 14 ans dans l'atelier de Verrocchio, où il apprend la peinture, la sculpture et les techniques artisanales. Il y excelle rapidement, contribuant même à des œuvres de son maître comme *Le Baptême du Christ* (1475).
 
-En 1472, il ouvre son propre atelier et commence à travailler sur des commandes prestigieuses, comme *L'Annonciation* (1472-1475). Ses voyages en Italie du Nord et en France, où il est invité par François Ier, marquent des tournants dans sa carrière. Il meurt le 2 mai 1519 au Clos Lucé, près d'Amboise, laissant derrière lui des œuvres inachevées et des carnets remplis de croquis et d'idées révolutionnaires.
+Sa carrière se déroule entre Florence, Milan (où il travaille pour Ludovic Sforza), Rome et enfin la France, où François Ier l'accueille à Amboise. Polyvalent, il s'intéresse autant à l'art qu'aux sciences, laissant des milliers de pages de carnets où se mêlent croquis anatomiques, machines de guerre et études optiques. Sa vie personnelle reste discrète, mais ses observations scientifiques et artistiques révèlent une curiosité insatiable. Il meurt en 1519, laissant de nombreuses œuvres inachevées.
 
 ---
 
 ## Style et technique
 
-Léonard de Vinci est un maître du sfumato, une technique de peinture qui adoucit les contours et crée des transitions subtiles entre les couleurs. Ses œuvres, comme *La Joconde*, sont caractérisées par des expressions énigmatiques et une maîtrise de la perspective. Il est également connu pour ses études anatomiques détaillées, qui ont influencé la médecine et l'art.
+Léonard révolutionne la peinture par sa maîtrise de la perspective atmosphérique et du sfumato, une technique de flou qui adoucit les contours. Ses compositions, comme *La Cène*, jouent sur les proportions géométriques et la lumière naturelle. En anatomie, ses dissections lui permettent de représenter avec précision les muscles et les organes, comme dans *L'Homme de Vitruve* (1490).
 
-Son style évolue vers plus de complexité et de profondeur, notamment dans ses dernières années, où il se concentre sur des projets scientifiques et techniques. Il est souvent considéré comme un précurseur de la Renaissance, combinant art et science de manière inédite.
+Son style évolue vers plus de complexité : les figures deviennent plus dynamiques, les paysages plus détaillés. Il innove aussi en ingénierie, imaginant des machines volantes et des systèmes hydrauliques. Son approche scientifique influence durablement l'art, notamment par son usage de l'observation empirique.
 
 ---
 
 ## Œuvres principales
 
-### Peintures majeures
-- **`[[La Joconde]]`** (1503-1519) — Huile sur panneau, Musée du Louvre
-  Portrait énigmatique de Lisa Gherardini, épouse de Francesco del Giocondo, célèbre pour son sourire et son sfumato.
+> [!artwork] **Peintures**
+>
+> - **`[[La Joconde]]`** (1503-1519) — Huile sur panneau, Louvre
+>   Portrait énigmatique de Lisa Gherardini, célèbre pour son sourire et son sfumato.
+>
+> - **`[[La Cène]]`** (1495-1498) — Fresque, Santa Maria delle Grazie, Milan
+>   Scène biblique innovante par sa composition géométrique et son réalisme.
+>
+> - **`[[L'Homme de Vitruve]]`** (1490) — Encre et crayon, Gallerie dell'Accademia, Venise
+>   Étude des proportions humaines, symbole de la Renaissance.
 
-- **`[[La Cène]]`** (1495-1498) — Fresque, Santa Maria delle Grazie, Milan
-  Représentation du dernier repas du Christ, connue pour sa composition dynamique et sa perspective innovante.
-
-- **`[[L'Homme de Vitruve]]`** (1490) — Dessin, Accademia, Venise
-  Étude des proportions idéales du corps humain, symbole de la Renaissance.
-
-### Dessins et études
-- **`[[Études anatomiques]]`** (1510) — Carnets, Royal Collection, Londres
-  Croquis détaillés du corps humain, montrant son intérêt pour la science.
-
-- **`[[Machine volante]]`** (1485) — Carnets, Bibliothèque nationale, Paris
-  Projet d'une machine volante inspirée des oiseaux.
+> [!artwork] **Sculptures et projets**
+>
+> - **`[[Le Cavalier de bronze]]`** (inachevé) — Projet pour Ludovic Sforza
+>   Monument équestre jamais réalisé, mais étudié dans des croquis détaillés.
+>
+> - **`[[Vitruve]]`** (1490) — Étude anatomique
+>   Représentation idéale des proportions humaines, inspirée de Vitruve.
 
 ---
 
 ## Influences et héritage
 
-### Influences reçues
-- **`[[Verrocchio]]`** : Maître qui lui a enseigné les techniques artistiques.
-- **`[[Pline l'Ancien]]`** : Influence sur ses études anatomiques.
+> [!abstract] **Influences reçues**
+> - **`[[Piero della Francesca]]`** : Maîtrise de la perspective géométrique.
+> - **`[[Donatello]]`** : Approche naturaliste de la sculpture.
 
-### Influence exercée
-- **`[[Raphaël]]`** : A repris ses techniques de perspective et de composition.
-- **`[[Galilée]]`** : A été inspiré par ses études scientifiques.
-- **Postérité** : Considéré comme un génie universel, ses idées ont influencé l'art, la science et la technologie.
+> [!example] **Influence exercée**
+> - **`[[Raphaël]]`** : Adopte son sfumato et ses compositions équilibrées.
+> - **Postérité** : Son approche scientifique inspire les artistes et ingénieurs des siècles suivants.
 
 ---
 
 ## Chronologie
-- **1452** : Naissance à Vinci, en Toscane.
-- **1469** : Entre à l'atelier de Verrocchio à Florence.
-- **1472** : Ouvre son propre atelier.
-- **1490** : Réalise *L'Homme de Vitruve*.
-- **1495-1498** : Peint *La Cène* à Milan.
-- **1503-1519** : Travaille sur *La Joconde*.
+
+- **1452** : Naissance près de Florence.
+- **1469** : Entre dans l'atelier de Verrocchio.
+- **1472** : *L'Annonciation*, première œuvre connue.
+- **1482** : Part pour Milan, au service des Sforza.
+- **1490** : *L'Homme de Vitruve*, étude des proportions.
+- **1503** : Commence *La Joconde*.
 - **1516** : S'installe en France, invité par François Ier.
-- **1519** : Mort au Clos Lucé, près d'Amboise.
+- **1519** : Mort à Amboise, laissant des œuvres inachevées.
 
 ---
-
-**Illustration graphique** :
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  % Cercle de Vitruve
-  \draw (0,0) circle (2);
-  \draw (0,0) -- (2,0) -- (0,0) -- (0,2) -- (0,0) -- (-2,0) -- (0,0) -- (0,-2) -- (0,0);
-  \draw (0,0) -- (1.414,1.414) -- (0,0) -- (-1.414,1.414) -- (0,0) -- (-1.414,-1.414) -- (0,0) -- (1.414,-1.414) -- (0,0);
-
-  % Homme de Vitruve
-  \draw[thick] (0,0) circle (0.1);
-  \draw[thick] (0,0) -- (0,1.5);
-  \draw[thick] (0,0) -- (1.5,0);
-  \draw[thick] (0,0) -- (-1.5,0);
-  \draw[thick] (0,0) -- (0,-1.5);
-  \draw[thick] (0,1.5) -- (1.5,0);
-  \draw[thick] (0,1.5) -- (-1.5,0);
-  \draw[thick] (0,-1.5) -- (1.5,0);
-  \draw[thick] (0,-1.5) -- (-1.5,0);
-
-  % Légende
-  \node at (0,2.5) {L'Homme de Vitruve};
-  \node at (0,-2.5) {Étude des proportions idéales};
-\end{tikzpicture}
-\end{document}
-```
