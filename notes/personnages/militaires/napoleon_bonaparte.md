@@ -1,67 +1,83 @@
-# Napoléon Bonaparte
+```yaml
+---
+aliases: Napoléon Ier, Bonaparte
+tags: #histoire/personne/militaire
+titre: Empereur
+nationalite: France
+grade: Empereur des Français
+periode: Époque contemporaine
+image: Napoléon Ier
+date_creation: 15 août 1769
+---
+```
 
 > [!Infobox]
 > Napoléon Bonaparte
-> ![[Napoleon_Bonaparte|300]]
+> ![[Napoléon Ier|300]]
 > - **Dates** : 15 août 1769 - 5 mai 1821
 > - **Grade** : Empereur des Français
-> - **Nationalité** : Française
+> - **Nationalité** : France
 > - **Allégeance** : République française puis Empire français
-> - **Conflits** : Guerres révolutionnaires, Guerres napoléoniennes
-> - **Batailles** : Austerlitz, Iéna, Wagram
+> - **Conflits** : Guerres de la Révolution française, Guerres napoléoniennes
+> - **Batailles** : Austerlitz, Iéna, Marengo
+> - **Image** : Napoléon Ier
 
 ## Biographie
-
-Né le 15 août 1769 en Corse, Napoléon Bonaparte grandit dans une famille noble mais modeste. Formé à l'École militaire de Brienne, il s'engage dans l'armée française au début de la Révolution. Son ascension fulgurante commence en 1793 lors du siège de Toulon, où il se distingue par son génie tactique. Nommé général à 24 ans, il mène ensuite la campagne d'Italie (1796-1797), qui fait de lui une figure nationale. Son coup d'État du 18 Brumaire (1799) le porte au pouvoir, puis il se couronne empereur en 1804. Son règne est marqué par des réformes administratives (Code civil) et une expansion militaire sans précédent en Europe. Défait à Waterloo en 1815, il est exilé à Sainte-Hélène où il meurt en 1821.
+Napoléon Bonaparte naît le 15 août 1769 à Ajaccio en Corse, dans une famille de petite noblesse. Il entre à l'école militaire de Brienne-le-Château en 1779, puis à l'École militaire supérieure de Paris en 1784. Il se distingue rapidement par ses compétences en mathématiques et son sens du commandement. En 1793, il devient général dans les armées de la Première République française. Il se fait remarquer lors de la campagne d'Italie (1796-1797), où il remporte plusieurs victoires décisives. En 1799, il organise le coup d'État du 18 Brumaire, qui le porte au pouvoir. Il est sacré empereur des Français le 2 décembre 1804. Napoléon meurt en exil à Sainte-Hélène le 5 mai 1821, à l'âge de 51 ans.
 
 ## Campagnes et batailles
 
-> [!war] **Guerres révolutionnaires (1792-1802)**
-> Contexte : Conflits entre la France révolutionnaire et les monarchies européennes
-> Rôle : Général puis commandant en chef
+> [!war] **Campagne d'Italie (1796-1797)**
+> Contexte : Front de diversion contre les Autrichiens
+> Rôle : Général en chef de l'armée d'Italie
 >
 > Batailles principales :
-> - **[[Siège de Toulon]]** (1793) : Victoire décisive ✓
-> - **[[Campagne d'Italie]]** (1796-1797) : Série de victoires contre l'Autriche ✓
+> - **[[Bataille de Lodi]]** (10 mai 1796) : Victoire décisive ✓
+> - **[[Bataille de Rivoli]]** (14-15 janvier 1797) : Victoire écrasante ✓
 >
-> Bilan : Établit sa réputation militaire et politique
+> Bilan : Réorganisation du nord de l'Italie, traité de Campo-Formio
 
-> [!war] **Guerres napoléoniennes (1803-1815)**
-> Contexte : Conflits pour dominer l'Europe
-> Rôle : Empereur et commandant en chef
+> [!war] **Campagne d'Égypte (1798-1801)**
+> Contexte : Coupure de la route des Indes à la Grande-Bretagne
+> Rôle : Commandant de l'armée d'Orient
 >
 > Batailles principales :
-> - **[[Bataille d'Austerlitz]]** (1805) : Victoire stratégique contre l'Autriche et la Russie ✓
-> - **[[Bataille d'Iéna]]** (1806) : Défaite écrasante de la Prusse ✓
-> - **[[Bataille de Wagram]]** (1809) : Victoire contre l'Autriche ✓
-> - **[[Bataille de Waterloo]]** (1815) : Défaite finale contre les coalisés ✗
+> - **[[Bataille des Pyramides]]** (21 juillet 1798) : Victoire française ✓
+> - **[[Siège de Saint-Jean d'Acre]]** (mars-mai 1799) : Échec français ✗
+>
+> Bilan : Échec stratégique, retour en France
+
+> [!war] **Guerres napoléoniennes (1805-1815)**
+> Contexte : Conflits contre les coalitions européennes
+> Rôle : Empereur des Français
+>
+> Batailles principales :
+> - **[[Bataille d'Austerlitz]]** (2 décembre 1805) : Victoire décisive ✓
+> - **[[Bataille d'Iéna]]** (14 octobre 1806) : Victoire écrasante ✓
+> - **[[Bataille de Waterloo]]** (18 juin 1815) : Défaite finale ✗
 >
 > Bilan : Apogée puis chute de l'Empire
 
 ## Art militaire
-
-Napoléon révolutionne l'art de la guerre en combinant mobilité, concentration des forces et logistique avancée. Son style de commandement est à la fois audacieux et méthodique : il privilégie les manœuvres enveloppantes et les attaques concentrées sur un point faible de l'ennemi. Il innove en créant la Grande Armée, une force multinationale disciplinée et bien équipée. Ses tactiques reposent sur la rapidité des mouvements et l'exploitation des faiblesses adverses. Cependant, son insistance à mener des campagnes prolongées malgré les pertes et son mépris des conditions météorologiques (comme en Russie) ont contribué à sa chute.
+Napoléon Bonaparte est connu pour son style de commandement audacieux et offensif. Il excelle dans l'art de la manœuvre, combinant rapidité et surprise. Ses tactiques favorites incluent l'encerclement des forces ennemies et l'utilisation de l'artillerie mobile. Il innove également dans l'organisation des troupes, créant des corps d'armée autonomes. Ses forces résident dans sa capacité à motiver ses hommes et à adapter ses stratégies en fonction des circonstances. Ses faiblesses incluent parfois une sous-estimation des forces adverses et une tendance à l'excès de confiance.
 
 ## Chronologie
-
-- **1769** : Naissance en Corse
-- **1793** : Siège de Toulon - première victoire majeure
-- **1796-1797** : Campagne d'Italie - consacre sa réputation
-- **1799** : Coup d'État du 18 Brumaire - prise du pouvoir
-- **1804** : Sacre comme empereur
-- **1805** : Victoire d'Austerlitz
-- **1812** : Campagne de Russie - désastre
-- **1815** : Défaite de Waterloo
+- **1769** : Naissance à Ajaccio
+- **1779** : Entrée à l'école militaire de Brienne-le-Château
+- **1793** : Nommé général dans les armées de la République
+- **1796** : Victoire à Lodi lors de la campagne d'Italie
+- **1804** : Sacré empereur des Français
+- **1805** : Victoire à Austerlitz
+- **1812** : Campagne de Russie, retraite désastreuse
+- **1815** : Défaite à Waterloo
 - **1821** : Mort à Sainte-Hélène
 
 ## Héritage
-
-Napoléon est considéré comme l'un des plus grands stratèges de l'histoire, bien que son héritage soit controversé. Ses réformes administratives (Code civil, lycées) ont profondément marqué la France. Son modèle de guerre totale a influencé les conflits du XIXe siècle. Cependant, son ambition démesurée et ses pertes humaines massives ont aussi conduit à une réévaluation critique. Aujourd'hui, il reste une figure ambivalente : génie militaire pour les uns, tyran sanguinaire pour les autres.
+Napoléon Bonaparte laisse une empreinte durable sur l'histoire militaire et politique. Considéré comme l'un des plus grands stratèges de l'histoire, il influence profondément l'art de la guerre. Ses réformes institutionnelles, comme le Code civil, ont un impact durable sur la France et l'Europe. Sa mémoire reste controversée, entre admiration pour ses réalisations et critique de ses excès. Des cérémonies commémoratives, comme celle du bicentenaire de sa mort en 2021, témoignent de son importance historique.
 
 ## Relations
-
 > [!info] **Relations**
 > - **Souverains servis** : `[[République française]]` (général), `[[Empire français]]` (empereur)
-> - **Subordonnés notables** : `[[Michel Ney]]` (maréchal), `[[Joachim Murat]]` (cavalerie)
-> - **Rivaux/Ennemis** : `[[Arthur Wellesley]]` (Waterloo), `[[Koutouzov]]` (Russie)
-> - **Mentors** : `[[Maximilien de Robespierre]]` (influence politique), `[[Louis-Alexandre Berthier]]` (logistique)
+> - **Subordonnés notables** : `[[Michel Ney]]` (maréchal), `[[Joachim Murat]]` (maréchal)
+> - **Rivaux/Ennemis** : `[[Arthur Wellesley]]` (duc de Wellington), `[[Koutouzov]]` (général russe)
+> - **Mentors** : `[[Pasquale Paoli]]` (indépendiste corse)
