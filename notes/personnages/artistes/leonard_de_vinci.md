@@ -1,67 +1,70 @@
 ```yaml
 ---
 aliases: [Leonardo di ser Piero da Vinci, Leonardo da Vinci]
-tags: #art/personne/peinture #art/personne/ingénieur #art/personne/scientifique
-nationalite: Italienne
+tags: #art/personne/peinture #art/personne/ingénierie #art/personne/science
+nationalite: Italie
 discipline: peinture, ingénierie, science
 mouvement: Renaissance
 periode: Renaissance
-image: La_Joconde.jpg
-date_creation: 1503-1519
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leonardo_da_Vinci_-_Self_Portrait_-_WGA12847.jpg/300px-Leonardo_da_Vinci_-_Self_Portrait_-_WGA12847.jpg
+date_creation: 1452-1519
 ---
 ```
 
 > [!Infobox]
 > **Léonard de Vinci**
-> ![[La_Joconde.jpg|300]]
+> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leonardo_da_Vinci_-_Self_Portrait_-_WGA12847.jpg/300px-Leonardo_da_Vinci_-_Self_Portrait_-_WGA12847.jpg|300]]
 > - **Dates** : 14 avril 1452 - 2 mai 1519
-> - **Discipline** : Peinture, ingénierie, science
+> - **Discipline** : peinture, ingénierie, science
 > - **Mouvement** : Renaissance
-> - **Formation** : Atelier d'Andrea del Verrocchio
+> - **Formation** : atelier d'Andrea del Verrocchio, scuola d’abaco
 > - **Œuvre majeure** : La Joconde
 
 ## Biographie
-Léonard de Vinci naît le 14 avril 1452 à Vinci, en Toscane, d'une relation illégitime entre un notaire, Pierre de Vinci, et une paysanne, Caterina di Meo Lippi. Il est élevé par ses grands-parents paternels jusqu'à l'âge de dix ans. Son père l'inscrit ensuite à Florence dans une *scuola d'abaco* puis à l'atelier d'Andrea del Verrocchio, où il côtoie des artistes comme Botticelli et Domenico Ghirlandaio. En 1482, il quitte l'atelier pour se présenter comme ingénieur au duc de Milan, Ludovic Sforza, où il obtient des commandes de peinture et ouvre son propre atelier.
 
-En 1499, il voyage à Mantoue, Venise et Florence, puis retourne à Milan en 1506 comme "peintre et ingénieur ordinaire" du roi de France Louis XII. En 1516, François Ier l'invite en France, où il s'installe au Clos Lucé près d'Amboise. Il y meurt subitement le 2 mai 1519. Léonard est un polymathe, maîtrisant la peinture, l'ingénierie, la science et l'anatomie. Il étudie la nature et l'expression humaine avec une rigueur scientifique, laissant des traités sur l'anatomie et les mouvements de l'eau.
+Léonard de Vinci naît dans la nuit du 14 avril 1452 à Vinci (Toscane), fils illégitime de Caterina di Meo Lippi et du notaire Pierre de Vinci. Il est élevé par ses grands-parents paternels jusqu'à l'âge de dix ans. À Florence, son père l'inscrit d'abord dans une scuola d’abaco, puis à l'atelier d'Andrea del Verrocchio où il côtoie Botticelli, Le Pérugin et Domenico Ghirlandaio. En 1482, il quitte l'atelier et se présente comme ingénieur au duc de Milan Ludovic Sforza. Il étudie les mathématiques, le corps humain et ouvre un atelier. En 1499, il part pour Mantoue, Venise et Florence, puis retourne à Milan en 1506 comme « peintre et ingénieur ordinaire » de Louis XII. En 1516, François Ier l'invite en France au manoir du Cloux, où il meurt subitement le 2 mai 1519.
 
 ## Style et technique
-Léonard de Vinci se distingue par son approche scientifique de l'art. Il étudie minutieusement la nature et l'expression humaine pour représenter non seulement les apparences, mais aussi les intentions de l'esprit. Son style évolue vers une maîtrise de la perspective, du clair-obscur et du sfumato, une technique de transition douce entre les couleurs et les ombres. Il innove en intégrant des connaissances en anatomie, optique et géologie dans ses œuvres.
 
-Ses recherches en ingénierie et en science, bien que souvent théoriques, influencent sa peinture. Il utilise des croquis et des notes pour préparer ses compositions, comme en témoignent ses carnets remplis de dessins et d'observations. Son travail reflète une quête constante de perfection technique et esthétique.
+Léonard de Vinci se distingue par son approche scientifique de l'art, combinant observation minutieuse et innovation technique. Il étudie la nature, l'anatomie et l'optique pour perfectionner ses œuvres. Son style évolue vers un sfumato caractéristique, utilisant des dégradés subtils pour créer des effets de lumière et de profondeur. Ses recherches en ingénierie et en anatomie influencent également ses peintures, comme La Joconde, où la composition et les expressions reflètent une compréhension approfondie de la physiologie humaine.
 
 ## Œuvres principales
 
-> [!artwork] **Peinture**
-> - **`[[La Joconde]]`** (1503-1519) — Huile sur toile, Musée du Louvre
->   Portrait le plus célèbre au monde, caractérisé par son sfumato et son mystère.
-> - **`[[L'Homme de Vitruve]]`** (v. 1490) — Dessin, Accademia di Venezia
->   Étude de proportions humaines, symbole de la Renaissance.
-> - **`[[La Cène]]`** (1495-1498) — Fresque, Santa Maria delle Grazie, Milan
->   Représentation iconique du dernier repas du Christ, connue pour sa composition dynamique.
+> [!artwork] **Peintures**
+>
+> - **`[[La Joconde]]`** (1503-1519) — huile sur panneau de peuplier, Musée du Louvre
+>   Portrait emblématique de Mona Lisa, célèbre pour son sfumato et son sourire énigmatique.
+>
+> - **`[[L'Homme de Vitruve]]`** (v. 1490) — dessin à l'encre et à la plume, Gallerie dell'Accademia
+>   Étude de proportions humaines basée sur les écrits de Vitruve, symbole de la Renaissance.
+>
+> - **`[[La Cène]]`** (1495-1498) — fresque, Santa Maria delle Grazie
+>   Représentation du dernier repas du Christ, innovante par sa composition et son réalisme.
 
 > [!artwork] **Ingénierie et science**
-> - **`[[Carnets de Léonard de Vinci]]`** (1480-1519) — Manuscrits
->   Contiennent des dessins et notes sur des inventions, l'anatomie et la nature.
-> - **`[[Projets d'ingénierie militaire]]`** (1480s) — Dessins
->   Incluent des machines de guerre et des fortifications.
+>
+> - **`[[Projets de machines volantes]]`** (1480-1490) — dessins et croquis
+>   Études de machines volantes et d'ingénierie militaire, précurseurs de l'aviation.
+>
+> - **`[[Traité d'anatomie]]`** (1489-1513) — manuscrits
+>   Notes et dessins détaillés du corps humain, fondements de l'anatomie moderne.
 
 ## Influences et héritage
 
 > [!abstract] **Influences reçues**
-> - `[[Andrea del Verrocchio]]` : Apprentissage des techniques artistiques et scientifiques.
-> - `[[La Renaissance]]` : Influence des idées humanistes et de la redécouverte des textes antiques.
+> - `[[Andrea del Verrocchio]]` : formation artistique et technique.
+> - `[[Mouvement de la Renaissance]]` : inspiration pour ses études scientifiques et artistiques.
 
 > [!example] **Influence exercée**
-> - `[[Renaissance]]` : A contribué à définir l'idéal de l'artiste universel.
-> - Postérité : Son travail inspire des générations d'artistes, scientifiques et ingénieurs.
+> - `[[Francesco Melzi]]` : héritier de ses notes et dessins.
+> - Postérité : impact durable sur l'art, la science et l'ingénierie, considéré comme un génie universel.
 
 ## Chronologie
 
-- **14 avril 1452** : Naissance à Vinci, en Toscane.
-- **1464-1482** : Apprentissage dans l'atelier d'Andrea del Verrocchio à Florence.
-- **1482** : S'installe à Milan comme ingénieur et peintre pour Ludovic Sforza.
-- **1495-1498** : Réalise *La Cène* à Milan.
-- **1503-1519** : Peint *La Joconde*.
-- **1516** : S'installe en France à l'invitation de François Ier.
-- **2 mai 1519** : Mort au Clos Lucé, près d'Amboise.
+- **14 avril 1452** : Naissance à Vinci.
+- **1464-1482** : Apprentissage dans l'atelier d'Andrea del Verrocchio.
+- **1482** : Départ pour Milan au service de Ludovic Sforza.
+- **1495-1498** : Réalisation de La Cène.
+- **1503-1519** : Création de La Joconde.
+- **1516** : Installation en France à la demande de François Ier.
+- **2 mai 1519** : Mort au Clos Lucé.
