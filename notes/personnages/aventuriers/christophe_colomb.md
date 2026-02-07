@@ -1,21 +1,28 @@
 # Christophe Colomb
 
-## Infobox
-- **Dates** : 1451 - 1506
-- **Type** : Explorateur, navigateur
-- **Employeur** : Couronne d'Espagne (Isabelle de Castille et Ferdinand d'Aragon)
-- **Zone d'activité** : Atlantique, Caraïbes, Amérique centrale
-- **Fait marquant** : Découverte des Amériques en 1492
+**Type de bloc** : infobox
 
-![Christophe Colomb](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cristoforo_colombo.jpg/300px-Cristoforo_colombo.jpg)
+**Instructions** :
+Zone d'activité : 2-3 régions principales.
+Fait marquant : la découverte ou l'exploit le plus célèbre.
+Max 50 car. par valeur.
+
+**Champs de l'infobox** :
+- Dates: 1451-1506
+- Type: Explorateur
+- Employeur: Couronne d'Espagne
+- Zone d'activité: Caraïbes, Amérique centrale
+- Fait marquant: Découverte des Amériques
 
 ---
 
 ## Biographie
 
-Christophe Colomb naît en 1451 à Gênes, dans une famille modeste de tisserands. Dès son plus jeune âge, il s'intéresse à la navigation et travaille comme marchand et marin. Il développe une théorie audacieuse : atteindre les Indes orientales en naviguant vers l'ouest, en contournant l'Afrique. Après des années de recherches et de refus de la part des cours européennes, il obtient enfin le soutien des Rois Catholiques d'Espagne en 1492.
+Christophe Colomb naît en 1451 à Gênes, dans une famille modeste de tisserands. Dès son plus jeune âge, il s'intéresse à la navigation et à la cartographie. Il devient marin et voyage en Méditerranée, puis en Afrique, où il apprend les techniques de navigation portugaise. En 1484, il propose un projet audacieux à Jean II de Portugal : atteindre les Indes en naviguant vers l'ouest. Rejeté, il se tourne vers les Rois Catholiques d'Espagne, Isabelle de Castille et Ferdinand d'Aragon, qui finissent par financer son expédition en 1492.
 
-Colomb est un homme ambitieux, convaincu de sa mission divine. Il cherche à convertir les peuples lointains au christianisme et à enrichir l'Espagne. Son premier voyage en 1492 marque le début d'une série d'expéditions qui changent le cours de l'histoire. Il meurt en 1506, toujours convaincu d'avoir atteint les Indes, ignorant qu'il a découvert un nouveau continent.
+Colomb est un homme ambitieux, convaincu de la rotondité de la Terre et de la possibilité de rejoindre l'Asie par l'ouest. Il est aussi un stratège habile, capable de convaincre les souverains de son époque. Cependant, son caractère autoritaire et son refus de reconnaître ses erreurs de calculs géographiques lui valent des conflits avec ses équipages et les autorités coloniales.
+
+Il meurt en 1506 à Valladolid, toujours convaincu d'avoir atteint les côtes de l'Asie, ignorant qu'il avait découvert un nouveau continent.
 
 ---
 
@@ -23,92 +30,92 @@ Colomb est un homme ambitieux, convaincu de sa mission divine. Il cherche à con
 
 ### 1. Premier voyage (1492-1493)
 **Commanditaire** : Couronne d'Espagne
-**Objectif** : Trouver une route maritime vers les Indes orientales
-**Équipage/Moyens** : 3 navires (la Santa María, la Pinta, la Niña) et 90 hommes
+**Objectif** : Trouver une route maritime vers les Indes en naviguant vers l'ouest
+**Équipage/Moyens** : 3 navires (la Santa María, la Pinta et la Niña) et 90 hommes
 
 **Itinéraire** :
-- **Palos de la Frontera (Espagne)** → **Canaries** → **Océan Atlantique** → **San Salvador (Bahamas)**
+- Palos de la Frontera (Espagne) → Îles Canaries → Atlantique → Bahamas → Hispaniola
 
 **Découvertes/Conquêtes** :
-- **San Salvador (12 octobre 1492)** : Première terre découverte, qu'il croit être une île des Indes.
-- **Cuba et Hispaniola** : Explore ces îles, établissant un fort sur Hispaniola.
+- **12 octobre 1492** : Arrivée à Guanahani (San Salvador), première île des Bahamas
+- **1492-1493** : Exploration des Grandes Antilles (Cuba, Hispaniola)
 
-**Issue** : Retour triomphal en Espagne, mais Colomb ignore qu'il a atteint un nouveau continent.
+**Issue** : Retour triomphal en Espagne, mais Colomb sous-estime la distance parcourue et croit avoir atteint l'Asie.
 
 ### 2. Deuxième voyage (1493-1496)
 **Commanditaire** : Couronne d'Espagne
-**Objectif** : Coloniser les terres découvertes et établir des colonies
-**Équipage/Moyens** : 17 navires et 1 200 hommes
+**Objectif** : Coloniser les terres découvertes et établir des comptoirs commerciaux
+**Équipage/Moyens** : 17 navires et 1 500 hommes
 
 **Itinéraire** :
-- **Cadix (Espagne)** → **Canaries** → **Antilles** → **Hispaniola**
+- Cadix (Espagne) → Îles Canaries → Antilles → Hispaniola
 
 **Découvertes/Conquêtes** :
-- **Porto Rico** : Découverte et colonisation.
-- **La Española** : Fondation de la ville de Santo Domingo, première colonie permanente.
+- **1493** : Fondation de la première colonie espagnole en Amérique (La Isabela, Hispaniola)
+- **1493-1496** : Exploration de Porto Rico et de la Jamaïque
 
-**Issue** : Conflits avec les colons et les populations locales, retour en Espagne en 1496.
+**Issue** : Conflits avec les Taïnos, répression violente, et début de l'exploitation des ressources locales.
 
 ### 3. Troisième voyage (1498-1500)
 **Commanditaire** : Couronne d'Espagne
-**Objectif** : Explorer plus au sud et trouver des richesses
-**Équipage/Moyens** : 6 navires et 300 hommes
+**Objectif** : Trouver le passage vers l'Asie et explorer de nouvelles terres
+**Équipage/Moyens** : 6 navires et 200 hommes
 
 **Itinéraire** :
-- **Sanlúcar de Barrameda (Espagne)** → **Caraïbes** → **Vénézuéla**
+- Sanlúcar de Barrameda (Espagne) → Îles Canaries → Amérique du Sud → Trinidad → Venezuela
 
 **Découvertes/Conquêtes** :
-- **Trinité et Vénézuéla** : Découverte de la côte sud de l'Amérique du Sud.
+- **1498** : Découverte de l'Amérique du Sud (Trinidad et Venezuela)
+- **1498-1500** : Exploration du golfe de Paria et de la côte vénézuélienne
 
-**Issue** : Accusé de mauvaise gestion, Colomb est renvoyé en Espagne en chaînes en 1500.
+**Issue** : Retour en Espagne en 1500, emprisonné pour mauvaise gestion de la colonie.
 
 ### 4. Quatrième voyage (1502-1504)
 **Commanditaire** : Couronne d'Espagne
-**Objectif** : Trouver un passage vers les Indes orientales
+**Objectif** : Trouver le passage vers l'Asie et explorer la côte centrale de l'Amérique
 **Équipage/Moyens** : 4 navires et 140 hommes
 
 **Itinéraire** :
-- **Cadix (Espagne)** → **Caraïbes** → **Amérique centrale**
+- Cadix (Espagne) → Îles Canaries → Amérique centrale → Honduras, Nicaragua, Costa Rica, Panama
 
 **Découvertes/Conquêtes** :
-- **Côte du Honduras, Nicaragua, Costa Rica, Panama** : Exploration de la côte centrale.
+- **1502-1504** : Exploration des côtes de l'Amérique centrale (Honduras, Nicaragua, Costa Rica, Panama)
+- **1503** : Naufrage de la Santa María et survie sur l'île de Jamaica
 
-**Issue** : Échouage des navires, retour difficile en Espagne en 1504.
+**Issue** : Retour en Espagne en 1504, ruiné et malade, il meurt en 1506.
 
 ---
 
 ## Découvertes et impact
 
-Christophe Colomb a ouvert la voie à la colonisation européenne des Amériques. Ses voyages ont permis la découverte de nouvelles terres, mais aussi l'exploitation des populations indigènes et la diffusion de maladies européennes. Bien qu'il ait cru atteindre les Indes, ses expéditions ont marqué le début de l'ère des grandes découvertes et de la colonisation espagnole.
+Christophe Colomb a ouvert la voie à la colonisation européenne des Amériques. Ses voyages ont permis aux Espagnols d'établir des colonies permanentes, marquant le début de la domination européenne sur le continent. Cependant, son arrivée a aussi entraîné la destruction des civilisations autochtones, notamment les Taïnos, en raison des maladies, de l'esclavage et des violences.
 
-L'impact de Colomb est immense : il a changé le cours de l'histoire mondiale, mais aussi causé des souffrances et des destructions. Aujourd'hui, son héritage est controversé, entre célébration et critique.
+Sur le plan géographique, Colomb a cartographié une partie des Caraïbes et de l'Amérique centrale, bien qu'il ait toujours cru avoir atteint les Indes. Son erreur de calcul a eu des conséquences majeures, car elle a retardé la reconnaissance de l'existence d'un nouveau continent. Son héritage est aujourd'hui controversé : célébré comme un explorateur visionnaire, il est aussi critiqué pour son rôle dans la colonisation et l'exploitation des peuples indigènes.
 
 ---
 
 ## Chronologie
 
-- **1451** : Naissance à Gênes.
-- **1476** : Participe à une bataille navale contre les pirates barbaresques.
-- **1492** : Premier voyage vers les Amériques.
-- **1493** : Deuxième voyage, fondation de la colonie de La Isabela.
-- **1498** : Troisième voyage, découverte du Vénézuéla.
-- **1502** : Quatrième voyage, exploration de l'Amérique centrale.
-- **1506** : Mort à Valladolid, en Espagne.
+- **1451** : Naissance à Gênes
+- **1484** : Proposition rejetée par le Portugal
+- **1492** : Premier voyage, découverte des Amériques
+- **1493-1496** : Deuxième voyage, colonisation d'Hispaniola
+- **1498-1500** : Troisième voyage, exploration de l'Amérique du Sud
+- **1502-1504** : Quatrième voyage, exploration de l'Amérique centrale
+- **1506** : Mort à Valladolid
 
 ---
 
 ## Héritage
 
-Christophe Colomb est célébré comme un héros en Espagne et dans les Amériques, mais son héritage est aussi critiqué pour son rôle dans la colonisation et l'exploitation des peuples indigènes. Son nom est associé à la découverte de l'Amérique, mais aussi aux conséquences dramatiques de cette rencontre entre les deux mondes.
-
-Aujourd'hui, des statues et des monuments lui rendent hommage, mais des mouvements réclament leur retrait, soulignant les violences et les injustices commises sous son commandement.
+Christophe Colomb est aujourd'hui une figure controversée. Aux États-Unis et dans certains pays d'Amérique latine, son héritage est critiqué en raison de son rôle dans la colonisation et l'exploitation des peuples indigènes. En Espagne, il est célébré comme un héros national. Son nom est associé à de nombreux lieux et institutions, mais des mouvements réclament la réévaluation de son héritage.
 
 ---
 
 ## Relations
 
 > [!info] **Relations**
-> - **Commanditaires** : `[[Isabelle de Castille]]` et `[[Ferdinand d'Aragon]]` (financement des voyages)
-> - **Équipage/Compagnons** : `[[Diego Colón]]` (fils et successeur)
-> - **Rivaux** : `[[Bartolomeu Dias]]` (navigateur portugais)
-> - **Adversaires** : `[[Tainos]]` (peuples indigènes des Caraïbes)
+> - **Commanditaires** : `Isabelle de Castille` et `Ferdinand d'Aragon` (financement des expéditions)
+> - **Équipage/Compagnons** : `Rodrigo de Triana` (premier à apercevoir la terre en 1492)
+> - **Rivaux** : `Bartolomeu Dias` (navigateur portugais)
+> - **Adversaires** : `Taïnos` (peuple autochtone des Caraïbes)
