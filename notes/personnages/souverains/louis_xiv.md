@@ -4,56 +4,48 @@
 > **Louis XIV**
 > ![[Louis_XIV|300]]
 > - **Dates** : 5 septembre 1638 - 1er septembre 1715
-> - **Titre** : Roi de France
+> - **Titre** : Roi de France et de Navarre
 > - **Dynastie** : Maison de Bourbon
 > - **Règne** : 14 mai 1643 - 1er septembre 1715
-> - **Territoire** : Royaume de France
+> - **Territoire** : Royaume de France et de Navarre
 > - **Prédécesseur** : Louis XIII
 > - **Successeur** : Louis XV
 
 ## Biographie
 
-Louis XIV, surnommé le "Roi-Soleil", naît le 5 septembre 1638 à Saint-Germain-en-Laye. Fils de Louis XIII et d'Anne d'Autriche, il monte sur le trône à l'âge de quatre ans, après la mort de son père en 1643. Son règne, l'un des plus longs de l'histoire européenne, dure 72 ans, marquant profondément la France et l'Europe. Élevé sous la régence de sa mère et du cardinal Mazarin, il prend progressivement le contrôle du pouvoir à partir de 1661, après la mort de Mazarin. Son règne est caractérisé par une centralisation du pouvoir absolu, une politique de grandeur et de rayonnement culturel.
+Louis XIV, surnommé « le Grand » ou « le Roi-Soleil », naît le 5 septembre 1638 au château Neuf de Saint-Germain-en-Laye. Il monte sur le trône de France à l'âge de quatre ans, à la mort de son père Louis XIII, le 14 mai 1643. Sa minorité est marquée par la régence de sa mère, Anne d'Autriche, et du cardinal Mazarin, ainsi que par les troubles de la Fronde (1648-1653). À la mort de Mazarin en 1661, il prend personnellement le contrôle du gouvernement, marquant le début d'un règne de 72 ans, l'un des plus longs de l'histoire européenne. Il meurt le 1er septembre 1715 au château de Versailles, laissant derrière lui un héritage politique et culturel majeur.
 
 ## Règne
 
-### Politique intérieure
-Louis XIV incarne l'apogée de l'absolutisme monarchique. Il concentre tous les pouvoirs entre ses mains, réduisant l'influence des nobles et des parlements. La création de Versailles en 1661 symbolise cette centralisation : le château devient le centre du pouvoir et de la cour, où les nobles sont tenus de résider pour être contrôlés. Le roi impose une administration rigoureuse, avec des intendants dans les provinces et une bureaucratie centralisée. Les réformes économiques, comme la création de la Chambre de justice en 1661 pour lutter contre la corruption, renforcent l'autorité royale.
-
 > [!info] **Politique intérieure**
-> Louis XIV transforme la France en un État centralisé, où le roi est au sommet d'une pyramide administrative. La création de Versailles et la révocation de l'édit de Nantes en 1685 illustrent cette volonté de contrôle absolu.
-
-### Guerres et conflits
-Le règne de Louis XIV est marqué par de nombreux conflits, notamment les guerres de Hollande (1672-1678), de la Ligue d'Augsbourg (1688-1697) et de Succession d'Espagne (1701-1714). Ces guerres visent à étendre les frontières françaises et à affirmer la prééminence de la France en Europe. Cependant, elles épuisent les finances du royaume et isolent progressivement la France sur la scène internationale.
+> Louis XIV instaure un absolutisme de droit divin, centralisant le pouvoir royal et réduisant l'influence des nobles et des parlements. Il impose l'obéissance à tous les ordres et contrôle les courants d'opinion, notamment religieux. Son règne voit la fin des grandes révoltes nobiliaires et protestantes. Il modernise l'administration et les finances, avec l'aide de Jean-Baptiste Colbert, jusqu'à la mort de ce dernier en 1683.
 
 > [!war] **Guerres et conflits**
-> Les guerres de Louis XIV, bien que victorieuses à court terme, affaiblissent la France économiquement et diplomatiquement. La révocation de l'édit de Nantes en 1685, qui chasse les protestants, aggrave cette situation en privant le royaume de compétences économiques.
-
-### Diplomatie
-Louis XIV mène une diplomatie offensive, cherchant à dominer l'Europe. Il utilise les mariages de ses enfants et petits-enfants pour tisser des alliances, comme celui de sa fille Marie-Thérèse avec l'empereur Léopold Ier. Cependant, ces alliances sont souvent fragiles et se retournent contre la France, notamment lors de la guerre de Succession d'Espagne.
+> Louis XIV mène plusieurs guerres pour affirmer la puissance française, notamment la guerre de Dévolution (1667-1668) et la guerre de Hollande (1672-1678). Il mène également des campagnes militaires contre les Habsbourg et les puissances européennes coalisées, comme la guerre de la Ligue d'Augsbourg (1688-1697) et la guerre de Succession d'Espagne (1701-1714). Ces conflits s'accompagnent de défaites et de crises financières.
 
 > [!diplomacy] **Diplomatie**
-> La diplomatie de Louis XIV repose sur des alliances matrimoniales et des traités, mais son ambition hégémonique finit par isoler la France. La guerre de Succession d'Espagne montre les limites de cette politique.
+> Louis XIV poursuit une politique étrangère agressive pour dégager la France de l'encerclement des Habsbourg. Il signe des traités comme celui d'Aix-la-Chapelle (1668) et de Nimègue (1678), mais ses ambitions provoquent des coalitions européennes contre la France. Il tente de renforcer la maison royale en légitimant ses fils bâtards, ce qui suscite des tensions successorales.
 
 ## Événements clés
 
-- **1643** : Accession au trône à l'âge de quatre ans.
-- **1661** : Mort de Mazarin, Louis XIV prend le pouvoir.
-- **1667-1668** : Guerre de Dévolution contre l'Espagne.
-- **1672-1678** : Guerre de Hollande.
+- **1643** : Accession au trône à l'âge de quatre ans sous la régence d'Anne d'Autriche et de Mazarin.
+- **1661** : Mort de Mazarin ; Louis XIV prend le contrôle du gouvernement et fait arrêter Nicolas Fouquet.
+- **1667-1668** : Guerre de Dévolution contre l'Espagne, conclue par le traité d'Aix-la-Chapelle.
+- **1672-1678** : Guerre de Hollande, conclue par le traité de Nimègue.
 - **1682** : Installation définitive de la cour à Versailles.
-- **1685** : Révocation de l'édit de Nantes.
-- **1701-1714** : Guerre de Succession d'Espagne.
-- **1715** : Mort de Louis XIV, fin d'un règne de 72 ans.
+- **1685** : Révocation de l'édit de Nantes, marquant le début des dragonnades contre les protestants.
+- **1688-1697** : Guerre de la Ligue d'Augsbourg contre les puissances européennes.
+- **1701-1714** : Guerre de Succession d'Espagne, marquée par des défaites et des crises financières.
+- **1715** : Mort de Louis XIV, mettant fin à un règne de 72 ans.
 
 ## Héritage
 
-Louis XIV laisse une France épuisée par les guerres mais marquée par son règne. Son absolutisme et son mécénat culturel ont profondément influencé l'histoire française. Versailles devient un symbole du pouvoir monarchique, et la France reste une puissance culturelle majeure en Europe. Cependant, les dettes accumulées et les tensions religieuses affaiblissent le royaume, préparant les crises du XVIIIe siècle. Son successeur, Louis XV, hérite d'un État centralisé mais fragilisé.
+À sa mort, Louis XIV laisse un royaume affaibli par les guerres et les crises économiques, mais aussi un État centralisé et une culture rayonnante. Son successeur, Louis XV, lui succède dans des conditions difficiles, marquées par des tensions successorales. Louis XIV est perçu comme un monarque absolu, symbole de la grandeur française, mais aussi comme un souverain dont les guerres ont épuisé le pays. Son règne a laissé une empreinte durable dans l'histoire politique et culturelle de la France, notamment à travers la construction de Versailles et le développement des arts.
 
 ## Relations
 
 > [!info] **Relations**
-> - **Famille** : `[[Anne d'Autriche]]` (mère), `[[Philippe d'Orléans]]` (frère), `[[Marie-Thérèse d'Autriche]]` (épouse), `[[Louis, le Grand Dauphin]]` (fils)
-> - **Alliés** : `[[Charles II d'Espagne]]` (alliance matrimoniale)
-> - **Rivaux/Ennemis** : `[[Guillaume III d'Angleterre]]` (ennemi lors de la guerre de la Ligue d'Augsbourg)
-> - **Conseillers** : `[[Jean-Baptiste Colbert]]` (contrôleur général des finances)
+> - **Famille** : `[[Louis XIII]]` (père), `[[Anne d'Autriche]]` (mère), `[[Marie-Thérèse d'Autriche]]` (épouse), `[[Louis de France]]` (fils, Grand Dauphin)
+> - **Alliés** : `[[Victor-Amédée II]]` (allié puis ennemi), `[[Jacques II d'Angleterre]]` (allié)
+> - **Rivaux/Ennemis** : `[[Guillaume III d'Orange-Nassau]]` (ennemi), `[[Ligue d'Augsbourg]]` (coalition ennemie)
+> - **Conseillers** : `[[Jean-Baptiste Colbert]]` (ministre des Finances), `[[François-Michel le Tellier de Louvois]]` (ministre de la Guerre), `[[Madame de Maintenon]]` (influence religieuse)
