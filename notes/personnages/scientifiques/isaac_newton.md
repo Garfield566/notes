@@ -1,73 +1,86 @@
-# Isaac Newton
+# Template : personnages scientifiques/intellectuels
 
-## Infobox
-
-- **Dates**: 4 janvier 1643 - 31 mars 1727
-- **Profession**: Mathématicien, physicien, astronome, alchimiste
-- **Nationalité**: Royaume-Uni
-- **Œuvres principales**: *Philosophiæ Naturalis Principia Mathematica*, *Opticks*, *Method of Fluxions*
-
+## Propriétés (front matter YAML)
+```yaml
 ---
-
-## Biographie
-
-Isaac Newton naît prématurément en 1643 dans le Lincolnshire, en Angleterre, dans une famille modeste. Son père meurt avant sa naissance, et sa mère se remarie rapidement, le laissant aux soins de sa grand-mère. Cette enfance solitaire le pousse vers l'étude et l'observation de la nature.
-
-En 1661, il entre au Trinity College de Cambridge, où il se distingue rapidement par ses talents en mathématiques. La Grande Peste de 1665 le force à retourner dans sa ferme familiale, période durant laquelle il développe ses idées sur le calcul infinitésimal, la gravitation et l'optique. De retour à Cambridge, il devient professeur en 1669 et publie ses travaux sur la lumière et les couleurs.
-
-En 1687, il publie *Principia Mathematica*, synthèse de ses travaux sur la mécanique céleste et la gravitation, qui révolutionne la physique. Nommé président de la Royal Society en 1703, il consacre ses dernières années à l'alchimie et aux controverses scientifiques. Il meurt en 1727, laissant derrière lui un héritage scientifique colossal.
-
+aliases: Isaac Newton, Sir Isaac Newton
+tags: #science/personne/physique
+nationalite: Angleterre
+domaines: Physique, Mathématiques, Astronomie, Théologie
+institution: Trinity College (Cambridge)
+periode: Lumières
+date_creation: 1643-1727
 ---
+```
 
-## Notions clés
+## Structure du document
+
+### 1. Isaac Newton
+
+> [!Infobox]
+> Isaac Newton
+> ![[isaac_newton.jpg|300]]
+> - **Dates** : 4 janvier 1643 - 31 mars 1727
+> - **Profession** : Physicien, mathématicien, astronome
+> - **Nationalité** : Angleterre
+> - **Œuvres principales** : Principia Mathematica, Opticks, Philosophiæ Naturalis Principia Mathematica
+
+### 2. Biographie
+
+Isaac Newton naît prématurément en 1643 dans le Lincolnshire, en Angleterre. Son père, un fermier, meurt avant sa naissance, et sa mère se remarie rapidement, le laissant aux soins de sa grand-mère. Cette enfance solitaire le pousse à développer très tôt une curiosité intellectuelle intense.
+
+Il entre au Trinity College de Cambridge en 1661, où il étudie les mathématiques, la physique et l'alchimie. C'est pendant la Grande Peste de Londres (1665-1666), alors qu'il se réfugie à la campagne, qu'il développe ses premières idées révolutionnaires sur le calcul infinitésimal, la gravitation universelle et l'optique.
+
+De retour à Cambridge, il devient professeur en 1669. En 1687, il publie son œuvre majeure, les *Principia Mathematica*, qui pose les fondements de la mécanique classique. Il est élu président de la Royal Society en 1703 et anobli par la reine Anne en 1705. Il meurt en 1727 à Londres, laissant derrière lui un héritage scientifique colossal.
+
+### 3. Notions clés
 
 > [!notion]- #### Lois du mouvement
 >
 > > [!abstract] Définition
-> > Trois lois fondamentales décrivant le mouvement des corps : l'inertie, la relation force-accélération et l'action-réaction.
+> > Les trois lois du mouvement de Newton, publiées dans les *Principia*, constituent la base de la mécanique classique. Elles décrivent comment les forces influencent le mouvement des corps.
 >
 > > [!example] Développement théorique
-> > La première loi (inertie) stipule qu'un corps reste en mouvement rectiligne uniforme ou au repos sauf si une force agit sur lui. La deuxième loi (F = ma) lie la force à l'accélération. La troisième loi énonce que toute action a une réaction égale et opposée. Ces lois unifient la mécanique terrestre et céleste.
+> > La première loi (loi d'inertie) stipule qu'un corps reste au repos ou en mouvement rectiligne uniforme si aucune force n'agit sur lui. La deuxième loi (F=ma) relie la force, la masse et l'accélération. La troisième loi énonce que toute action entraîne une réaction égale et opposée.
+> >
+> > Ces lois ont révolutionné la physique en unifiant les mouvements célestes et terrestres sous un même cadre théorique. Elles ont permis de prédire avec précision les trajectoires des planètes et des projectiles.
 >
 > > [!danger] Exemple
-> > Un ballon lancé en l'air (action) subit la gravité (réaction) et retombe selon une trajectoire parabolique, illustrant les trois lois.
+> > Considérons une voiture qui accélère : selon la deuxième loi, si la force du moteur (F) est de 1000 N et que la masse (m) de la voiture est de 1000 kg, l'accélération (a) sera de 1 m/s² (F=ma → 1000=1000×a → a=1).
 
 > [!notion]- #### Gravitation universelle
 >
 > > [!abstract] Définition
-> > Loi selon laquelle deux masses s'attirent avec une force proportionnelle à leur produit et inversement proportionnelle au carré de leur distance.
+> > La loi de la gravitation universelle de Newton stipule que deux corps s'attirent avec une force proportionnelle à leur masse et inversement proportionnelle au carré de la distance qui les sépare.
 >
 > > [!example] Développement théorique
-> > Newton formule cette loi en 1687 pour expliquer les mouvements planétaires. Elle unifie la chute des corps sur Terre et les orbites des planètes. La constante de gravitation (G) est introduite plus tard par Cavendish.
+> > La formule F = G × (m1 × m2) / r², où G est la constante gravitationnelle, explique pourquoi les planètes restent en orbite autour du Soleil. Newton a unifié les mouvements célestes décrits par Kepler avec les lois terrestres.
+> >
+> > Cette découverte a permis de calculer les masses des planètes et de prédire les éclipses avec une précision inédite. Elle a aussi ouvert la voie à la relativité générale d'Einstein.
 >
 > > [!danger] Exemple
-> > La Lune orbite autour de la Terre car la force gravitationnelle équilibre sa tendance à s'éloigner en ligne droite (inertie).
+> > La force gravitationnelle entre la Terre (m1 = 5.97 × 10²⁴ kg) et le Soleil (m2 = 1.99 × 10³⁰ kg) à une distance moyenne de 149.6 millions de km (r) est d'environ 3.54 × 10²² N (F = 6.67 × 10⁻¹¹ × (5.97 × 10²⁴ × 1.99 × 10³⁰) / (149.6 × 10⁹)²).
 
 > [!notion]- #### Calcul infinitésimal
 >
 > > [!abstract] Définition
-> > Méthode mathématique pour étudier les variations infinitésimales des fonctions, incluant le calcul différentiel et intégral.
+> > Le calcul infinitésimal, développé indépendamment par Newton et Leibniz, est un outil mathématique permettant d'étudier les variations infinitésimales de fonctions.
 >
 > > [!example] Développement théorique
-> > Newton développe le calcul des fluxions (précurseur du calcul différentiel) pour modéliser les mouvements. Ses travaux, publiés tardivement, entrent en conflit avec ceux de Leibniz.
+> > Newton a introduit les concepts de dérivée (taux de variation) et d'intégrale (aire sous la courbe). Ces outils ont permis de modéliser des phénomènes dynamiques comme le mouvement des corps ou les flux de chaleur.
+> >
+> > Le calcul infinitésimal est aujourd'hui au cœur des mathématiques appliquées, de la physique théorique et de l'ingénierie.
 >
 > > [!danger] Exemple
-> > La dérivée de \(x^2\) est \(2x\), ce qui permet de déterminer la vitesse instantanée d'un objet dont la position est \(x(t) = t^2\).
+> > Pour trouver la vitesse instantanée d'un objet dont la position est donnée par x(t) = t² + 3t + 2, on dérive cette fonction : v(t) = dx/dt = 2t + 3. À t=2 secondes, la vitesse est de 7 m/s.
 
----
+### 4. Productions
 
-## Productions
-
-> [!example] **Traité (1687)**: *Philosophiæ Naturalis Principia Mathematica* – Mécanique, gravitation, lois du mouvement
-> > Fondement de la physique classique, introduisant les lois du mouvement et la gravitation universelle.
-
-> [!example] **Livre (1704)**: *Opticks* – Réflexion, réfraction, théorie corpusculaire de la lumière
-> > Explique les phénomènes optiques par des expériences sur la lumière et les couleurs.
-
-> [!example] **Manuscrit (1665-1666)**: *Method of Fluxions* – Calcul infinitésimal
-> > Précurseur du calcul différentiel, publié tardivement.
+> [!example] **Livre (1687)** : *Philosophiæ Naturalis Principia Mathematica* – Mécanique classique, gravitation, lois du mouvement
+> > [!example] **Livre (1704)** : *Opticks* – Théorie de la lumière, optique géométrique, couleurs
+> > [!example] **Traité (1669)** : *De analysi per aequationes numero terminorum infinitas* – Calcul infinitésimal
 
 > [!info] **Influences** :
-> - **Robert Hooke** : Débats sur la loi de la gravitation, Newton s'inspire de ses travaux sur l'élasticité.
-> - **Johannes Kepler** : Lois planétaires, que Newton unifie par la gravitation.
-> - **Galilée** : Fondements de la mécanique, Newton les étend à l'univers entier.
+> - Débats avec [[Robert Hooke]] sur la gravitation et la priorité du calcul infinitésimal
+> - Influence de [[Galilée]] et [[Kepler]] pour la mécanique céleste
+> - Conflits avec [[Gottfried Wilhelm Leibniz]] sur la paternité du calcul infinitésimal
