@@ -1,123 +1,108 @@
 ```yaml
 ---
 aliases: Cristoforo Colombo, Cristóbal Colón, Cristoffa Combo
-tags: histoire/personne/aventurier/navigateur
+tags: histoire/personne/aventurier/explorateur
 nationalité: génoise
 employeur: Rois catholiques d'Espagne
 zone_activite: Caraïbes, Amérique centrale
-periode: XVe - XVIe siècle
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg
-date_creation: 2024-05-20
+periode: XVe-XVIe siècle
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg
+date_creation: 2023-11-15
 ---
 ```
 
 > [!Infobox]
-> **Christophe Colomb**
-> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg|300]]
-> - **Dates** : 1451 - 20 mai 1506
-> - **Type** : Navigateur et explorateur
-> - **Employeur** : Rois catholiques d'Espagne
-> - **Zone d'activité** : Caraïbes, Amérique centrale
-> - **Fait marquant** : Découverte des Amériques en 1492
+> Christophe Colomb
+> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg|300]]
+>- **Dates** : 1451-1506
+>- **Type** : explorateur
+>- **Employeur** : Rois catholiques d'Espagne
+>- **Fait marquant** : Découverte des Caraïbes en 1492
 
 ## Biographie
-Christophe Colomb, né en 1451 à Gênes, est un navigateur et explorateur italien qui a marqué l'histoire par sa découverte des Amériques en 1492. Autodidacte, il s'est formé en lisant des ouvrages de géographie et d'astronomie, notamment l'Imago Mundi de Pierre d'Ailly. Après avoir travaillé comme marchand et navigateur en Méditerranée, il émigre au Portugal en 1476, où il développe son projet de atteindre les Indes par l'ouest. Rejeté par le roi Jean II en 1484, il se rend en Castille en 1485 et convainc finalement les Rois catholiques, Isabelle de Castille et Ferdinand d'Aragon, de financer son expédition en 1492. Il meurt le 20 mai 1506 à Valladolid, convaincu jusqu'à la fin d'avoir atteint les Indes.
+Christophe Colomb, né en 1451 à Gênes, est un navigateur génois célèbre pour avoir atteint les Caraïbes en 1492 au service des Rois catholiques d'Espagne. D'abord marchand et navigateur en Méditerranée, il émigre au Portugal en 1476 avant de proposer son projet de route vers l'ouest aux souverains espagnols. Après six ans de négociations, il obtient leur soutien en 1492. Colomb meurt le 20 mai 1506 à Valladolid, convaincu jusqu'au bout d'avoir atteint les Indes.
 
 ## Expéditions / Campagnes
 
 > [!expedition] **Premier voyage (1492-1493)**
 >
-> **Commanditaire** : Rois catholiques d'Espagne
+> **Commanditaire** : Isabelle de Castille et Ferdinand d'Aragon
 > **Objectif** : Atteindre les Indes par l'ouest
-> **Équipage/Moyens** : Trois caravelles (la Santa María, la Pinta et la Niña) et environ 90 hommes
+> **Équipage/Moyens** : Trois caravelles (la Santa María, la Pinta et la Niña) et 90 hommes
 >
 > **Itinéraire** :
-> - Palos de la Frontera (Espagne) → Îles Canaries → [[Guanahani]] (San Salvador) → [[Cuba]] (Juana) → [[Hispaniola]] (La Española)
+> - Palos de la Frontera (Espagne) → Îles Canaries → [[Guanahani]] (12 octobre 1492) → [[Cuba]] → [[Hispaniola]] → Retour en Espagne (mars 1493)
 >
 > **Découvertes/Conquêtes** :
-> - [[Guanahani]] (San Salvador) : 12 octobre 1492
-> - [[Cuba]] (Juana) : 28 octobre 1492
-> - [[Hispaniola]] (La Española) : 6 décembre 1492
+> - [[Guanahani]] (renommée San Salvador) : première île atteinte le 12 octobre 1492
+> - [[Cuba]] : explorée en octobre-novembre 1492
+> - [[Hispaniola]] : explorée en décembre 1492
 >
-> **Issue** : Découverte des Amériques, retour en Espagne en mars 1493 avec des preuves de son voyage.
+> **Issue** : Retour triomphal en Espagne avec des preuves de terres inconnues, nomination comme vice-roi et gouverneur des Indes
 
 > [!expedition] **Deuxième voyage (1493-1496)**
 >
 > **Commanditaire** : Rois catholiques d'Espagne
-> **Objectif** : Coloniser les terres découvertes
-> **Équipage/Moyens** : 17 navires et environ 1 200 hommes
+> **Objectif** : Coloniser Hispaniola et explorer de nouvelles terres
+> **Équipage/Moyens** : 17 navires et 1 200 hommes
 >
 > **Itinéraire** :
-> - Cadix (Espagne) → Îles Canaries → [[Desiderada]] (La Désirade) → [[Maria Galanda]] (Marie-Galante) → [[Dominica]] (la Dominique) → [[Guadeloupe]] (Santa María de Guadalupe de Estremadura) → [[Montserrat]] → [[Saint-Martin]] → [[Saint-Barthélemy]] → [[Hispaniola]] (La Isabela)
+> - Cadix (Espagne) → Îles Canaries → [[La Désirade]] (2 novembre 1493) → [[Marie-Galante]] → [[Dominique]] → [[Guadeloupe]] → [[Hispaniola]] → Exploration de Cuba et Jamaïque
 >
 > **Découvertes/Conquêtes** :
-> - [[Desiderada]] (La Désirade) : 2 novembre 1493
-> - [[Maria Galanda]] (Marie-Galante) : 3 novembre 1493
-> - [[Dominica]] (la Dominique) : 3 novembre 1493
-> - [[Guadeloupe]] (Santa María de Guadalupe de Estremadura) : 4 novembre 1493
-> - [[Montserrat]] : 11 novembre 1493
-> - [[Saint-Martin]] : 11 novembre 1493
-> - [[Saint-Barthélemy]] : 11 novembre 1493
-> - Fondation de [[La Isabela]] : 2 janvier 1494
+> - Fondation de la colonie de [[La Isabela]] en janvier 1494
+> - Exploration de la côte sud de Cuba et de la Jamaïque
 >
-> **Issue** : Colonisation difficile, retour en Espagne en 1496 après des conflits avec les colons.
+> **Issue** : Dégradation des relations avec les colons, retour en Espagne en 1496
 
 > [!expedition] **Troisième voyage (1498-1500)**
 >
 > **Commanditaire** : Rois catholiques d'Espagne
-> **Objectif** : Explorer le sud des Antilles
-> **Équipage/Moyens** : Six navires et environ 200 hommes
+> **Objectif** : Explorer le sud des Antilles et trouver une route vers les Indes
+> **Équipage/Moyens** : Six navires
 >
 > **Itinéraire** :
-> - Sanlúcar de Barrameda (Espagne) → Îles du Cap-Vert → [[Saint-Vincent]] → [[Grenade]] → [[Trinité]] → [[Margarita]] → [[Orénoque]] (Venezuela)
+> - Sanlúcar de Barrameda (Espagne) → Îles Canaries → [[Saint-Vincent]] → [[Grenade]] → [[Trinité]] → [[Margarita]] → [[Orénoque]] (5 août 1498)
 >
 > **Découvertes/Conquêtes** :
-> - [[Saint-Vincent]] : août 1498
-> - [[Grenade]] : août 1498
-> - [[Trinité]] : août 1498
-> - [[Margarita]] : août 1498
-> - [[Orénoque]] (Venezuela) : 5 août 1498
+> - Découverte de l'embouchure de l'Orénoque, preuve de l'existence du continent sud-américain
 >
-> **Issue** : Découverte du continent sud-américain, retour en Espagne en 1500 après avoir été arrêté et renvoyé en Espagne.
+> **Issue** : Retour en Espagne en 1500, destitution de ses titres de gouverneur et vice-roi
 
 > [!expedition] **Quatrième voyage (1502-1504)**
 >
 > **Commanditaire** : Rois catholiques d'Espagne
-> **Objectif** : Explorer les côtes de l'Amérique centrale
-> **Équipage/Moyens** : Quatre navires et environ 140 hommes
+> **Objectif** : Trouver une route vers les Indes en longeant la côte sud de l'Amérique centrale
+> **Équipage/Moyens** : Quatre navires
 >
 > **Itinéraire** :
-> - Cadix (Espagne) → Îles Canaries → [[Martinique]] (Le Carbet) → [[Dominique]] → [[Saint-Domingue]] → [[Costa Rica]] (île Uvita, La Huerta) → [[Veragua]] → [[Panama]]
+> - Cadix (Espagne) → [[Martinique]] (15 juin 1502) → [[Dominique]] → [[Saint-Domingue]] → Côte du [[Costa Rica]] et [[Panama]]
 >
 > **Découvertes/Conquêtes** :
-> - [[Martinique]] (Le Carbet) : 15 juin 1502
-> - [[Dominique]] : 18 juin 1502
-> - [[Saint-Domingue]] : 24 juin 1502
-> - [[Costa Rica]] (île Uvita, La Huerta) : juin 1502
-> - [[Veragua]] : juin 1502
-> - [[Panama]] : juin 1502
+> - Exploration des côtes du Costa Rica et du Panama
 >
-> **Issue** : Voyage difficile, retour en Espagne en 1504 après avoir été abandonné par ses hommes.
+> **Issue** : Naufrage de la flotte, retour en Espagne en 1504, mort en 1506
 
 ## Découvertes et impact
-Christophe Colomb a découvert les Amériques en 1492, ouvrant la voie à la colonisation européenne du continent. Ses voyages ont permis de cartographier une grande partie des Caraïbes et de l'Amérique centrale. Cependant, sa colonisation d'Hispaniola a été marquée par des violences et des maladies qui ont décimé les populations indigènes. Son impact immédiat a été la création de colonies espagnoles, mais les conséquences à long terme ont été la destruction de nombreuses cultures indigènes et l'établissement de la traite des esclaves. Les controverses autour de son héritage persistent, notamment en raison des violences commises contre les populations locales.
+Christophe Colomb a découvert les Caraïbes en 1492, ouvrant la voie à la colonisation espagnole des Amériques. Ses voyages ont permis la cartographie de nouvelles terres et l'établissement des premières colonies européennes en Amérique. Cependant, son administration coloniale a été critiquée pour sa brutalité et son inefficacité. Les épidémies apportées par les Européens ont décimé les populations indigènes. Colomb est resté convaincu jusqu'à sa mort d'avoir atteint les Indes, sans réaliser qu'il avait découvert un nouveau continent.
 
 ## Chronologie
-- **1451** : Naissance à Gênes
-- **1476** : Émigration au Portugal
-- **1485** : Arrivée en Castille
-- **1492** : Premier voyage et découverte des Amériques
-- **1493** : Deuxième voyage et fondation de La Isabela
-- **1498** : Troisième voyage et découverte du continent sud-américain
-- **1502** : Quatrième voyage et exploration de l'Amérique centrale
-- **20 mai 1506** : Mort à Valladolid
+- **1410** : l'Historia rerum ubique gestarum de Pie II (1477), De consuetudinibus et conditionibus orientalium
+- **1474** : il évoque notamment une île qu'il nomme Bacalao (« morue » : par la suite, Terre-Neuve sera un pôle
+- **1485** : une traduction en italien de l'Histoire naturelle de Pline l'Ancien, la traduction en castillan des
+- **1487** : soit environ une année de vie modeste)
+- **1492** : les capitulations de Santa Fe
+- **1496** : parvient à se justifier, repart à Hispaniola en 1498, mais la situation dans l'île ne s'arrange pas
+- **1500** : un émissaire des Rois catholiques, envoyé en inspection, le met aux arrêts et le renvoie en Espagne
+- **1502** : il lui est même interdit de faire escale à Hispaniola
+- **1506** : Deces (20 mai 1506)
 
 ## Héritage
-Christophe Colomb est souvent célébré comme un héros de la découverte des Amériques, mais son héritage est également marqué par des controverses. Il a reçu des titres honorifiques de la part des Rois catholiques, mais a également été critiqué pour sa gestion des colonies. Aujourd'hui, son héritage est réévalué, notamment en raison des violences commises contre les populations indigènes. Son nom est associé à de nombreux lieux et institutions, mais des mouvements réclament la décolonisation de son image.
+Christophe Colomb est célébré comme un explorateur ayant ouvert la voie à la colonisation européenne des Amériques. Cependant, son héritage est controversé en raison des violences et des épidémies qui ont suivi ses voyages. Son nom est associé à de nombreux lieux en Amérique, mais des mouvements réclament le retrait de certaines statues et commémorations en raison de son rôle dans la colonisation.
 
 ## Relations
 > [!info] **Relations**
-> - **Commanditaires** : `[[Isabelle de Castille]]` et `[[Ferdinand d'Aragon]]` (financement des expéditions)
-> - **Équipage/Compagnons** : `[[Alonso Pinzón]]` (capitaine de la Pinta) et `[[Bartolomé de Las Casas]]` (chroniqueur)
-> - **Rivaux** : `[[Jean II du Portugal]]` (refus initial du projet)
-> - **Adversaires** : Peuples indigènes des Caraïbes et de l'Amérique centrale
+> - **Commanditaires** : `[[Isabelle de Castille]]` et `[[Ferdinand d'Aragon]]` (financement et soutien politique)
+> - **Équipage/Compagnons** : `[[Rodrigo de Triana]]` (premier à apercevoir les terres), `[[Alonso Pinzón]]` (capitaine de la Pinta)
+> - **Rivaux** : `[[Jean II de Portugal]]` (refus initial du projet)
+> - **Adversaires** : Peuples taïnos et caraïbes (résistance aux colons)
