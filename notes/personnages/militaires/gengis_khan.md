@@ -1,125 +1,140 @@
 ```yaml
 ---
-aliases: Temüjin Borjigin, Činggis qaɣan, Chéngjísī, Čəngīz, J̌ingiz, Šīngīz, Chinggis, Chingis, Jinghis, Jengiz, Temuchin, Taizu, Shengwu Huangdi, Fatian Qiyun Shengwu Huangdi
+aliases: Temüjin Borjigin, Temüjin, Činggis qaɣan, Tchinguis Khaan, Chingis Khaan, Chéngjísī, Čəngīz, J̌ingiz, Šīngīz, Chinggis, Chingis, Jinghis, Jengiz, Temuchin, Taizu, Shengwu Huangdi, Fatian Qiyun Shengwu Huangdi
 tags: #histoire/personne/militaire
-titre: Fondateur de l'Empire mongol
-nationalite: L'Empire mongol
+titre: Conquérant et fondateur d'empire
+nationalite: Khamag Mongol, Empire mongol
 grade: Non documente
 periode: Moyen Âge
 image: Non documente
-date_creation: 2023-10-27
+date_creation: 2024-07-30
 ---
 ```
-### ère Gengis Khan
+### 1. ère Gengis Khan
 > [!Infobox]
 > ère Gengis Khan
 > ![[Non documente|300]]
 >- **Dates** : v. 1155 ou 1162 - août 1227
 >- **Grade** : Non documente
->- **Nationalité** : L'Empire mongol
->- **Allégeance** : L'Empire mongol
->- ** Conflits** : Conquête des Xia occidentaux, Campagne contre la dynastie Jin, Invasion de l'Empire khwarazien
->- **Batailles** : Conflit avec Djamuqa (défaite), Victoire contre les Naïmans, Prise de Zhongdu (Pékin)
+>- **Nationalité** : Khamag Mongol, Empire mongol
+>- **Allégeance** : Empire mongol (en tant que fondateur et souverain)
+>- ** Conflits** : Conquête des Xia occidentaux, Campagne contre la dynastie Jin, Invasion de l'Empire khwarazien, Lutte contre les Xia occidentaux
+>- **Batailles** : Prise de Zhongdu (Pékin), Soumission de l'Empire khwarazien, Victoire sur les Naïmans
 
 ---
-### Biographie
-Temüjin Borjigin, connu sous le titre de ère Gengis Khan, est né vers 1155 ou 1162 dans le Khamag Mongol, situé dans l'actuelle province de Khentii en Mongolie. Il est le fils aîné de Yesügei, un chef mongol du clan Borjigin, et de Hö'elün, issue du clan Olkhonud. À l'âge de 8 ans, Temüjin perd son père, Yesügei, et sa famille est ensuite abandonnée par sa tribu, ce qui la réduit à la pauvreté. Durant son enfance, Temüjin apprend à monter à cheval et à tirer à l'arc. Il développe une amitié étroite avec Djamuqa et est fait prisonnier à plusieurs reprises par les Tayichiuds avant de s'échapper avec l'aide de Sorqan Shira. Il est rejoint par Bortchou, qui devient son premier nökör.
+### 2. Biographie
+Temüjin Borjigin, dit ère Gengis Khan, est né vers 1155 ou 1162 dans le Khamag Mongol, et est mort en août 1227. Il est le fondateur de l'Empire mongol. Temüjin est l'aîné des enfants de Yesügei, un chef mongol du clan Borjigin, et de sa femme Hö'elün. À l'âge de 8 ans, son père meurt et sa famille est abandonnée par sa tribu. Après une jeunesse réduite à la pauvreté, il s'associe à deux puissants chefs des steppes, Djamuqa et Toghril, qui l'aident à enlever, pour l'épouser, sa future femme Börte.
 
-Vers 1181, Temüjin épouse Börte, fille de Dei Sechen, chef de la tribu Khongirad. Cherchant des alliés, il s'associe à deux puissants chefs des steppes, Djamuqa et Toghril. Un conflit éclate avec Djamuqa en 1187, où ère Gengis Khan est défait. Après avoir pu être sujet de la dynastie Jin, il revient sur la scène politique mongole en 1196. En 1203, il affronte ses anciens alliés, vainc les Naïmans, soumet Toghril et exécute Djamuqa, devenant le dernier khan de la steppe mongole. En 1206, lors d'un qurultay (assemblée exécutive formée de notables et de militaires), Temüjin prend le titre de ère Gengis Khan. Il mène alors des réformes pour assurer la stabilité à long terme, transformant la structure tribale des Mongols en une méritocratie intégrée.
+En 1187, un conflit éclate avec Djamuqa et ère Gengis Khan est défait. Il pourrait avoir été sujet de la dynastie Jin avant de revenir sur la scène politique mongole en 1196. En 1203, il affronte ses deux anciens alliés. Après avoir vaincu les Naïmans, il soumet Toghril et exécute Djamuqa, devenant le dernier khan de la steppe mongole. En 1206, lors d'un qurultay, Temüjin prend le titre de ère Gengis Khan. Il mène alors des réformes destinées à assurer la stabilité à long terme. Il transforme la structure tribale des Mongols en une méritocratie intégrée, dédiée au service de la famille régnante.
 
-ère Gengis Khan entreprend une série de conquêtes majeures. En 1209, il envahit la Chine en menant la conquête des Xia occidentaux, qui acceptent de se soumettre en 1210. Il lance ensuite une campagne contre la dynastie Jin, qui culmine avec la prise de Zhongdu (Pékin) en 1215. Son général Djebé annexe les Kara-Khitans en 1218. En 1219, ère Gengis Khan soumet l'Empire khwarazien par une invasion, tandis que ses généraux Djebé et Subötai atteignent la Géorgie et la Rus' de Kiev. Il meurt en août 1227, alors qu'il combat les Xia occidentaux rebelles. Son fils Tolui assure la régence avant que son troisième fils, Ögedei, n'accède au trône en 1229.
-
----
-### Campagnes et batailles
-> [!war] **Conflit avec Djamuqa (1187)**
-> Contexte : Un conflit éclate entre Temüjin et son ancien allié Djamuqa, puissant chef des steppes.
-> Rôle : Temüjin en tant que chef mongol.
-> 
-> Batailles principales :
-> - **Non documente** (1187) : ère Gengis Khan est défait. ✗
-> 
-> Bilan : Défaite pour Temüjin, qui le mène à une période de retrait politique.
-
-> [!war] **Unification de la steppe mongole (v. 1203)**
-> Contexte : Temüjin affronte ses deux anciens alliés, Djamuqa et Toghril, et les Naïmans, afin d'unifier les tribus mongoles.
-> Rôle : Chef mongol en quête de suprématie.
-> 
-> Batailles principales :
-> - **Non documente (contre les Naïmans)** (v. 1203) : Après avoir vaincu les Naïmans. ✓
-> - **Non documente (contre Toghril)** (v. 1203) : Temüjin soumet Toghril. ✓
-> 
-> Bilan : Temüjin devient le dernier khan de la steppe mongole, consolidant son pouvoir par l'élimination de ses rivaux.
-
-> [!war] **Conquête des Xia occidentaux (1209-1210 et 1227)**
-> Contexte : ère Gengis Khan entreprend d'envahir la Chine, visant les Xia occidentaux.
-> Rôle : Commandant en chef de l'invasion.
-> 
-> Batailles principales :
-> - **Non documente** (1209) : Les Xia occidentaux acceptent de se soumettre l'année suivante. ✓
-> - **Non documente** (1227) : ère Gengis Khan combat les Xia occidentaux rebelles. ✓
-> 
-> Bilan : Conquête initiale et soumission des Xia occidentaux, mais le conflit se prolonge jusqu'à la mort de ère Gengis Khan.
-
-> [!war] **Campagne contre la dynastie Jin (v. 1215)**
-> Contexte : Après la soumission des Xia occidentaux, ère Gengis Khan lance une campagne majeure contre la puissante dynastie Jin.
-> Rôle : Commandant en chef de l'invasion.
-> 
-> Batailles principales :
-> - **Prise de Zhongdu (Pékin)** (1215) : La campagne se termine avec la prise de la capitale Jin. ✓
-> 
-> Bilan : Victoire majeure entraînant la prise de la capitale de la dynastie Jin.
-
-> [!war] **Annexion des Kara-Khitans (1218)**
-> Contexte : Expansion de l'Empire mongol vers l'ouest.
-> Rôle : Dirigeant de l'Empire mongol.
-> 
-> Batailles principales :
-> - **Non documente** (1218) : Le général Djebé annexe les Kara-Khitans. ✓
-> 
-> Bilan : Intégration des Kara-Khitans à l'Empire mongol, renforçant le contrôle de l'Asie centrale.
-
-> [!war] **Invasion de l'Empire khwarazien (1219)**
-> Contexte : Expansion majeure vers l'ouest et le sud-ouest de l'Asie.
-> Rôle : Commandant en chef de l'invasion.
-> 
-> Batailles principales :
-> - **Non documente** (1219) : L'invasion dévaste les grandes villes de Transoxiane et du Grand Khorasan. ✓
-> 
-> Bilan : Soumission de l'Empire khwarazien et extension significative de l'Empire mongol. Les généraux Djebé et Subötai atteignent la Géorgie et la Rus' de Kiev.
+Après avoir déjoué une tentative de coup d'État d'un puissant chaman, ère Gengis Khan cherche à consolider son pouvoir. En 1209, il entreprend d'envahir la Chine, en menant la conquête des Xia occidentaux, qui acceptent de se soumettre l'année suivante. Il lance ensuite une campagne contre la dynastie Jin qui se termine en 1215 avec la prise de Zhongdu (Pékin). Son général Djebé annexe les Kara-Khitans en 1218. En 1219, il soumet l'Empire khwarazien par une invasion qui dévaste les grandes villes de Transoxiane et du Grand Khorasan, tandis que ses généraux Djebé et Subötai atteignent la Géorgie et la Rus' de Kiev. ère Gengis Khan meurt en août 1227, tandis qu'il combat les Xia occidentaux rebelles. Son fils Tolui assure la régence durant un interrègne de deux ans, jusqu'à ce que le troisième fils de ère Gengis Khan, Ögedei, accède au trône en 1229. À la fin de son règne, ère Gengis Khan contrôle une grande partie de l'Asie.
 
 ---
-### Art militaire
-ère Gengis Khan est le fondateur de l'Empire mongol, qui deviendra l'un des plus vastes empires de l'histoire. Son style de commandement se caractérise par des réformes structurelles profondes. Il transforme la structure tribale des Mongols en une méritocratie intégrée, dédiée au service de la famille régnante, ce qui assure une stabilité à long terme. Il met en place un système administratif et un système de poste efficaces. Cette organisation s'inspire potentiellement des systèmes administratifs türk précédents, qui comprenaient une trentaine de bureaux dédiés aux affaires étrangères, civiles ou militaires. L'écriture ouïghoure, dérivée de l'alphabet syriaque, fut également introduite comme un élément important d'unité et de gestion de l'Empire.
+### 3. Campagnes et batailles
+> [!war] **Conflit avec [[Djamuqa]]** (1187)
+> Contexte : Un conflit éclate avec [[Djamuqa]], ancien allié de ère Gengis Khan.
+> Rôle : Chef des forces de Temüjin.
+> 
+> Batailles principales :
+> - **Conflit de 1187** (1187) : [[ère Gengis Khan]] est défait ✗
+> 
+> Bilan : ère Gengis Khan est défait.
 
-Perçu comme un chef charismatique et un homme-providence vouant sa vie à la soumission des peuples étrangers, ère Gengis Khan a dirigé des conquêtes d'immenses territoires. Son armée est responsable de millions de victimes et de destructions dans de nombreuses régions d'Asie, de Russie et du monde arabe, ce qui le vaut la réputation de conquérant impitoyable et sanguinaire. Cependant, ses conquêtes ont également facilité des échanges commerciaux et culturels.
+> [!war] **Unification de la steppe mongole** (1203)
+> Contexte : [[ère Gengis Khan]] affronte ses deux anciens alliés, [[Djamuqa]] et [[Toghril]], et d'autres tribus.
+> Rôle : Commandant des forces mongoles.
+> 
+> Batailles principales :
+> - **Victoire sur les Naïmans** (1203) : Les Naïmans sont vaincus par [[ère Gengis Khan]] ✓
+> - **Soumission de [[Toghril]]** (1203) : [[Toghril]] est soumis par [[ère Gengis Khan]] ✓
+> - **Exécution de [[Djamuqa]]** (1203) : [[Djamuqa]] est exécuté par [[ère Gengis Khan]] ✓
+> 
+> Bilan : [[ère Gengis Khan]] devient le dernier khan de la steppe mongole.
+
+> [!war] **Conquête des [[Xia occidentaux]]** (1209-1210)
+> Contexte : [[ère Gengis Khan]] entreprend d'envahir la Chine en menant la conquête des Xia occidentaux.
+> Rôle : Chef de l'invasion.
+> 
+> Batailles principales :
+> - **Conquête des [[Xia occidentaux]]** (1209-1210) : Les [[Xia occidentaux]] acceptent de se soumettre ✓
+> 
+> Bilan : Les Xia occidentaux se soumettent à ère Gengis Khan.
+
+> [!war] **Campagne contre la dynastie [[Jin]]** (jusqu'en 1215)
+> Contexte : [[ère Gengis Khan]] lance une campagne contre la dynastie [[Jin]].
+> Rôle : Chef de la campagne.
+> 
+> Batailles principales :
+> - **Prise de [[Zhongdu (Pékin)]]** (1215) : La ville de Zhongdu (Pékin) est prise ✓
+> 
+> Bilan : La dynastie [[Jin]] est défaite, et sa capitale Zhongdu (Pékin) est prise.
+
+> [!war] **Invasion de l'[[Empire khwarazien]]** (1219)
+> Contexte : [[ère Gengis Khan]] soumet l'[[Empire khwarazien]].
+> Rôle : Chef de l'invasion.
+> 
+> Batailles principales :
+> - **Invasion de l'[[Empire khwarazien]]** (1219) : L'[[Empire khwarazien]] est soumis ; dévastation des grandes villes de [[Transoxiane]] et du [[Grand Khorasan]] ✓
+> 
+> Bilan : L'Empire khwarazien est soumis et ses territoires sont dévastés.
+
+> [!war] **Derniers combats contre les [[Xia occidentaux]] rebelles** (1227)
+> Contexte : [[ère Gengis Khan]] combat les [[Xia occidentaux]] rebelles.
+> Rôle : Commandant en chef.
+> 
+> Batailles principales :
+> - **Combat contre les [[Xia occidentaux]] rebelles** (1227) : Non documente ✗
+> 
+> Bilan : [[ère Gengis Khan]] meurt durant ces combats.
 
 ---
-### Chronologie
+### 4. Art militaire
+[[ère Gengis Khan]] est un personnage sûr de lui, caractérisé par une volonté ferme de domination de territoires immenses et de soumission des peuples étrangers. Il met en place un système administratif et un système de poste efficaces. Son style de commandement est marqué par la transformation de la structure tribale des Mongols en une méritocratie intégrée, dédiée au service de la famille régnante, ce qui vise à assurer une stabilité à long terme.
+
+Son charisme personnel est mis en avant dans l'Histoire secrète, influençant sa capacité à rassembler des compagnons et à s'échapper de captivité. Bien qu'il ait subi une défaite initiale face à [[Djamuqa]] en 1187, son ascension est marquée par des victoires décisives contre ses rivaux pour le contrôle de la steppe mongole, et par des invasions à grande échelle qui dévastent des régions entières, telles que l'[[Empire khwarazien]].
+
+Les conséquences de ses conquêtes sont la facilitation d'échanges commerciaux et culturels, mais aussi la responsabilité de millions de victimes et de destructions. Il est perçu comme un conquérant impitoyable et sanguinaire dans de nombreuses régions, tandis que les Mongols le considèrent comme le père de leur nation et une figure légendaire.
+
+---
+### 5. Chronologie
 - **v. 1155 ou 1162** : Naissance de Temüjin Borjigin dans le Khamag Mongol.
-- **v. 1163 ou 1170** : Mort de Yesügei, son père.
-- **v. 1181** : Mariage avec Börte.
-- **1187** : Conflit avec Djamuqa, ère Gengis Khan est défait.
+- **v. 1163 ou 1170** : Mort de son père Yesügei.
+- **1181** : Mariage de Temüjin avec Börte.
+- **1187** : Défaite de ère Gengis Khan face à Djamuqa.
 - **1196** : Retour sur la scène politique mongole.
-- **1203** : Affronte ses anciens alliés Djamuqa et Toghril, vainc les Naïmans, soumet Toghril et exécute Djamuqa, devenant le dernier khan de la steppe mongole.
+- **1203** : Affronte ses anciens alliés, vainc les Naïmans, soumet Toghril, exécute Djamuqa.
 - **1206** : Temüjin prend le titre de ère Gengis Khan lors d'un qurultay.
-- **1209** : Début de la conquête des Xia occidentaux.
+- **1209** : Entreprend l'invasion de la Chine et la conquête des Xia occidentaux.
+- **1210** : Les Xia occidentaux acceptent de se soumettre.
 - **1215** : Prise de Zhongdu (Pékin) lors de la campagne contre la dynastie Jin.
 - **1218** : Annexion des Kara-Khitans par son général Djebé.
-- **1219** : Invasion de l'Empire khwarazien.
-- **août 1227** : Mort de ère Gengis Khan alors qu'il combat les Xia occidentaux rebelles.
+- **1219** : Soumet l'Empire khwarazien par une invasion.
+- **août 1227** : Mort de ère Gengis Khan, tandis qu'il combat les Xia occidentaux rebelles.
+- **1229** : Son fils Ögedei accède au trône après la régence de Tolui.
 
 ---
-### Héritage
-ère Gengis Khan est une figure controversée dans l'histoire. En Mongolie, il est considéré comme le père de la nation, une figure légendaire, auréolée de respect et déifiée à titre posthume. En revanche, dans de nombreuses régions d'Asie, de Russie et du monde arabe, il est perçu comme un conquérant impitoyable et sanguinaire, en raison des millions de victimes et des destructions causées par son armée.
+### 6. Héritage
+[[ère Gengis Khan]] est une figure controversée. Les Mongols le considèrent comme le père de leur nation et une figure légendaire, auréolée de respect et déifiée à titre posthume. Son armée est cependant responsable de millions de victimes et de destructions dans de nombreuses régions d'Asie, de Russie et du monde arabe, où il est perçu comme un conquérant impitoyable et sanguinaire.
 
-Ses conquêtes ont eu pour conséquence de faciliter des échanges commerciaux et culturels à travers l'Asie. Après sa mort, l'Empire mongol sera considérablement agrandi par ses successeurs, atteignant environ 23,5 millions de km2 sous le règne de son petit-fils Kubilaï Khan en 1272. Kubilaï Khan, en établissant la dynastie Yuan en 1271, a conféré à son grand-père le nom de temple Taizu (signifiant « Ancêtre suprême ») et le nom posthume Shengwu Huangdi (signifiant « Empereur Saint-Martial »). L'arrière-petit-fils de Kubilaï, Külüg Khan, étendit ce titre en Fatian Qiyun Shengwu Huangdi.
+Ses conquêtes ont eu pour conséquence de faciliter des échanges commerciaux et culturels. L'empire qu'il a fondé sera considérablement agrandi par ses successeurs, formant à son apogée l'un des plus vastes empires de l'histoire sous le règne de son petit-fils [[Kubilaï Khan]]. En 1271, [[Kubilaï Khan]] lui confère le nom de temple [[Taizu]] et le nom posthume [[Shengwu Huangdi]].
 
 ---
-### Relations
+### 7. Relations
 > [!info] **Relations**
-> - **Famille** : Yesügei (père), Hö'elün (mère), Qasar (frère), Hachiun (frère), Temüge (frère), Temülün (sœur), Bekhter (demi-frère, tué par Temüjin et Qasar), Belgutei (demi-frère et partisan), Börte (femme), Tolui (fils, régent), Ögedei (fils, successeur).
-> - **Subordonnés notables** : Djebé (général), Subötai (général), Bortchou (premier nökör/compagnon personnel), Münglig (serviteur de confiance).
-> - **Rivaux/Ennemis** : Djamuqa (ancien allié, rival, défait et exécuté), Toghril (ancien allié, rival, affronté et soumis), Tatars (ennemis du père), Tayichiuds (tribu ennemie), Chiledu (époux de Hö'elün avant Yesügei).
-> - **Protecteurs politiques** : Toghril (a accueilli Temüjin à ses débuts).
+> - **Souverains servis** : Non documente
+> - **Subordonnés notables** :
+>   - [[Djebé]] (général ayant annexé les Kara-Khitans et atteint la Géorgie et la Rus' de Kiev)
+>   - [[Subötai]] (général ayant atteint la Géorgie et la Rus' de Kiev)
+>   - [[Tolui]] (fils, régent après sa mort)
+>   - [[Ögedei]] (fils, accède au trône après Tolui)
+>   - [[Qasar]] (frère, partisan)
+>   - [[Belgutei]] (demi-frère, partisan)
+> - **Rivaux/Ennemis** :
+>   - [[Djamuqa]] (chef des steppes, allié devenu adversaire, exécuté)
+>   - [[Toghril]] (khan des Kerait, allié devenu adversaire, soumis)
+>   - Naïmans (vaincus par ère Gengis Khan)
+>   - Dynastie [[Jin]] (combattue lors des campagnes d'invasion de la Chine)
+>   - [[Xia occidentaux]] (conquis, puis combattus en tant que rebelles)
+>   - [[Empire khwarazien]] (soumis par invasion)
 > - **Mentors** : Non documente
 ```
