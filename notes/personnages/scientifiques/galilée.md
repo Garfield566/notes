@@ -1,13 +1,13 @@
 ```yaml
 ---
-aliases: Galilée, Galileo Galilei
-tags: #science/personne/physique, #science/personne/mathématiques, #science/personne/astronomie
+aliases: Galileo Galilei
+tags: #science/personne/physicien #science/personne/astronome #science/personne/mathematicien #science/personne/geometre
 nationalite: italien
-domaines: mathématicien, géomètre, physicien, astronome
+domaines: mathématiques, géométrie, physique, astronomie
 institution: Université de Pise, Université de Padoue
 periode: XVIIe siècle
 image: Non documente
-date_creation: 2023-10-27
+date_creation: 2024-07-30
 ---
 ```
 ### Galilée
@@ -15,68 +15,148 @@ date_creation: 2023-10-27
 > Galilée
 > ![[Non documente|300]]
 >- **Dates** : 15 février 1564 - 8 janvier 1642
->- **Profesion** : mathématicien, géomètre, physicien, astronome
->- **Nationaliter** : italien
->- **Œuvres principales** : De motu, Trattato di Forticazioni, Trattato di Meccaniche, Dialogo de Cecco di Ronchitti, Le Operazioni du compas géométrique
+>- **Profession** : mathématicien, géomètre, physicien
+>- **Nationalité** : italien
+>- **Œuvres principales** : De motu, Trattato di Forticazioni, Trattato di Meccaniche, Dialogo de Cecco di Ronchitti, Le Operazioni del compasso
 ---
 ### Biographie
-Galilée (Galileo Galilei), né à Pise le 15 février 1564, était le fils aîné de Vincenzo Galilei et de Giulia Ammannati. Sa famille florentine, appartenant à la petite noblesse, gagnait sa vie dans le commerce à Pise. Son père, Vincenzo Galilei, était luthiste, musicien, chanteur, et auteur du `Dialogue de la musique moderne` en 1581, participant à des controverses sur la théorie musicale. Dès l'enfance, Galilée démontra une grande habileté manuelle. Éduqué chez ses parents jusqu'à l'âge de 10 ans, il fut ensuite confié à Jacopo Borghini pendant deux ans à Florence, puis entra au couvent de Santa Maria de Vallombrosa pour une éducation religieuse. Son père le ramena à Florence en 1579 en raison d'une maladie des yeux. En 1581, il fut inscrit à l'université de Pise pour étudier la médecine, mais sans y trouver d'intérêt, il retourna à Florence en 1585 sans diplôme.
+Galilée (Galileo Galilei) est né à Pise le 15 février 1564. Il est le fils aîné de Vincenzo Galilei, luthiste, musicien et auteur d'un `Dialogue de la musique moderne` en 1581, et de Giulia Ammannati. La famille, originaire de Florence, appartient à la petite noblesse et pratique le commerce à Pise.
 
-Dès 1583, Galilée fut initié aux mathématiques par Ostilio Ricci, un ami de la famille et élève de Tartaglia. Il fut également influencé par Giovanni Battista Benedetti. À dix-neuf ans, il découvrit la régularité des oscillations des lustres de la cathédrale de Pise, travaillant par la suite à la loi de l'isochronisme des pendules. Abandonnant la médecine et la philosophie aristotélicienne, Galilée réorienta ses études vers les mathématiques grâce à Euclide, se réclamant de Pythagore, Platon et Archimède contre le géocentrisme aristotélicien. Entre 1585 et 1592, à Florence, il démontra des théorèmes sur le centre de gravité, reconstitua la balance hydrostatique d'Archimède (Bilancetta) en 1586 et inventa le pulsomètre. Il commença également ses études sur la chute des corps. Remarqué par le cénacle du cardinal del Monte, il fut invité par l'Accademia Fiorentina en 1588 à présenter des leçons sur l'Enfer de Dante. Après la maladie grave de son père en 1589, sa quête d'emploi devint cruciale. Avec l'aide du mathématicien Guidobaldo Del Monte, il fut nommé à la chaire de mathématiques de l'université de Pise le 12 novembre 1589. En 1590 et 1591, il découvrit la cycloïde et rédigea son premier ouvrage de mécanique, `De motu`.
+Enfant, Galilée démontre une grande habileté manuelle. Éduqué par ses parents jusqu'à l'âge de 10 ans, il est ensuite confié pendant deux ans à un prêtre, Jacopo Borghini, après le déménagement de sa famille à Florence. Il entre ensuite au couvent de Santa Maria de Vallombrosa pour une éducation religieuse. Son père le ramène à Florence en 1579 en raison d'une maladie des yeux de son fils, l'empêchant de poursuivre une carrière ecclésiastique. En 1581, Vincenzo Galilei l'inscrit à l'université de Pise pour étudier la médecine, suivant les traces de son ancêtre, le magister Galilaeus de Galilaeis (1370 - v. 1450). Cependant, Galilée n'y porte pas d'intérêt et retourne à Florence en 1585 sans avoir obtenu de diplôme.
 
-En 1592, Galilée partit enseigner à l'université de Padoue, où il resta 18 ans, jouissant d'une plus grande liberté intellectuelle offerte par la république de Venise. Il enseignait la mécanique appliquée, les mathématiques, l'astronomie et l'architecture militaire, tout en menant des expériences sur le mouvement des solides. Il professait publiquement le système de Ptolémée mais était déjà copernicien en privé. Il dut subvenir aux besoins de sa famille après la mort de son père en 1591, et compensait des revenus modestes par des cours particuliers et la vente d'instruments scientifiques. En 1593, il rédigea le `Trattato di Forticazioni` et le `Trattato di Meccaniche`. Il améliora et fabriqua un compas de proportion en 1597, dont il rédigea le mode d'emploi neuf ans plus tard. En 1599, il participa à la fondation de l'Académie des Ricovrati et fit venir le mécanicien Marcantonio Mazzoleni pour fabriquer ses instruments. Il entretint une liaison avec Marina Gamba entre 1599 et 1610, ayant trois enfants : Virginia (1600), Livia (1601) et Vincenzo (1606).
+Dès 1583, Galilée est initié aux mathématiques par Ostilio Ricci, un ami de la famille et élève de Tartaglia, qui avait la particularité de lier théorie et pratique par l'expérience. Il est également influencé par Giovanni Battista Benedetti. En 1583, à dix-neuf ans, il découvre la régularité des oscillations des lustres de la cathédrale de Pise en chronométrant à l'aide de son pouls, puis travaille sur la loi de l'isochronisme des pendules. Abandonnant la médecine et la philosophie aristotélicienne, il réoriente ses études vers les mathématiques, fasciné par Euclide, et se réclame de Pythagore, de Platon et d'Archimède, tout en s'opposant au géocentrisme aristotélicien.
 
-L'année 1604 fut particulièrement marquante pour Galilée. En juillet, il testa une pompe à eau. En octobre, il découvrit la loi du mouvement uniformément accéléré, et en décembre, il commença l'observation d'une nova. Il co-publia `Dialogo de Cecco di Ronchitti in Perpuosito de la Stella Nova` en février 1605. Il démontra également que les projectiles suivent des trajectoires paraboliques. En 1606, il publia `Le Operazioni del compasso geometrico et militaire di Galileo-Galilei, nobil Fiorentino` pour affirmer la paternité de son invention. En 1607, Baldassarre Capra contesta cette paternité, ce à quoi Galilée répliqua en l'attaquant pour copie et vol. Galilée est mort à Arcetri près de Florence le 8 janvier 1642. Il est considéré depuis 1680 comme le fondateur de la physique.
+De retour à Florence en 1585, Galilée démontre des théorèmes sur le centre de gravité dans son `Theoremata circa centrum gravitatis solidum` et reconstitue en 1586 la balance hydrostatique d'Archimède (Bilancetta). Il poursuit ses études sur le pendule pesant et invente le pulsomètre. Il commence également ses études sur la chute des corps. Remarqué par le cénacle du cardinal del Monte, il est invité en 1588 par l'Accademia Fiorentina à présenter des leçons sur l'Enfer de Dante. La mort de son père en 1589 le contraint à chercher un emploi stable. Avec l'aide du mathématicien Guidobaldo Del Monte, qui le recommande au grand-duc Ferdinand Ier de Toscane, il est nommé à la chaire de mathématiques de l'université de Pise, inaugurant son poste le 12 novembre 1589. En 1590 et 1591, il découvre la cycloïde et rédige son premier ouvrage de mécanique, le `De motu`.
+
+En 1592, Galilée part enseigner à l'université de Padoue pour 18 ans, où il bénéficie d'une grande liberté intellectuelle offerte par la République de Venise. Il y enseigne la mécanique appliquée, les mathématiques, l'astronomie et l'architecture militaire, collaborant avec des artisans pour ses expériences sur le mouvement des solides. Il professait publiquement le système de Ptolémée tout en étant personnellement convaincu par le système de Copernic. Accaparé par l'enseignement et la recherche, et devant subvenir aux besoins de sa famille après la mort de son père, il complémente ses revenus par des cours particuliers et la vente d'instruments scientifiques. En 1593, il rédige le `Trattato di Forticazioni` et le `Trattato di Meccaniche`. En 1597, il améliore et fabrique un compas de proportion, le compas géométrique et militaire, dont il rédige le mode d'emploi neuf ans plus tard. En 1599, il participe à la fondation de l’Académie des Ricovrati avec l’abbé Federico Cornaro et installe un atelier d'instruments scientifiques. La même année, il entame une liaison avec Marina Gamba, avec qui il a trois enfants : Virginia (1600), Livia (1601) et Vincenzo (1606). Après leur séparation, Galilée élève ses enfants et placera ses filles au couvent à Arcetri, Virginia devenant sœur Marie Céleste.
+
+L'année 1604 est une année exceptionnelle pour Galilée : en juillet, il teste sa pompe à eau ; en octobre, il découvre la loi du mouvement uniformément accéléré ; et en décembre, il commence l'observation d'une nova, co-publiant `Dialogo de Cecco di Ronchitti in Perpuosito de la Stella Nova` avec Girolamo Spinelli en février 1605. Bien qu'il reste publiquement aristotélicien, il est déjà fermement copernicien en privé. Il montre également que les projectiles suivent des trajectoires paraboliques dans le vide. En 1606, il publie `Le Operazioni del compasso geometrico et militare` pour affirmer la paternité de son invention. Il survit à une maladie infectieuse qui le laisse perclus de rhumatismes. En 1607, Baldassarre Capra conteste sa paternité du compas, ce à quoi Galilée réplique en l'accusant de copie et de vol. Galilée quitte Padoue en 1610. Il meurt à Arcetri près de Florence le 8 janvier 1642. Depuis 1680, il est considéré comme le fondateur de la physique.
 
 ---
 ### Notions clés
-> [!notion]- #### Perfectionnement de la lunette astronomique
-> 
-> > [!abstract] Définition
-> > Le perfectionnement et l'exploitation de la lunette astronomique par Galilée ont permis des observations rapides et précoces. Cet instrument, basé sur une découverte hollandaise, a révolutionné les fondements de l'astronomie.
->
-> > [!example] Développement théorique
-> > Bien que la lunette d'approche ait été découverte aux Pays-Bas, Galilée a significativement amélioré sa conception pour l'adapter à l'observation céleste. Ce perfectionnement lui a permis d'explorer le ciel et de recueillir des données essentielles qui ont remis en question les modèles astronomiques établis de son époque.
 
-> [!notion]- #### Héliocentrisme et modèle copernicien
+> [!notion]- #### Héliocentrisme
 > 
 > > [!abstract] Définition
-> > Galilée s'est fait le défenseur de l'approche modélisatrice copernicienne de l'Univers, proposant d'adopter l'héliocentrisme, selon lequel la Terre et les autres planètes tournent autour du Soleil.
+> > L'héliocentrisme est l'approche modélisatrice copernicienne de l'Univers, proposant que le Soleil soit au centre et que les planètes, y compris la Terre, effectuent des mouvements satellitaires autour de lui. Galilée s'est posé en défenseur de cette vision de l'Univers.
 >
 > > [!example] Développement théorique
-> > Ses observations et généralisations ont été critiquées par les philosophes partisans d'Aristote et les scientifiques attachés au modèle de Ptolémée, ainsi qu'une partie des théologiens. Galilée, ne disposant pas de preuves directes du mouvement terrestre à l'époque, a parfois manqué de prudence. Bien qu'initialement aristotélicien en public, il était fermement copernicien en privé, en attente de preuves irréfutables.
-
-> [!notion]- #### Mécanique galiléenne
-> 
-> > [!abstract] Définition
-> > Galilée a posé les bases de la mécanique, incluant la cinématique et la dynamique, par ses études et expériences sur l'équilibre et le mouvement des corps solides. Ces travaux ont mené à la reconnaissance de la physique comme la première des sciences exactes modernes à partir de 1680.
+> > Galilée a défendu l'approche modélisatrice copernicienne de l'Univers, proposant d'adopter l'héliocentrisme et les mouvements satellitaires. Ses observations et généralisations se sont heurtées aux critiques des philosophes partisans d'Aristote et des scientifiques attachés au modèle de Ptolémée, qui proposaient un géocentrisme stable. Dès 1604, bien que Galilée restait aristotélicien en public, il était fermement copernicien en privé, en attendant la preuve irréfutable sur laquelle s'appuyer.
 >
-> > [!example] Développement théorique
-> > Ses recherches ont porté sur la chute des corps, leur translation rectiligne, leur inertie, la résistance des matériaux, ainsi que la généralisation des mesures, en particulier du temps par l'isochronisme du pendule. Il a notamment montré que les projectiles suivent des trajectoires paraboliques dans le vide (1604) et découvert la loi du mouvement uniformément accéléré (octobre 1604), bien que l'associant alors à une loi des vitesses erronée. Son premier ouvrage de mécanique, `De motu`, fut rédigé entre 1590 et 1591.
+> > [!danger] Exemple
+> > Les critiques contre Galilée provenaient des philosophes partisans d'Aristote et des scientifiques attachés au modèle de Ptolémée, ainsi que d'une partie des théologiens de l'Église catholique romaine et des Églises protestantes, face à sa défense de l'héliocentrisme.
 
 > [!notion]- #### Isochronisme du pendule
 > 
 > > [!abstract] Définition
-> > L'isochronisme du pendule est la propriété selon laquelle la période d'oscillation d'un pendule simple est approximativement indépendante de l'amplitude de ses oscillations pour de faibles angles. Galilée a observé cette régularité et a travaillé à établir cette loi.
+> > L'isochronisme du pendule est la propriété selon laquelle la période d'oscillation d'un pendule simple est indépendante de son amplitude, de sa masse, et dépend de sa longueur. Galilée a découvert la régularité des oscillations.
 >
 > > [!example] Développement théorique
-> > En 1583, Galilée découvre la régularité des oscillations des lustres de la cathédrale de Pise en chronométrant à l'aide de son pouls. De retour chez lui, il compare les oscillations de deux pendules et travaille à la loi de l'isochronisme des pendules. Il observe et décrit en 1638 la régularité du mouvement du pendule simple, affirmant que sa période ne dépend pas de sa masse mais de sa longueur. Il énonce la loi selon laquelle les carrés des périodes d’oscillations sont proportionnels aux longueurs des pendules. Le Néerlandais Christian Huygens découvrira en décembre 1659 la vraie loi de l'isochronisme rigoureux (nécessitant le pendule cycloïdal).
+> > À l'âge de dix-neuf ans, Galilée a découvert, en chronométrant à l'aide de son pouls, la régularité des oscillations des lustres de la cathédrale de Pise. Il a travaillé à la loi de l'isochronisme des pendules et a observé la régularité du mouvement du pendule simple, le décrivant en 1638. Il a affirmé que la période d'un pendule ne dépend pas de sa masse mais de sa longueur, énonçant que les carrés des périodes d’oscillations sont proportionnels aux longueurs des pendules. Le Néerlandais Christian Huygens découvrira la vraie loi de l'isochronisme rigoureux en décembre 1659.
+>
+> > [!danger] Exemple
+> > La formule actuelle de la période d'un pendule simple (dans le cadre de l'approximation des petites oscillations) est 
+  
+    
+      
+        T
+        =
+        2
+        π
+        
+          
+            
+              l
+              g
+            
+          
+        
+      
+    
+    {\displaystyle T=2\pi {\sqrt {\frac {l}{g}}}}
+  
+, où 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ est la période, 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ la longueur et 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ l'intensité de la pesanteur.
 
-> [!notion]- #### Compas géométrique et militaire
+> [!notion]- #### Mécanique des corps solides
 > 
 > > [!abstract] Définition
-> > Le compas géométrique et militaire est un instrument de calcul polyvalent, ancêtre de la règle à calcul, amélioré et fabriqué par Galilée.
+> > La mécanique des corps solides, dont la cinématique et la dynamique, concerne l'étude de l'équilibre et du mouvement des corps, incluant leur chute, leur translation rectiligne et leur inertie. Galilée est considéré comme le fondateur de la physique moderne grâce à ses travaux dans ce domaine.
 >
 > > [!example] Développement théorique
-> > En 1597, Galilée améliore et fabrique un compas de proportion, connu sous le nom de compas géométrique et militaire, qui rencontre un grand succès commercial. Il rédige le mode d'emploi neuf ans plus tard. En 1606, il publie `Le Operazioni del compasso geometrico et militare di Galileo-Galilei, nobil Fiorentino` pour faire valoir son antériorité sur cet instrument, suite à des rumeurs d'appropriation de son travail.
+> > Par ses études et ses nombreuses expériences, parfois uniquement de pensée, sur l'équilibre et le mouvement des corps solides, notamment leur chute, leur translation rectiligne, leur inertie, ainsi que par la généralisation des mesures, en particulier du temps par l'isochronisme du pendule, et la résistance des matériaux, Galilée a posé les bases de la mécanique avec la cinématique et la dynamique. En 1604, il a découvert la loi du mouvement uniformément accéléré et a montré que les projectiles suivent des trajectoires paraboliques dans le vide. Ses leçons de mécanique ont eu un succès considérable, et le père Mersenne publiera en France en 1634 les `Méchaniques de Galilée`.
+>
+> > [!danger] Exemple
+> > Les travaux de Galilée ont permis d'établir qu'un canon doit être pointé à 45° pour atteindre sa portée maximale, améliorant ainsi l'efficacité de l'artillerie lourde.
+
+> [!notion]- #### Perfectionnement de la lunette astronomique
+> 
+> > [!abstract] Définition
+> > Le perfectionnement de la lunette astronomique par Galilée, basée sur une découverte hollandaise, a consisté à améliorer cet instrument pour réaliser des observations célestes détaillées.
+>
+> > [!example] Développement théorique
+> > Parmi ses réalisations techniques, Galilée a perfectionné et exploité la lunette astronomique, perfectionnement de la découverte hollandaise d'une lunette d'approche, pour procéder à des observations rapides et précoces. Ces observations ont bouleversé les fondements de l'astronomie de son temps.
+>
+> > [!danger] Exemple
+> > Grâce à ses observations réalisées avec la lunette astronomique, Galilée a pu soutenir l'héliocentrisme, ce qui a entraîné des critiques des partisans du géocentrisme.
+
+> [!notion]- #### L'écriture mathématique de l'Univers
+> 
+> > [!abstract] Définition
+> > Galilée s'est fait le partisan de « l'écriture mathématique du livre de l'Univers », affirmant que le monde pouvait être compris et décrit à travers le langage des mathématiques, notamment par l'étude des suites, des courbes géométriques et des infiniment petits.
+>
+> > [!example] Développement théorique
+> > Dans son opus sur les comètes de 1623, Galilée a exprimé sa conviction que l'Univers pouvait être compris par « l'écriture mathématique ». Bien qu'il n'ait pas directement fait progresser l'algèbre, il a produit des travaux inédits sur les suites, certaines courbes géométriques et la prise en compte des infiniment petits, réorientant ses études vers les mathématiques et se réclamant d'Euclide, Pythagore, Platon et Archimède.
+>
+> > [!danger] Exemple
+> > L'accent mis par Galilée sur la mesure, en particulier du temps par l'isochronisme du pendule, et la résistance des matériaux, illustre son approche de l'Univers à travers une formalisation mathématique.
 
 ---
 ### Productions
-> [!example] **Ouvrage (1606)** : `Le Operazioni del compasso geometrico et militare di Galileo-Galilei, nobil Fiorentino` – Manuel d'utilisation, instrument de calcul, paternité intellectuelle
-> [!example] **Co-publication (février 1605)** : `Dialogo de Cecco di Ronchitti in Perpuosito de la Stella Nova` – Nova, astronomie, cosmologie
-> [!example] **Traité (1593)** : `Trattato di Meccaniche` – Mécanique, enseignement, mouvement des solides
-> [!example] **Traité (1593)** : `Trattato di Forticazioni` – Fortifications, architecture militaire, artillerie
-> [!example] **Ouvrage (1590-1591)** : `De motu` – Mécanique, chute des corps, principes aristotéliciens
+
+> [!example] **Ouvrage de mécanique (v. 1590-1591)** : `De motu` – mécanique, mouvement des corps, aristotélisme, Ptolémée
+> [!example] **Traité (1593)** : `Trattato di Forticazioni` – fortifications, artillerie
+> [!example] **Traité (1593)** : `Trattato di Meccaniche` – mécanique, mouvement des solides, étudiants
+> [!example] **Copublication (février 1605)** : `Dialogo de Cecco di Ronchitti in Perpuosito de la Stella Nova` – nova, astronomie, aristotélisme, copernicianisme
+> [!example] **Publication (1606)** : `Le Operazioni del compasso geometrico et militare` – compas de proportion, instrument scientifique, antériorité
 
 > [!info] **Influences** :
-> Formation mathématique sous `[[Ostilio Ricci]]` (initié aux mathématiques, liaison théorie-pratique). Influence de `[[Euclide]]` (réorientation vers les mathématiques). Revendication des idées de `[[Pythagore]]`, `[[Platon]]` et `[[Archimède]]` contre le géocentrisme. Remarqué et soutenu par `[[cardinal del Monte]]` et `[[Guidobaldo Del Monte]]` (protecteurs politiques pour des postes universitaires). Co-publié avec `[[Girolamo Spinelli]]` (ouvrage sur la nova). Débats avec `[[philosophes partisans d'Aristote]]` et `[[scientifiques attachés au modèle de Ptolémée]]` (opposition à l'héliocentrisme). Conflit avec `[[Baldassarre Capra]]` (contestation de la paternité du compas de proportion).
+> Initié aux mathématiques par `[[Ostilio Ricci]]` (ami de la famille, élève de Tartaglia, pratique de l'expérience).
+> Influencé par `[[Giovanni Battista Benedetti]]` (élève de Tartaglia).
+> Ébloui par `[[Euclide]]` (réorientation vers les mathématiques).
+> Se réclame de `[[Pythagore]]`, de `[[Platon]]` et d'`[[Archimède]]` (fondements intellectuels).
+> S'oppose au `[[géocentrisme aristotélicien]]` et au `[[système de Ptolémée]]` (adversaires scientifiques).
+> Défenseur du `[[modèle copernicien]]` (héliocentrisme).
+> Reçoit l'aide de `[[Guidobaldo Del Monte]]` (mathématicien, relation épistolaire, aide pour emploi universitaire).
+> Corresponde avec le père jésuite `[[ésuite Christophorus Clavius]]` (sommité des mathématiques).
+> Contestation de la paternité de son compas par `[[Baldassarre Capra]]` (adversaire sur la propriété intellectuelle).
+> Bénéficie du soutien du `[[Cardinal del Monte]]` (protecteur politique).
+> La vraie loi de l'isochronisme rigoureux du pendule est découverte par le `[[Néerlandais Christian Huygens]]` en décembre 1659, après les travaux de Galilée.
+> Le père `[[Mersenne]]` publiera en France en 1634 les `Méchaniques de Galilée`.
+```
