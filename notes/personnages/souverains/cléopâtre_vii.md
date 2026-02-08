@@ -1,67 +1,68 @@
 ```yaml
 ---
-aliases: Cléopâtre VII Philopator, Κλεοπάτρα Θεά Φιλοπάτωρ, Θεά Νεωτέρα Φιλόπατρις, Déesse nouvelle qui aime son père et qui aime sa patrie
+aliases: Cléopâtre VII Philopator, Θεά Νεωτέρα Φιλόπατρις
 type: reine
-dynastie: Lagide
+dynastie: Lagides
 periode: Antiquité
 image: Non documente
 date_creation: 2024-07-29
 ---
 ```
-### Cléopâtre VII
+### 1. Cléopâtre VII
 > [!Infobox]
 > Cléopâtre VII
-> ![[Non documente|300]]
+> 
 >- **Dates** : v. 69 av. J.-C. - 12 août 30 av. J.-C.
->- **Titre** : reine d'Égypte antique
->- **Dynastie** : Lagide
+>- **Titre** : Reine d'Égypte antique
+>- **Dynastie** : Lagides
 >- **Règne** : 51 av. J.-C. - 30 av. J.-C.
 >- **Territoire** : Égypte antique
->- **Prédécesseur** : établir ère Ptolémée XII Aulète
+>- **Prédécesseur** : Ptolémée XII Aulète
 >- **Successeur** : Non documente
 
-### Biographie
-Cléopâtre VII Philopator est une reine d'Égypte antique de la dynastie lagide, née vers 69 av. J.-C. (au cours de l'hiver 69/68 avant notre ère ou entre décembre 70 et début janvier 69), probablement à Alexandrie. Fille de établir ère Ptolémée XII Aulète, elle appartient à la dynastie d'origine macédonienne des Lagides. L'origine de sa mère est incertaine, Maurice Sartre et Pour Toby Wilkinson suggérant une ascendance gréco-macédonienne, bien que Cléopâtre elle-même ait entretenu le mystère, notamment en parlant égyptien, une pratique rare pour sa dynastie.
+---
+### 2. Biographie
+Cléopâtre VII Philopator, également connue sous les épithètes Θεά Φιλοπάτωρ (« Déesse qui aime son père ») et plus tard Θεά Νεωτέρα Φιλόπατρις (« Déesse nouvelle qui aime sa patrie »), est née vers 69 av. J.-C., probablement à Alexandrie, au sein de la dynastie d'origine macédonienne des Lagides. Fille de [[Ptolémée XII Aulète]], et possiblement d'une concubine selon certaines sources, elle entretient le mystère sur ses origines maternelles et se distingue par sa maîtrise de l'égyptien, une exception parmi ses prédécesseurs. Son enfance et son adolescence, bien que méconnues, furent marquées par le règne chaotique de son père et la montée en puissance de Rome, qui intervint militairement pour rétablir [[Ptolémée XII Aulète]] en 55 av. J.-C.
 
-Son enfance et son adolescence sont méconnues, mais elle a observé le règne chaotique de son père, marqué par la désaffection de la population, des révoltes indigènes et une influence romaine grandissante. La puissance de Rome et le rétablissement de établir ère Ptolémée XII par Gabinius en 55 av. J.-C. après son renversement par înée Bérénice IV, ainsi que les purges qui ont suivi, ont été des leçons pour la jeune Cléopâtre.
+Associée au pouvoir de son père entre fin 52 et début 51 av. J.-C., Cléopâtre VII accède officiellement au trône en 51 av. J.-C., suite au testament de [[Ptolémée XII Aulète]], co-régnant avec son jeune frère-époux [[Ptolémée XIII]]. Son début de règne est difficile, marqué par des crises économiques et une lutte politique avec l'eunuque [[Pothin]] et le général [[Achillas]]. En automne 49 av. J.-C., une rupture définitive avec [[Ptolémée XIII]] éclate, conduisant à une guerre ouverte et à la fuite de Cléopâtre en Syrie puis à Ashkelon pour y lever une armée.
 
-Fin 52 à début 51 avant notre ère, Cléopâtre VII est associée au pouvoir de son père. Après la mort de établir ère Ptolémée XII en 51 av. J.-C., elle accède au trône en tant que co-régente avec son frère cadet, époux établir ère époux Ptolémée XIII, qu'elle épouse nominalement selon la coutume ptolémaïque. Les premières années de son règne sont difficiles, marquées par la disette et les crues insuffisantes du Nil, ainsi que par les intrigues politiques de l'eunuque Pothin et du général Achillas, qui cherchent à opposer les deux souverains.
+Son destin s'entrelace étroitement avec celui de la République romaine. Après l'assassinat de [[Pompée]] en 48 av. J.-C. en Égypte, [[Jules César]] débarque à Alexandrie. Cléopâtre le rencontre pour tenter de se réconcilier avec [[Ptolémée XIII]]. Par la suite, elle devient la compagne de [[Jules César]], puis de [[Marc Antoine]], avec qui elle aura plusieurs enfants. Sa participation à la guerre civile opposant [[Marc Antoine]] à [[Octave]] se conclut par sa défaite à la bataille d'Actium en 31 av. J.-C., entraînant la conquête romaine de l'Égypte et la fin de l'Égypte pharaonique. Elle meurt le 12 août 30 av. J.-C.
 
-À l'automne 49 av. J.-C., la rupture est consommée entre Cléopâtre et époux établir ère époux Ptolémée XIII, menant à une guerre ouverte à l'été 48 av. J.-C. à Péluse. Accusée de complot, Cléopâtre doit fuir en Syrie puis à Ashkelon pour y lever une armée de mercenaires. C'est à cette période que Pompée, vaincu par Jules César, cherche refuge en Égypte et est assassiné sur ordre de époux établir ère époux Ptolémée XIII. L'arrivée de Jules César marque un tournant, ce dernier cherchant à arbitrer les querelles dynastiques et à obtenir le remboursement des dettes de établir ère Ptolémée XII. Cléopâtre rencontre César à Alexandrie, et ensemble ils affrontent les forces de époux établir ère époux Ptolémée XIII et de Pothin, avec l'aide de renforts menés par Mithridate de Pergame et Antipater l'Iduméen.
-
-### Règne
+---
+### 3. Règne
+> [!info] **Politique intérieure**
+> Le règne de Cléopâtre VII est initié en 51 av. J.-C. aux côtés de son frère-époux [[Ptolémée XIII]], puis avec [[Ptolémée XIV]], et enfin avec [[Marc Antoine]]. Les premières années sont difficiles, marquées par la disette des années 50/48 av. J.-C. et des crues insuffisantes du Nil. La reine fait face à une lutte politique menée par l'eunuque [[Pothin]] et le général [[Achillas]] qui tentent d'opposer les frères et sœurs. En 36 av. J.-C., elle se distingue par l'adoption d'épithètes nouvelles pour une souveraine lagide : Philopatris (« Qui aime sa patrie ») et Théa Néôtera (« Déesse nouvelle / plus jeune »), rompant avec la tradition dynastique axée sur les liens familiaux. Ces titres pourraient témoigner d'une attention accrue envers les Égyptiens indigènes ou d'une affirmation de l'origine macédonienne de la dynastie.
 
 > [!war] **Guerres et conflits**
-Durant son règne, Cléopâtre VII est directement impliquée dans plusieurs conflits. Elle mène une guerre contre son frère-époux établir ère époux Ptolémée XIII à partir de l'automne 49 av. J.-C., culminant avec un affrontement à Péluse à l'été 48 av. J.-C. Elle est ensuite mêlée au conflit avec Jules César contre les forces de époux établir ère époux Ptolémée XIII et Pothin à Alexandrie au début de l'année 47 av. J.-C. Plus tard, elle s'engage aux côtés de Marc Antoine dans la guerre civile romaine contre Octave, subissant une défaite majeure à la bataille d'Actium en 31 av. J.-C.
+> Cléopâtre VII fut partie prenante dans plusieurs conflits majeurs. Dès l'automne 49 av. J.-C., une véritable guerre éclate avec son frère-époux [[Ptolémée XIII]], les forces s'affrontant à Péluse à l'été 48 av. J.-C. Lors de l'arrivée de [[Jules César]] en Égypte, [[Pothin]] et l'armée de [[Ptolémée XIII]] assiègent les forces romaines à Alexandrie, un conflit qui dure plusieurs mois avant l'arrivée de renforts pour César, menant à la défaite des forces égyptiennes début 47 av. J.-C. Plus tard, elle s'engage aux côtés de [[Marc Antoine]] dans la guerre civile contre [[Octave]], un conflit qui culmine avec sa défaite décisive à la bataille d'Actium en 31 av. J.-C.
 
 > [!diplomacy] **Diplomatie**
-Cléopâtre VII démontre des capacités de diplomate, établissant des liens politiques avec des figures romaines. Elle s'allie d'abord avec Jules César, devenant sa compagne et ayant des enfants avec lui. Par la suite, elle règne aux côtés du général romain Marc Antoine, avec qui elle a également des enfants, et participe à la guerre civile romaine.
+> Dès le début de son règne, Cléopâtre est confrontée à la puissance romaine, déjà intervenue pour rétablir son père, [[Ptolémée XII Aulète]]. Elle cherche à obtenir le soutien de [[Jules César]] après l'assassinat de [[Pompée]], et César tente de réconcilier les co-souverains. Ses relations avec [[Jules César]] puis [[Marc Antoine]] sont des alliances politiques stratégiques, cimentées par des liens personnels et la naissance d'enfants. Elle navigue dans les querelles dynastiques de son propre royaume tout en tentant d'utiliser les Romains pour ses propres ambitions.
 
-> [!info] **Titulature et Perception**
-Cléopâtre VII s'adjoint l'épithète classique lagide de Philopator ("Qui aime son père"). En 36 av. J.-C., elle y ajoute Philopatris ("Qui aime sa patrie") et Théa Néôtera ("Déesse nouvelle / plus jeune"). Cette nouvelle titulature peut témoigner d'une attention accrue envers les Égyptiens indigènes, ou d'une ambition à contrôler les territoires ayant formé le royaume séleucide. Plutarque met en avant ses qualités intellectuelles et son polyglottisme ; elle parlait le grec, l'égyptien, l'araméen, l'éthiopien, le mède, l'hébreu et la langue des Troglodytes. Bien que son apparence physique soit débattue, son intelligence et son esprit cultivé sont des traits reconnus de son caractère.
+---
+### 4. Événements clés
+- **v. 69 av. J.-C.** : Naissance de [[Cléopâtre VII]] à Alexandrie.
+- **Fin 52 à début 51 av. J.-C.** : Association au pouvoir de son père, [[Ptolémée XII Aulète]].
+- **51 av. J.-C.** : Début de son règne conjoint avec [[Ptolémée XIII]] suite au testament de [[Ptolémée XII Aulète]].
+- **Automne 49 av. J.-C.** : Rupture des relations et début du conflit avec [[Ptolémée XIII]], entraînant sa fuite en Syrie puis à Ashkelon.
+- **Été 48 av. J.-C.** : Affrontement armé avec [[Ptolémée XIII]] à Péluse.
+- **28 septembre 48 av. J.-C.** : Assassinat de [[Pompée]] près de Péluse par les conseillers de [[Ptolémée XIII]].
+- **Fin 48 av. J.-C.** : Rencontre avec [[Jules César]] à Alexandrie et tentative de réconciliation avec [[Ptolémée XIII]].
+- **Début 47 av. J.-C.** : Bataille et victoire de [[Jules César]] contre les forces de [[Ptolémée XIII]] à Alexandrie.
+- **36 av. J.-C.** : Ajout des épithètes Philopatris et Théa Néôtera à sa titulature.
+- **31 av. J.-C.** : Défaite à la bataille d'Actium.
+- **12 août 30 av. J.-C.** : Mort de [[Cléopâtre VII]].
 
-### Événements clés
-- **v. 69 av. J.-C.** : Naissance probable de Cléopâtre VII à Alexandrie.
-- **Fin 52 à début 51 av. J.-C.** : Cléopâtre VII est associée au pouvoir de son père, établir ère Ptolémée XII Aulète.
-- **51 av. J.-C.** : Accède au trône après la mort de établir ère Ptolémée XII, co-régente avec époux établir ère époux Ptolémée XIII.
-- **Automne 49 av. J.-C.** : Rupture des relations et début du conflit avec époux établir ère époux Ptolémée XIII.
-- **Été 48 av. J.-C.** : Affrontement armé à Péluse contre époux établir ère époux Ptolémée XIII, Cléopâtre VII doit fuir.
-- **28 septembre 48 av. J.-C.** : Assassinat de Pompée près de Péluse par époux établir ère époux Ptolémée XIII et ses conseillers.
-- **Fin 48 av. J.-C.** : Rencontre avec Jules César à Alexandrie.
-- **Début 47 av. J.-C.** : Affrontement des forces de César et Cléopâtre VII contre celles de époux établir ère époux Ptolémée XIII.
-- **36 av. J.-C.** : Cléopâtre VII s'ajoute les épithètes Philopatris et Théa Néôtera à sa titulature.
-- **31 av. J.-C.** : Vaincue à la bataille d'Actium aux côtés de Marc Antoine.
-- **12 août 30 av. J.-C.** : Mort de Cléopâtre VII.
-- **30 av. J.-C.** : Fin de l'Égypte pharaonique et de l'époque hellénistique.
+---
+### 5. Héritage
+La défaite de Cléopâtre VII à la bataille d'Actium en 31 av. J.-C. et sa mort en 30 av. J.-C. marquent un tournant historique majeur : la fin de l'Égypte pharaonique et de l'époque hellénistique, l'Égypte devenant une province romaine. Son règne est perçu comme celui d'une femme d'une grande intelligence, courageuse, diplomate et dirigeante politique, bien qu'il soit difficile de cerner sa véritable personnalité en raison du romanesque qui l'entoure.
 
-### Héritage
-La défaite de Cléopâtre VII à la bataille d'Actium et sa mort en 30 av. J.-C. marquent la fin de l'Égypte pharaonique et de l'époque hellénistique, permettant la conquête romaine de l'Égypte. Il n'y a pas de successeur immédiat au trône pharaonique après elle.
+Cléopâtre VII est un personnage dont la légende s'est emparée de son vivant même, et sa mort tragique a ajouté à son aura romanesque. Son image est souvent associée à une beauté éblouissante, un mythe perpétué par des œuvres comme la pièce de théâtre de Shakespeare. Si les sources antiques insistent parfois sur sa beauté quasi divine, les pièces de monnaie la représentent avec des traits lourds, un nez proéminent et un visage empâté. Cependant, son intelligence, son esprit cultivé et ses qualités intellectuelles sont soulignés par [[Plutarque]], et sa maîtrise de plusieurs langues, dont l'égyptien, l'araméen et l'éthiopien, est avérée.
 
-Cléopâtre est un personnage dont la légende s'est emparée de son vivant même. Sa mort tragique a ajouté au romanesque qui l'entoure, pouvant nuire à une approche objective de son règne. Elle est l'une des femmes les plus célèbres de l'Antiquité. Bien que souvent présentée de manière hostile, son intelligence et son esprit cultivé sont des traits de son caractère, et elle a démontré ses capacités de diplomate et de dirigeante politique. Son image a été immortalisée et parfois idéalisée dans l'art, la littérature (comme la pièce de Shakespeare) et même au cinéma, bien que les représentations sur les pièces de monnaie suggèrent des traits physiques plus communs.
-
-### Relations
+---
+### 6. Relations
 > [!info] **Relations**
-- **Famille** : [[établir ère Ptolémée XII Aulète]] (père), [[époux établir ère époux Ptolémée XIII]] (frère-époux), [[ère Ptolémée XIV]] (frère-époux), [[înée Bérénice IV]] (demi-sœur), [[Cléopâtre Séléné]] (fille)
-- **Alliés** : [[Jules César]] (compagnon), [[Marc Antoine]] (général romain et compagnon), [[Mithridate de Pergame]] (général ayant mené des renforts), [[Antipater l'Iduméen]] (général ayant mené des renforts)
-- **Rivaux/Ennemis** : [[époux établir ère époux Ptolémée XIII]] (frère-époux, conflit armé), [[ère Ptolémée XIV]] (frère-époux, elle s'en est débarrassée), [[Pothin]] (eunuque et tuteur de époux établir ère époux Ptolémée XIII, a cherché à l'opposer à son frère et a attaqué César), [[Achillas]] (général, a cherché à l'opposer à son frère), [[Octave]] (adversaire dans la guerre civile romaine)
-```
+> - **Famille** : [[Ptolémée XII Aulète]] (Père), [[Ptolémée XIII]] (Frère-époux, adversaire), [[Ptolémée XIV]] (Frère-époux, adversaire), [[Bérénice IV]] (Demi-sœur, souveraine déchue par leur père), [[Cléopâtre Séléné]] (Fille). La dynastie des [[Lagides]] a été fondée par [[Ptolémée Ier]]. [[Ptolémée XII Aulète]] était un bâtard de [[Ptolémée IX]].
+> - **Alliés** : [[Jules César]] (Compagnon, protecteur politique), [[Marc Antoine]] (Compagnon, co-dirigeant), [[Mithridate de Pergame]] (Allié de César, apporte des renforts), [[Antipater l'Iduméen]] (Allié de César, apporte des renforts).
+> - **Rivaux/Ennemis** : [[Ptolémée XIII]] (Adversaire, lutte pour le pouvoir), [[Ptolémée XIV]] (Adversaire, éliminé par Cléopâtre), [[Pothin]] (Adversaire, eunuque et tuteur de Ptolémée XIII), [[Achillas]] (Adversaire, général), [[Octave]] (Adversaire dans la guerre civile).
+> - **Protecteurs Politiques** : [[Pompée]] (Protecteur de [[Ptolémée XII Aulète]] et tuteur de [[Ptolémée XIII]]), [[Gabinius]] (Gouverneur de Syrie, rétablit [[Ptolémée XII Aulète]]).
