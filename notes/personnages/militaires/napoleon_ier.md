@@ -25,30 +25,24 @@ Roger Ducos est tout acquis à Bonaparte, alors que Sieyès lui n’entend pas s
 
 - **1769** : Naissance (15 août 1769)
 - **1778** : Il part pour Versailles où Louis XVI le reçoit en audience une seconde fois, la première rencontre avec le roi datant de 1776
-- **1784** : Et arrive cinq jours plus tard à Paris, où il intègre la compagnie des cadets gentilshommes de l'école militaire de Paris
 - **1786** : Sept ans et neuf mois après son départ, il repose les pieds sur l’île de Corse à l’occasion de son congé de semestre
 - **1789** : Napoléon Bonaparte quitte Auxonne pour un nouveau congé de six mois
 - **1792** : Dans le contexte de la guerre, où l'on a besoin de soldats
 - **1793** : Les Bonaparte s'installent d'abord près de Toulon, puis dans la région de Marseille, en pleine guerre fédéraliste
-- **1794** : Visant à se renseigner sur les forces militaires de la république de Gênes
 - **1795** : Il est renvoyé brusquement — ou il démissionne, la cause reste encore floue
 - **1796** : En retard à la cérémonie, Bonaparte arrive et s’écrie auprès du commissaire chargé de remplacer le maire « Mariez-nous vite », en le réveillant
 - **1797** : Il est élu membre de l'Institut dans la section des arts mécaniques de la classe des sciences physiques et mathématiques
 - **1798** : Le gouvernement abandonne le projet d'invasion de l'Angleterre sur les conseils de Bonaparte, qui, lui-même influencé par Talleyrand, persuade alors le Directoire de porter la guerre en Égypte, où il
 - **1799** : La ville de Jaffa est prise et pillée par les Français
-- **1800** : À vaincre les Turcs à la bataille d'Héliopolis
 - **1802** : Était censé garantir la paix entre la France et l'Angleterre
-- **1803** : À Westminster, un procès au journaliste français exilé à Londres Jean-Gabriel Peltier, à qui il reproche ses attaques
-- **1804** : Par le pape Pie VII, en même temps que son épouse Joséphine de Beauharnais
+- **1803** : Et pour soutenir l’opposition royaliste à Bonaparte
+- **1804** : L’heure n’est donc pas encore aux vastes conquêtes mais à la diplomatie
 - **1805** : Napoléon écrit au roi de Grande-Bretagne George III pour lui proposer la paix mais ce dernier refuse catégoriquement
 - **1806** : La Prusse provoque un nouveau conflit
-- **1807** : Pour fuir l'armée française de 30 000 hommes commandée par Jean-Andoche Junot qui fait marche sur le Portugal, a déclenché des mesures de rétorsion contre la France, privée du coton brésilien
 - **1808** : Napoléon crée la noblesse d’Empire : bientôt ses maréchaux et généraux arboreront des titres de comte d’Empire, prince de Neuchâtel, duc de Trévise, duc d’Auerstaedt, duc de Montebello, duc de
 - **1809** : À l'époque de la conclusion de la paix avec l'empire d'Autriche
 - **1810** : Napoléon épouse l’archiduchesse Marie-Louise d’Autriche, fille aînée de son dernier ennemi
 - **1811** : Elle lui donne un fils, au terme d'un accouchement long et douloureux
-- **1815** : Approuvé le 1er juin)
-- **1819** : Refusa de souscrire à ces conclusions après son autopsie détaillée — laquelle avait été commandée à l'avance par l'Empereur — qui montra, entre autres, une rate, un foie et une vésicule biliaire très
 - **1821** : Décès (5 mai 1821)
 
 ## Relations
