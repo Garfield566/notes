@@ -18,7 +18,7 @@ Sir Isaac Newton (25 décembre 1642 – 20 mars 1727) est un mathématicien, phy
 
 Quant à la méthode, Newton n'accepte que les relations mathématiques découvertes par l'observation rigoureuse des phénomènes. D'où sa fameuse formule : « Je ne feins pas d'hypothèses (Hypotheses non fingo). »
 Il précise : « Tout ce qui n'est pas déduit des phénomènes, il faut l'appeler hypothèse ; et les hypothèses, qu'elles soient métaphysiques ou physiques, qu'elles concernent les qualités occultes ou qu'elles soient mécaniques, n'ont pas leur place dans la philosophie expérimentale. » Par l'ampleur de son travail dans ce domaine, Newton peut être considéré comme un alchimiste hors pair en Europe. De 1668 à 1675, Sir Isaac Newton pratique l’alchimie. En 1669, sa comptabilité indique une importante acquisition de matériel de laboratoire liée à ses travaux en alchimie : un fourneau, un mélangeur, divers produits chimiques et une compilation de traités d'alchimie. Certains considèrent que l'alchimie est présente à des degrés divers dans toute son œuvre scientifique et qu'elle permet d'en comprendre la genèse voire l'unité. Pour ses travaux, il se fondera sur une abondante bibliographie, dont les ouvrages suivants : le grand recueil alchimique du Theatrum chemicum
-Zosime de Panopolis[réf. Nécessaire]
+Zosime de Panopolis
 le pseudo-Geber (nom latin de l'alchimiste arabe Jabir Ibn Hayyan)
 Eyrénée Philalèthe (pseudonyme de George Starkey), L’Entrée ouverte au palais fermé du roi
 Michael Maier, Artifex chymicus
