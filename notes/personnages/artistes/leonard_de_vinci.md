@@ -14,6 +14,7 @@ date_creation: '2026-02-09'
 > ![[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg/300px-Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg|300]]
 >- **Dates** : 14 avril 1452 - 2 mai 1519
 >- **Discipline** : peinture, ingénierie, science
+>- **Mouvement** : Renaissance italienne
 >- **Formation** : atelier d'Andrea del Verrocchio
 >- **Œuvre majeure** : La Joconde
 
@@ -34,13 +35,13 @@ Léonard de Vinci se distingue par son approche scientifique de l'art, combinant
 >   Portrait emblématique de la Renaissance, célèbre pour son sfumato et son mystère.
 > - **`[[La Cène]]`** (1495-1498) — peinture murale à la détrempe, Santa Maria delle Grazie, Milan
 >   Peinture murale représentant le dernier repas du Christ, connue pour sa composition dynamique.
-> - **`[[L'Homme de Vitruve]]`** (v. 1490) — dessin annoté, Gallerie dell'Accademia, Venise
+> - **`[[L'Homme de Vitruve]]`** (v. 1490) — dessin à la plume et encre, Gallerie dell'Accademia, Venise
 >   Étude des proportions humaines inspirée des écrits de Vitruve.
 
 > [!artwork] **Ingénierie et science**
-> - **`[[Machines de guerre]]`** (1480-1499) — dessins et projets
+> - **`[[Machines de guerre]]`** (1480-1499) — dessins techniques et projets
 >   Conceptions de chars, catapultes et autres engins militaires.
-> - **`[[Traités d'anatomie]]`** (1489-1513) — manuscrits
+> - **`[[Traités d'anatomie]]`** (1489-1513) — manuscrits illustrés
 >   Études détaillées du corps humain, fondées sur des dissections.
 
 ## Influences et héritage
@@ -50,15 +51,16 @@ Léonard de Vinci se distingue par son approche scientifique de l'art, combinant
 > - `[[Laurent de Médicis]]` : mécénat et accès aux commandes prestigieuses
 
 > [!example] **Influence exercée**
-> - `[[Francesco Melzi]]` : transmission de ses notes et dessins
-> - `[[Postérité]]` : figure majeure de la Renaissance, inspirant des générations d'artistes et scientifiques
+> - `[[Francesco Melzi]]` : élève principal, transmission de ses notes et dessins
+> - `[[Raphaël]]` : influence directe sur son style, notamment le sfumato
 
 ## Chronologie
 
-- **1452** : Naissance (14 avril 1452)
-- **1464** : Apprentissage chez Andrea del Verrocchio
+- **1452** : Naissance à Vinci (14 avril 1452)
+- **1464** : Apprentissage chez Andrea del Verrocchio à Florence
 - **1482** : Départ pour Milan, au service de Ludovic Sforza
-- **1495** : Début de La Cène
-- **1503** : Début de La Joconde
-- **1516** : Invitation de François Ier en France
-- **1519** : Décès (2 mai 1519)
+- **v. 1490** : L'Homme de Vitruve
+- **1495-1498** : Réalisation de La Cène
+- **v. 1503** : Début de La Joconde
+- **1516** : Invitation de François Ier, installation au Clos Lucé
+- **1519** : Décès à Amboise (2 mai 1519)
