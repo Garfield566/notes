@@ -20,12 +20,17 @@ Le 12 octobre 1492 à deux heures du matin, au terme d'une traversée finalement
 
 ## Chronologie
 
+- **1451** : Naissance (1451)
+- **1474** : Il participe à un voyage commercial sur l’île de Chios
+- **1484** : Les marins portugais ont dépassé l'embouchure du fleuve Congo et le cap de Bonne-Espérance va être découvert en 1488
+- **1487** : Une orpheline d'une vingtaine d'années élevée par un oncle
+- **1489** : Un mandement du roi et de la reine est adressé à toutes les autorités du royaume (villes, juridictions, seigneuries) d'assister Christophe Colomb durant son voyage, de l'héberger gratuitement et le
+- **1492** : Il la chargera de la garde de Diego et, dans son testament, demandera à celui-ci de la considérer comme une mère
 - **1493** : Vingt-et-un jours après avoir quitté les Canaries — est une île qu'il baptise Desiderada (La Désirade), tant la vue d'une terre était désirée par les hommes d'équipage
 - **1494** : Il abandonne La Navidad pour fonder La Isabela (près de l'actuelle ville domicaine de Puerto Plata)
 - **1498** : Les six navires commencent leur voyage dans l'Atlantique en passant la barre de Sanlúcar de Barrameda
 - **1500** : Un émissaire des Rois catholiques, envoyé en inspection, le met aux arrêts et le renvoie en Espagne
 - **1502** : Il lui est même interdit de faire escale à Hispaniola
-- **1503** : Naissance (1503)
 - **1506** : Décès (20 mai 1506)
 
 ## Relations
