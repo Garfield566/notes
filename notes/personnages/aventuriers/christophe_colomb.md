@@ -12,13 +12,17 @@ date_creation: '2026-02-09'
 > [!Infobox]
 > Christophe Colomb
 > ![[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg|300]]
->- **Dates** : 1451 - 1506
->- **Type** : explorateur
+>- **Dates** : v. 1451 - 20 mai 1506
+>- **Type** : explorateur, navigateur
 >- **Employeur** : Rois catholiques d'Espagne
 
 ## Biographie
 
-Christophe Colomb, né en 1451 à Gênes, est un navigateur génois célèbre pour avoir atteint les Caraïbes en 1492 au service des Rois catholiques d'Espagne. D'abord marchand et navigateur en Méditerranée, il émigre au Portugal en 1476 avant de proposer son projet de route vers l'ouest aux souverains espagnols. Après six ans de négociations, il obtient leur soutien en 1492. Colomb meurt le 20 mai 1506 à Valladolid, convaincu jusqu'au bout d'avoir atteint les Indes.
+Christophe Colomb naît vers 1451 à Gênes, dans une famille de tisserands. Il s'initie tôt à la navigation en Méditerranée et dans l'Atlantique. En 1476, il s'installe au Portugal, alors centre de l'exploration maritime, où il épouse Filipa Moniz Perestrelo. Convaincu qu'il est possible d'atteindre les Indes par l'ouest, il présente son projet au roi Jean II de Portugal, qui le refuse.
+
+Après six ans de négociations avec la couronne espagnole, il obtient le soutien d'Isabelle de Castille et de Ferdinand d'Aragon. Le 3 août 1492, il quitte Palos de la Frontera avec trois navires. Le 12 octobre 1492, il atteint l'île de Guanahani aux Bahamas, inaugurant la découverte européenne des Amériques.
+
+Il effectue trois autres voyages : le deuxième (1493-1496) qui colonise Hispaniola, le troisième (1498) qui atteint le continent sud-américain à l'embouchure de l'Orénoque, et le quatrième (1502-1504) qui explore les côtes de l'Amérique centrale. Son administration coloniale est critiquée pour sa brutalité ; il est arrêté et renvoyé enchaîné en Espagne en 1500. Colomb meurt le 20 mai 1506 à Valladolid, convaincu jusqu'au bout d'avoir atteint les Indes.
 
 ## Expéditions / Campagnes
 
@@ -46,31 +50,33 @@ Christophe Colomb, né en 1451 à Gênes, est un navigateur génois célèbre po
 > - [[Cadix]] → [[Îles Canaries]] → [[La Désirade]] → [[Guadeloupe]] → [[Hispaniola]]
 >
 > **Découvertes/Conquêtes** :
-> - [[La Isabela]] : fondation de la colonie en janvier 1494
+> - [[La Isabela]] : fondation de la première colonie en janvier 1494
 >
 > **Issue** : Dégradation des relations avec les colons, retour en Espagne en 1496
 
 ## Découvertes et impact
 
-Christophe Colomb a découvert les Caraïbes en 1492, ouvrant la voie à la colonisation espagnole des Amériques. Ses voyages ont permis la cartographie de nouvelles terres et l'établissement des premières colonies européennes en Amérique. Cependant, son administration coloniale a été critiquée pour sa brutalité. Les épidémies apportées par les Européens ont décimé les populations indigènes.
+Christophe Colomb a ouvert la voie à la colonisation européenne des Amériques en atteignant les Caraïbes en 1492. Ses quatre voyages ont permis la cartographie de nouvelles terres et l'établissement des premières colonies européennes en Amérique. Cependant, son administration coloniale a été critiquée pour sa brutalité envers les populations indigènes. Les épidémies apportées par les Européens ont décimé les Taïnos et d'autres peuples autochtones.
 
 ## Chronologie
 
-- **1451** : Naissance à Gênes
-- **1476** : Émigration au Portugal
-- **1492** : Premier voyage, découverte des Caraïbes
+- **v. 1451** : Naissance à Gênes
+- **1476** : Installation au Portugal
+- **1484** : Présentation du projet à Jean II de Portugal (refusé)
+- **1492** : Premier voyage, découverte des Caraïbes (12 octobre)
 - **1493** : Deuxième voyage, colonisation d'Hispaniola
-- **1498** : Troisième voyage, découverte de l'Orénoque
+- **1498** : Troisième voyage, découverte de l'Orénoque (continent)
+- **1500** : Arrestation et renvoi en Espagne enchaîné
 - **1502** : Quatrième voyage, exploration du Costa Rica et Panama
 - **1506** : Décès à Valladolid (20 mai 1506)
 
 ## Héritage
 
-Christophe Colomb est célébré comme un explorateur ayant ouvert la voie à la colonisation européenne des Amériques. Cependant, son héritage est controversé en raison des violences et des épidémies qui ont suivi ses voyages.
+Christophe Colomb est une figure fondatrice de l'histoire des Amériques, ayant ouvert la voie à la colonisation européenne du Nouveau Monde. Son héritage est profondément controversé : célébré comme explorateur audacieux d'un côté, critiqué pour les violences coloniales et les épidémies qui ont suivi ses voyages de l'autre.
 
 ## Relations
 
 > [!info] **Relations**
-> - **Commanditaires** : `[[Isabelle de Castille]]` (financement et soutien politique), `[[Ferdinand d'Aragon]]` (financement et soutien politique)
-> - **Équipage/Compagnons** : `[[Rodrigo de Triana]]` (premier à apercevoir les terres), `[[Alonso Pinzón]]` (capitaine de la Pinta)
-> - **Rivaux** : `[[Jean II de Portugal]]` (refus initial du projet)
+> - **Commanditaires** : `[[Isabelle de Castille]]` (reine de Castille, financement et soutien politique), `[[Ferdinand d'Aragon]]` (roi d'Aragon, co-commanditaire)
+> - **Équipage/Compagnons** : `[[Rodrigo de Triana]]` (marin, premier à apercevoir les terres), `[[Alonso Pinzón]]` (capitaine de la Pinta)
+> - **Souverains consultés** : `[[Jean II de Portugal]]` (refus du projet en 1484)
