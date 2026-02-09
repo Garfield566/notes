@@ -1,9 +1,9 @@
 ---
 aliases: Napoléon Ier, Bonaparte
 tags: '#histoire/personne/militaire'
-titre: Empereur
+titre: Empereur des Français
 nationalite: France
-grade: Général en chef
+grade: Empereur des Français
 periode: Époque contemporaine
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Napoleon_I_of_France.jpg/300px-Napoleon_I_of_France.jpg
 date_creation: '2026-02-09'
@@ -13,7 +13,7 @@ date_creation: '2026-02-09'
 > Napoléon Bonaparte
 > ![[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Napoleon_I_of_France.jpg/300px-Napoleon_I_of_France.jpg|300]]
 >- **Dates** : 15 août 1769 - 5 mai 1821
->- **Grade** : Général en chef
+>- **Grade** : Empereur des Français
 >- **Nationalité** : France
 >- **Allégeance** : République française puis Empire français
 >- **Conflits** : Guerres de la Révolution française, Guerres napoléoniennes
@@ -21,11 +21,11 @@ date_creation: '2026-02-09'
 
 ## Biographie
 
-Napoléon Bonaparte naît le 15 août 1769 à Ajaccio en Corse, dans une famille modeste de la petite noblesse. Il entre à l'école militaire de Brienne-le-Château en 1779, puis à l'école militaire de Paris en 1784. Il se distingue rapidement par ses compétences en mathématiques et son sens du commandement. En 1793, il devient général dans les armées de la Première République française.
+Napoléon Bonaparte naît le 15 août 1769 à Ajaccio en Corse, dans une famille de la petite noblesse. Il entre à l'école militaire de Brienne-le-Château en 1779, puis à l'École royale militaire de Paris en 1784, où il se spécialise dans l'artillerie. Lieutenant en second en 1785, il se distingue au siège de Toulon en 1793, ce qui lui vaut le grade de général de brigade.
 
-Après une ascension fulgurante, il mène avec succès la campagne d'Italie (1796-1797), où il remporte plusieurs victoires décisives. En 1799, il organise le coup d'État du 18 Brumaire, mettant fin au Directoire et devenant Premier consul. Le 2 décembre 1804, il est sacré empereur des Français sous le nom de Napoléon Ier.
+Après une ascension fulgurante, il est nommé commandant en chef de l'armée d'Italie en 1796. Sa campagne d'Italie (1796-1797) lui apporte gloire et prestige grâce à des victoires décisives à Lodi, Arcole et Rivoli. En 1798, il mène l'expédition d'Égypte, à la fois militaire et scientifique. En 1799, il organise le coup d'État du 18 Brumaire, mettant fin au Directoire et devenant Premier consul.
 
-Son règne est marqué par des réformes majeures, notamment le Code civil de 1804, et par des campagnes militaires ambitieuses en Europe. Après la défaite de Waterloo le 18 juin 1815, il abdique pour la seconde fois et est exilé à Sainte-Hélène, où il meurt le 5 mai 1821.
+Le 2 décembre 1804, il est sacré empereur des Français sous le nom de Napoléon Ier. Son règne est marqué par des réformes majeures — le Code civil (1804), la création de la Banque de France, la réorganisation de l'administration — et par des campagnes militaires en Europe. Après l'apogée d'Austerlitz (1805), l'Empire s'étend de l'Espagne à la Pologne. La campagne de Russie (1812) marque le début du déclin. Après la défaite de Waterloo le 18 juin 1815, il abdique pour la seconde fois et est exilé à Sainte-Hélène, où il meurt le 5 mai 1821.
 
 ## Campagnes et batailles
 
@@ -67,24 +67,25 @@ Ses forces résident dans sa capacité à anticiper les mouvements adverses et �
 
 ## Chronologie
 
-- **1769** : Naissance (15 août 1769)
-- **1793** : Promu général de brigade
+- **1769** : Naissance à Ajaccio (15 août 1769)
+- **1785** : Lieutenant en second d'artillerie
+- **1793** : Promu général de brigade après le siège de Toulon
 - **1796** : Campagne d'Italie
-- **1799** : Coup d'État du 18 Brumaire
-- **1804** : Sacre impérial
-- **1805** : Bataille d'Austerlitz
+- **1799** : Coup d'État du 18 Brumaire, Premier consul
+- **1804** : Sacre impérial (2 décembre)
+- **1805** : Victoire d'Austerlitz
 - **1812** : Campagne de Russie
-- **1815** : Bataille de Waterloo, exil à Sainte-Hélène
-- **1821** : Décès (5 mai 1821)
+- **1815** : Défaite de Waterloo, exil à Sainte-Hélène
+- **1821** : Décès à Sainte-Hélène (5 mai 1821)
 
 ## Héritage
 
-Napoléon laisse une empreinte durable sur l'histoire militaire et politique. Ses réformes, notamment le Code civil, influencent encore aujourd'hui les systèmes juridiques. Son style de commandement et ses tactiques sont étudiés dans les écoles de guerre du monde entier. Cependant, son héritage reste controversé, entre admiration pour ses réformes et critique de ses ambitions impériales.
+Napoléon laisse une empreinte durable sur l'histoire militaire et politique. Ses réformes institutionnelles — Code civil, Banque de France, préfets, lycées — structurent encore la France contemporaine. Son style de commandement et ses tactiques sont étudiés dans les écoles de guerre du monde entier. Cependant, son héritage reste controversé : admiration pour ses réformes et son génie militaire d'un côté, critique de ses ambitions impériales et du coût humain de ses guerres de l'autre.
 
 ## Relations
 
 > [!info] **Relations**
-> - **Souverains servis** : `[[République française]]` (commandant en chef)
-> - **Subordonnés notables** : `[[Murat]]` (maréchal), `[[Davout]]` (maréchal)
-> - **Rivaux/Ennemis** : `[[Wellington]]` (adversaire à Waterloo), `[[Blücher]]` (commandant prussien)
-> - **Mentors** : `[[Pasquale Paoli]]` (indépendantiste corse)
+> - **Gouvernements servis** : `[[République française]]` (commandant en chef des armées), `[[Empire français]]` (empereur)
+> - **Subordonnés notables** : `[[Murat]]` (maréchal, roi de Naples), `[[Davout]]` (maréchal, duc d'Auerstaedt)
+> - **Rivaux/Ennemis** : `[[Wellington]]` (adversaire à Waterloo), `[[Blücher]]` (commandant prussien à Waterloo)
+> - **Famille politique** : `[[Joséphine de Beauharnais]]` (première épouse, impératrice), `[[Talleyrand]]` (ministre des Affaires étrangères)
