@@ -1,66 +1,33 @@
 ---
-aliases: Leonardo di ser Piero da Vinci, Leonardo da Vinci
 tags: '#art/personne/peinture'
-nationalite: Toscane (Italie)
-discipline: peinture, ingénierie, science
-mouvement: Renaissance italienne
-periode: Renaissance
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg/300px-Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg
+mouvement: Haute Renaissance
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo.png
 date_creation: '2026-02-09'
 ---
 
 > [!Infobox]
 > Léonard de Vinci
-> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg/300px-Leonardo_da_Vinci_-_Self_Portrait_-_WGA10621.jpg|300]]
+> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo.png|300]]
 >- **Dates** : 14 avril 1452 - 2 mai 1519
->- **Discipline** : peinture, ingénierie, science
->- **Mouvement** : Renaissance italienne
->- **Formation** : atelier d'Andrea del Verrocchio
->- **Œuvre majeure** : La Joconde
+>- **Mouvement** : Haute Renaissance
 
 ## Biographie
 
-Léonard de Vinci naît le 14 avril 1452 à Vinci, en Toscane, d'une relation illégitime entre un notaire, Pierre de Vinci, et une paysanne, Caterina di Meo Lippi. Élevé par ses grands-parents paternels, il rejoint Florence vers l'âge de dix ans. Son père l'inscrit d'abord dans une scuola d'abaco avant de l'envoyer en apprentissage chez Andrea del Verrocchio vers 1464. Dans cet atelier, il côtoie d'autres futurs artistes comme Botticelli et Le Pérugin. En 1482, il quitte Florence pour Milan, où il entre au service du duc Ludovic Sforza en tant qu'ingénieur et peintre.
-
-En 1499, il quitte Milan pour Mantoue, Venise, puis Florence, où il travaille pour César Borgia comme ingénieur militaire. En 1506, il retourne à Milan sous le règne de Louis XII, puis s'installe en France en 1516 à l'invitation de François Ier. Il passe ses dernières années au Clos Lucé, près d'Amboise, où il meurt le 2 mai 1519.
-
-## Style et technique
-
-Léonard de Vinci se distingue par son approche scientifique de l'art, combinant observation minutieuse de la nature et étude approfondie de l'anatomie humaine. Ses peintures, comme La Joconde, se caractérisent par le sfumato, une technique de modelage des formes par des transitions douces entre les tons. Il utilise des techniques variées, allant de la peinture murale à la détrempe pour La Cène à des dessins annotés comme L'Homme de Vitruve.
-
-## Œuvres principales
-
-> [!artwork] **Peintures**
-> - **`[[La Joconde]]`** (v. 1503-1519) — huile sur bois de peuplier, musée du Louvre
->   Portrait emblématique de la Renaissance, célèbre pour son sfumato et son mystère.
-> - **`[[La Cène]]`** (1495-1498) — peinture murale à la détrempe, Santa Maria delle Grazie, Milan
->   Peinture murale représentant le dernier repas du Christ, connue pour sa composition dynamique.
-> - **`[[L'Homme de Vitruve]]`** (v. 1490) — dessin à la plume et encre, Gallerie dell'Accademia, Venise
->   Étude des proportions humaines inspirée des écrits de Vitruve.
-
-> [!artwork] **Ingénierie et science**
-> - **`[[Machines de guerre]]`** (1480-1499) — dessins techniques et projets
->   Conceptions de chars, catapultes et autres engins militaires.
-> - **`[[Traités d'anatomie]]`** (1489-1513) — manuscrits illustrés
->   Études détaillées du corps humain, fondées sur des dissections.
-
-## Influences et héritage
-
-> [!abstract] **Influences reçues**
-> - `[[Andrea del Verrocchio]]` : formation artistique et technique
-> - `[[Laurent de Médicis]]` : mécénat et accès aux commandes prestigieuses
-
-> [!example] **Influence exercée**
-> - `[[Francesco Melzi]]` : élève principal, transmission de ses notes et dessins
-> - `[[Raphaël]]` : influence directe sur son style, notamment le sfumato
+Léonard de Vinci (italien : Leonardo di ser Piero da Vinci, dit Leonardo da Vinci), né le 14 avril 1452 du calendrier actuel — le 15 avril 1452, date de l'époque — à Vinci (Toscane) et mort le 2 mai 1519 à Amboise (Touraine), est un peintre polymathe toscan de la Renaissance italienne, simultanément artiste, organisateur de spectacles et de fêtes, scientifique, ingénieur, inventeur, anatomiste, sculpteur, peintre, architecte, urbaniste, botaniste, musicien, philosophe et écrivain. Enfant naturel d'une paysanne, Caterina di Meo Lippi, et d'un notaire, Pierre de Vinci, il est élevé auprès de ses grands-parents paternels dans la maison familiale de Vinci jusqu’à l’âge de dix ans. À Florence, son père l'inscrit pour deux ans d’apprentissage dans une scuola d’abaco et ensuite à l'atelier d'Andrea del Verrocchio où il côtoie Botticelli, Le Pérugin et Domenico Ghirlandaio. Il quitte l’atelier en 1482 et se présente principalement comme ingénieur au duc de Milan Ludovic Sforza. Introduit à la cour, il obtient quelques commandes de peinture et ouvre un atelier. Il étudie les mathématiques et le corps humain. Il rencontre également Gian Giacomo Caprotti, dit Salai, un enfant de dix ans, turbulent élève de son atelier, qu’il prend sous son aile. En septembre 1499, Léonard part à Mantoue, à Venise et retourne à Florence. Il y repeint et s'adonne à l’architecture ainsi qu'à l'ingénierie militaire. Pendant un an, il confectionne des cartes géographiques pour César Borgia. En 1503, la ville de Florence lui commande une fresque, mais il en est déchargé par le roi de France Louis XII qui l'appelle à Milan où, de 1506 à 1511, il est « peintre et ingénieur ordinaire » du souverain. Il rencontre Francesco Melzi, son élève, ami et exécuteur testamentaire. En 1504, son père meurt, mais il est exclu du testament. En 1507, il est usufruitier des terres de son oncle décédé. En 1514, après une retraite à Vaprio d'Adda, Léonard travaille à Rome pour Julien de Médicis, frère de Léon X, et y délaisse la peinture pour les sciences et un projet d’assèchement des marais pontins. En 1516, François Ier l'invite en France au manoir du Cloux avec Francesco Melzi et Salai. Il y emmène notamment La Joconde probablement terminée sur place et qui a traversé les siècles comme une des œuvres picturales les plus célèbres au monde, si ce n'est la plus célèbre. Léonard meurt subitement au Clos Lucé en 1519. Son ami Francesco Melzi hérite de ses notes et de ses dessins. Salai hérite des peintures du maître et partage avec un serviteur les vignes que Léonard a reçues de Ludovic Sforza. Léonard de Vinci fait partie des artistes de son époque dit « polymathes » : il maîtrise plusieurs disciplines comme la sculpture, le dessin, la musique et la peinture qu'il place au sommet des arts. Léonard se lance dans une minutieuse étude de la nature et de l'expression humaine : une image doit représenter la personne, mais aussi les intentions de son esprit. Il fournit sur ses tableaux un minutieux travail...
 
 ## Chronologie
 
-- **1452** : Naissance à Vinci (14 avril 1452)
-- **1464** : Apprentissage chez Andrea del Verrocchio à Florence
-- **1482** : Départ pour Milan, au service de Ludovic Sforza
-- **v. 1490** : L'Homme de Vitruve
-- **1495-1498** : Réalisation de La Cène
-- **v. 1503** : Début de La Joconde
-- **1516** : Invitation de François Ier, installation au Clos Lucé
-- **1519** : Décès à Amboise (2 mai 1519)
+- **1452** : Naissance (14 avril 1452)
+- **1457** : Léonard rejoint la maison de sa famille paternelle à Vinci
+- **1470** : Dans Le Baptême du Christ, Léonard peint l’ange à l’extrême gauche
+- **1472** : À l'âge de vingt ans, Léonard achève son apprentissage et peut ainsi devenir
+- **1476** : Léonard y est toujours mentionné
+- **1478** : Léonard reçoit sa première commande pour un retable de la chapelle du Palazzo
+- **1482** : Léonard de Vinci a environ trente ans
+- **1489** : Il prépare l'écriture d'un livre sur l'anatomie humaine qui s'intitule De la
+- **1503** : La ville de Florence lui commande une fresque
+- **1504** : Son père meurt
+- **1507** : Il est usufruitier des terres de son oncle décédé
+- **1514** : Après une retraite à Vaprio d'Adda, Léonard travaille à Rome pour Julien de
+- **1516** : François Ier l'invite en France au manoir du Cloux avec Francesco Melzi et Salai
+- **1519** : Décès (2 mai 1519)
