@@ -20,17 +20,13 @@ Le 12 octobre 1492 à deux heures du matin, au terme d'une traversée finalement
 
 ## Chronologie
 
-- **1493** : Aidé par de bons vents, plus au nord
+- **1493** : Vingt-et-un jours après avoir quitté les Canaries — est une île qu'il baptise Desiderada (La Désirade), tant la vue d'une terre était désirée par les hommes d'équipage
 - **1494** : Il abandonne La Navidad pour fonder La Isabela (près de l'actuelle ville domicaine de Puerto Plata)
-- **1496** : Emmenant avec lui cinq cents Arawaks, destinés à être vendus comme esclaves, dont deux cents meurent au cours de la traversée
 - **1498** : Les six navires commencent leur voyage dans l'Atlantique en passant la barre de Sanlúcar de Barrameda
 - **1500** : Un émissaire des Rois catholiques, envoyé en inspection, le met aux arrêts et le renvoie en Espagne
 - **1502** : Il lui est même interdit de faire escale à Hispaniola
 - **1503** : Naissance (1503)
-- **1504** : Et arrivent le 7 novembre dans le port de Sanlúcar de Barrameda
 - **1506** : Décès (20 mai 1506)
-- **1507** : En hommage à Vespucci
-- **1512** : Sous la pression des protestations des religieux comme Bartolomé de Las Casas, Ferdinand d'Aragon, régent de Castille, promulgue les lois de Burgos, Ordonnances royales pour le bon règlement et
 
 ## Relations
 
