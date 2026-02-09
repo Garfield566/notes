@@ -13,7 +13,7 @@ date_creation: '2026-02-09'
 
 ## Biographie
 
-Cléopâtre VII Philopator (en grec ancien Κλεοπάτρα Θεά Φιλοπάτωρ / Kleopátra Theá Philopátōr, « Cléopâtre la déesse qui aime son père », puis Θεά Νεωτέρα Φιλόπατρις / Theá Neōtéra Philópatris, « Déesse nouvelle qui aime sa patrie ») est une reine d'Égypte antique de la dynastie lagide née vers 69 av. J.-C. Et morte le 12 août 30 av. J.-C. Elle règne sur l'Égypte entre 51 et 30 av. J.-C. Avec ses frères-époux Ptolémée XIII et Ptolémée XIV puis aux côtés du général romain Marc Antoine. Elle est célèbre pour avoir été la compagne de Jules César puis de Marc Antoine avec lesquels elle a eu plusieurs enfants. Partie prenante dans la guerre civile opposant Marc Antoine à Octave, elle est vaincue à la bataille d'Actium en 31 av. J.-C. Sa défaite permet aux Romains de mener à bien la conquête de l'Égypte, événement qui marque la fin de l'Égypte pharaonique et de l'époque hellénistique. Cette figure est un personnage dont la légende s'est emparée de son vivant même. Sa mort tragique n'a fait qu'ajouter au romanesque qui l'entoure et peut, pour cette raison, nuire à une approche objective de celle qui a été l'une des femmes les plus célèbres de l'Antiquité.
+Cléopâtre VII Philopator est une reine d'Égypte antique de la dynastie lagide née vers 69 av. J.-C. Et morte le 12 août 30 av. J.-C. Elle règne sur l'Égypte entre 51 et 30 av. J.-C. Avec ses frères-époux Ptolémée XIII et Ptolémée XIV puis aux côtés du général romain Mais Marc Antoine. Elle est célèbre pour avoir été la compagne de Jules César puis de Mais Marc Antoine avec lesquels elle a eu plusieurs enfants. Partie prenante dans la guerre civile opposant Mais Marc Antoine à Octave, elle est vaincue à la bataille d'Actium en 31 av. J.-C. Sa défaite permet aux Romains de mener à bien la conquête de l'Égypte, événement qui marque la fin de l'Égypte pharaonique et de l'époque hellénistique. Cette figure est un personnage dont la légende s'est emparée de son vivant même. Sa mort tragique n'a fait qu'ajouter au romanesque qui l'entoure et peut, pour cette raison, nuire à une approche objective de celle qui a été l'une des femmes les plus célèbres de l'Antiquité.
 
 ## Règne
 
@@ -22,10 +22,13 @@ Fin 52 à début 51 avant notre ère, Cléopâtre VII, alors âgée d'environ di
 ## Événements clés
 
 - **69 av. J.-C.** : Naissance (v. 69 av. J.-C.)
+- **52 av. J.-C.** : Cléopâtre VII, alors âgée d'environ dix-huit ans, est associée au pouvoir de son père Ptolémée XII
+- **48 av. J.-C.** : Sous les yeux de son entourage
+- **46 av. J.-C.** : Elle n'inspire aux Romains que compassion plutôt que haine ? Il n'est pas impossible qu'Octave ait espéré le suicide de Cléopâtre
 - **43 av. J.-C.** : Une famine s'abat sur le pays, puis la crue du Nil fait défaut deux années consécutives (42/41)
 - **30 av. J.-C.** : Décès (12 août 30 av. J.-C. (à 39 ans))
 
 ## Relations
 
 > [!info] **Relations**
-> - **Famille** : `[[Jules César (amant)]]` (conjoint), `[[Marc Antoine]]` (conjoint)
+> - **Famille** : `[[Jules César]]` (amant), `[[Mais Marc Antoine]]` (conjoint)
