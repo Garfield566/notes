@@ -1,38 +1,78 @@
 ---
+aliases: Cristoforo Colombo, Cristóbal Colón
 tags: histoire/personne/aventurier/explorateur
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg/330px-Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg
-date_creation: '2026-02-09'
+nationalité: génoise
+employeur: Rois catholiques d'Espagne
+zone_activite: Caraïbes, Amérique centrale
+periode: XVe-XVIe siècle
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg
+date_creation: '2026-02-10'
 ---
 
 > [!Infobox]
 > Christophe Colomb
-> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg/330px-Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg|300]]
->- **Dates** : 1451 - 20 mai 1506
->- **Type** : explorateur
+> ![[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cristoforo_Colombo.jpg/300px-Cristoforo_Colombo.jpg|300]]
+>- **Dates** : v. 1451 - 20 mai 1506
+>- **Type** : explorateur, navigateur
+>- **Employeur** : Rois catholiques d'Espagne
 
 ## Biographie
 
-Christophe Colomb (en ligure : Cristoffa Combo ; en italien : Cristoforo Colombo ; en espagnol : Cristóbal Colón) est un navigateur génois, né en 1451 sur le territoire de la république de Gênes et mort le 20 mai 1506 à Valladolid (Espagne). Il est célèbre pour avoir, selon la formulation traditionnelle mais contestée, « découvert l'Amérique » en octobre 1492, alors qu’il est au service des « Rois catholiques », Isabelle de Castille et Ferdinand d'Aragon. D'abord navigateur et commerçant en Méditerranée au service de négociants génois, Christophe Colomb poursuit cette carrière au Portugal à partir de 1476. Tandis que les navigateurs portugais progressent depuis les années 1420 le long des côtes d'Afrique et envisagent à cette époque d'atteindre les Indes (l'Asie du Sud) par l'océan Indien, il élabore le projet alternatif d'atteindre les Indes en naviguant vers l'ouest à travers l'océan Atlantique (la « mer Océane »). Comme son projet est rejeté en 1484 par le roi du Portugal Jean II, Colomb émigre en 1485 en Castille où il tente de convaincre les Rois catholiques, qu'il rencontre dès janvier 1486. Il lui faut encore attendre six ans pour obtenir une réponse favorable, peu après la prise de Grenade et l’achèvement de la Reconquista en janvier 1492. Mandaté en avril 1492 par les capitulations de Santa Fe, il part en août suivant de Palos de la Frontera avec trois caravelles et atteint deux mois plus tard des îles dont il croit qu'elles sont proches de son but, donnant ainsi à leurs habitants le nom d'« Indiens » (Indios) qui leur est resté, alors qu'il s'agit de l'archipel américain des Caraïbes, notamment Hispaniola (grande île aussi connue sous le nom de Saint-Domingue, où se trouvent au XXIe siècle les États d’Haïti et de la République dominicaine). À son retour en mars 1493, il connaît la gloire et est officiellement nommé « amiral de la mer Océane, gouverneur et vice-roi des Indes », devenant l'égal des grands d'Espagne. Dès son deuxième voyage qui débute en septembre 1493, il s'engage dans la colonisation d'Hispaniola, dont il est nommé gouverneur. Mais cette colonisation ne se passe pas bien : les compétences de Colomb comme administrateur colonial n’égalent pas celles qui sont les siennes de navigateur et explorateur. Critiqué de toutes parts, il rentre en Espagne en 1496, parvient à se justifier, repart à Hispaniola en 1498, mais la situation dans l'île ne s'arrange pas. En 1500, un émissaire des Rois catholiques, envoyé en inspection, le met aux arrêts et le renvoie en Espagne. Il est rapidement libéré par les souverains, mais perd ses titres de gouverneur et de vice-roi ; lorsqu'il est autorisé à repartir pour un nouveau voyage en 1502, il lui est même interdit de faire escale à Hispaniola. Ce quatrième voyage d'exploration est très difficile ; rentré en 1504 en Espagne, Colomb est affaibli par les épreuves et meurt deux ans après. Au moment de mourir, Colomb est resté persuadé qu'il avait atteint les Indes : il a ainsi laissé à un autre navigateur, Amerigo Vespucci, le soin de populariser le concept de « Nouveau Monde » (1503), monde que des cartographes vosgiens ont baptisé « Amérique » (America) en 1507, en hommage à Vespucci. Le bilan d'explorateur de Colomb est cependant notable : il a découvert un grand nombre d’îles des Caraïbes et en a nommé plusieurs d'entre elles, dont la Guadeloupe, Marie-Galante, la Désirade, la Trinité, la Dominique. Le nom de Colomb a par la suite été attribué à plusieurs territoires du Nouveau Continent : la Colombie, la Grande Colombie, la Colombie-Britannique. Cette figure n'est pas le premier navigateur européen à avoir traversé l'océan Atlantique : des Vikings venus d'Islande se sont établise pendant plusieurs décennies au Groenland avant d'atteindre vers l'an 1000 des régions de l'est de l'actuel Canada où ils ont créé des établissements permanents, mais ces expéditions n'ont pas produit de documentation connue dans les pays d'Europe de l'Ouest et surtout n'ont pas eu pour conséquence l'échange humain et biologique unique dans l'histoire qu'on appelle l'« échange colombien ». Christophe Colomb est donc considéré comme un acteur notable des grandes découvertes des XVe et XVIe siècles et son premier voyage est l'un des événements importants qui marquent le passage du Moyen Âge aux Temps modernes.
+Christophe Colomb naît vers 1451 à Gênes, dans une famille de tisserands. Il s'initie tôt à la navigation en Méditerranée et dans l'Atlantique. En 1476, il s'installe au Portugal, alors centre de l'exploration maritime, où il épouse Filipa Moniz Perestrelo. Convaincu qu'il est possible d'atteindre les Indes par l'ouest, il présente son projet au roi Jean II de Portugal, qui le refuse. Après six ans de négociations avec la couronne espagnole, il obtient le soutien d'Isabelle de Castille et de Ferdinand d'Aragon. Le 3 août 1492, il quitte Palos de la Frontera avec trois navires. Le 12 octobre 1492, il atteint l'île de Guanahani aux Bahamas, inaugurant la découverte européenne des Amériques. Il effectue trois autres voyages : le deuxième (1493-1496) qui colonise Hispaniola, le troisième (1498) qui atteint le continent sud-américain à l'embouchure de l'Orénoque, et le quatrième (1502-1504) qui explore les côtes de l'Amérique centrale. Son administration coloniale est critiquée pour sa brutalité ; il est arrêté et renvoyé enchaîné en Espagne en 1500. Cette figure meurt le 20 mai 1506 à Valladolid, convaincu jusqu'au bout d'avoir atteint les Indes.
+
+## Expéditions / Campagnes
+
+> [!expedition] **Premier voyage (1492-1493)**
+> **Commanditaire** : Isabelle de Castille et Ferdinand d'Aragon
+> **Objectif** : Atteindre les Indes par l'ouest
+> **Équipage/Moyens** : Trois caravelles (la Santa María, la Pinta et la Niña) et 90 hommes
+>
+> **Itinéraire** :
+> - [[Palos de la Frontera]] → [[Îles Canaries]] → [[Guanahani]] → [[Cuba]] → [[Hispaniola]]
+>
+> **Découvertes/Conquêtes** :
+> - [[Guanahani]] : première île atteinte le 12 octobre 1492
+> - [[Cuba]] : explorée en octobre-novembre 1492
+> - [[Hispaniola]] : explorée en décembre 1492
+>
+> **Issue** : Retour triomphal en Espagne avec des preuves de terres inconnues
+
+> [!expedition] **Deuxième voyage (1493-1496)**
+> **Commanditaire** : Rois catholiques d'Espagne
+> **Objectif** : Coloniser Hispaniola et explorer de nouvelles terres
+> **Équipage/Moyens** : 17 navires et 1 200 hommes
+>
+> **Itinéraire** :
+> - [[Cadix]] → [[Îles Canaries]] → [[La Désirade]] → [[Guadeloupe]] → [[Hispaniola]]
+>
+> **Découvertes/Conquêtes** :
+> - [[L'Isabela]] : fondation de la première colonie en janvier 1494
+>
+> **Issue** : Dégradation des relations avec les colons, retour en Espagne en 1496
 
 ## Découvertes et impact
 
-Le 12 octobre 1492 à deux heures du matin, au terme d'une traversée finalement presque parfaite, un marin de la Pinta, Rodrigo de Triana, annonce que la terre est en vue ; attendant le lever du jour pour pouvoir accoster, les vaisseaux restent prudemment à deux heures des côtes. Alors qu'une récompense de quelques milliers de maravédis a été promise à celui qui verrait le premier la terre, Rodrigo Triana ne recevra rien, Colomb prétendant avoir vu la côte avant lui. Il pense alors avoir atteint l'archipel du Japon, donc la partie la plus au nord des « Indes ». Dans la matinée, Colomb et les frères Pinzón prennent place dans une barque. Ils débarquent dans une petite île, Guanahani pour les habitants Taïnos du lieu. Le navigateur fait enregistrer sa prise de possession au nom de la reine de Castille par le notaire qui les accompagne. Il nomme l'île en hommage au Christ : San Salvador, le Saint-Sauveur, et s'en fait proclamer vice-roi et gouverneur général. La rencontre avec des indigènes, qu'il nomme « Indiens », a lieu le jour même durant la cérémonie. Ce personnage décrit une première rencontre pacifique. Colomb décrit les habitants de cette île comme ne connaissant ni l’État ni la propriété privée. Ils se montrent remarquablement amicaux et ne connaissent pas les armes : « C'était un peuple doux, pacifique et très simple ». « Puis, quand les chaloupes se rendirent à terre pour y renouveler les provisions d'eau, ces Indiens non seulement s’empressèrent d'indiquer les meilleures sources, mais encore se mirent à la disposition des matelots pour emplir les tonneaux et les rapporter aux bateaux ». Ceux-ci lui apportent du coton, des perroquets et d'autres objets. Les interprètes que le navigateur avait embarqués à son bord ne peuvent rien traduire. Il rapporte que, lors de ce premier contact, communiquant par gestes, à force de répétitions et malgré quelques quiproquos, les Taïnos leur ont indiqué que de l'or se trouve en quantité importante sur une grande île située au sud-est, habitée par des populations d'anthropophages qui leur sont hostiles. Ces rapports sont à l'origine du mythe du Bon sauvage, popularisé notamment par Montaigne : la présentation par les navigateurs européens d'autochtones nus, innocents, prêts à partager leurs richesses et à devenir chrétiens devient classique au XVIe siècle. L'ensemble des descriptions sont des écrits de la main de Colomb à destination de la reine Isabelle la Catholique. Ils ne peuvent être détachés du projet de conquête et d'exploitation des terres découvertes. En outre, le projet de Colomb est d'y faire des esclaves contrairement à la reine qui s'y oppose dès son second voyage. La description des habitants par Colomb donne l'idée d'un peuple docile, facile à soumettre, mais aussi d'autres tribus guerrières occupant des terres riches en or, probablement afin de motiver la souveraine à investir dans d'autres explorations et pour justifier de futurs combats. Persuadés de se trouver sur les terres d'Asie, Colomb et ses hommes ont essayé d'entrer en contact avec les souverains asiatiques qu'ils connaissent, notamment le mythique « Grand Khan ». Les indigènes sont d'autant mieux traités que Colomb les croit proches de ce souverain. Au fur et à mesure des voyages, les Espagnols constatent que les autochtones ne connaissent pas les souverains espérés, même de nom. Ils attribuent cette ignorance aux lacunes culturelles des indigènes rencontrés. Ils prennent conscience qu'ils sont mieux armés que les natifs et qu'une conquête de ces territoires serait très facile, comme le montrent les courriers adressés aux Rois catholiques. Ce sujet est relevé de ses fonctions de vice-roi en 1500 et décède en 1506.
+Christophe Colomb a ouvert la voie à la colonisation européenne des Amériques en atteignant les Caraïbes en 1492. Ses quatre voyages ont permis la cartographie de nouvelles terres et l'établissement des premières colonies européennes en Amérique. Cependant, son administration coloniale a été critiquée pour sa brutalité envers les populations indigènes. Les épidémies apportées par les Européens ont décimé les Taïnos et d'autres peuples autochtones.
 
 ## Chronologie
 
-- **1451** : Naissance (1451)
-- **1474** : Il participe à un voyage commercial sur l’île de Chios
-- **1484** : Les marins portugais ont dépassé l'embouchure du fleuve Congo et le cap de Bonne-Espérance va être découvert en 1488
-- **1487** : Une orpheline d'une vingtaine d'années élevée par un oncle
-- **1489** : Un mandement du roi et de la reine est adressé à toutes les autorités du royaume (villes, juridictions, seigneuries) d'assister Christophe Colomb durant son voyage, de l'héberger gratuitement et le
-- **1492** : Il la chargera de la garde de Diego et, dans son testament, demandera à celui-ci de la considérer comme une mère
-- **1493** : Vingt-et-un jours après avoir quitté les Canaries — est une île qu'il baptise Desiderada (La Désirade), tant la vue d'une terre était désirée par les hommes d'équipage
-- **1494** : Il abandonne La Navidad pour fonder La Isabela (près de l'actuelle ville domicaine de Puerto Plata)
-- **1498** : Les six navires commencent leur voyage dans l'Atlantique en passant la barre de Sanlúcar de Barrameda
-- **1500** : Un émissaire des Rois catholiques, envoyé en inspection, le met aux arrêts et le renvoie en Espagne
-- **1502** : Il lui est même interdit de faire escale à Hispaniola
-- **1506** : Décès (20 mai 1506)
+- **v. 1451** : Naissance à Gênes
+- **1476** : Installation au Portugal
+- **1484** : Présentation du projet à Jean II de Portugal (refusé)
+- **1492** : Premier voyage, découverte des Caraïbes (12 octobre)
+- **1493** : Deuxième voyage, colonisation d'Hispaniola
+- **1498** : Troisième voyage, découverte de l'Orénoque (continent)
+- **1500** : Arrestation et renvoi en Espagne enchaîné
+- **1502** : Quatrième voyage, exploration du Costa Rica et Panama
+- **1506** : Décès à Valladolid (20 mai 1506)
+
+## Héritage
+
+Christophe Colomb est une figure fondatrice de l'histoire des Amériques, ayant ouvert la voie à la colonisation européenne du Nouveau Monde. Son héritage est profondément controversé : célébré comme explorateur audacieux d'un côté, critiqué pour les violences coloniales et les épidémies qui ont suivi ses voyages de l'autre.
 
 ## Relations
 
 > [!info] **Relations**
+> - **Commanditaires** : `[[Isabelle de Castille]]` (reine de Castille, financement et soutien politique), `[[Ferdinand d'Aragon]]` (roi d'Aragon, co-commanditaire)
+> - **Équipage/Compagnons** : `[[Rodrigo de Triana]]` (marin, premier à apercevoir les terres), `[[Alonso Pinzón]]` (capitaine de la Pinta)
+> - **Souverains consultés** : `[[Jean II de Portugal]]` (refus du projet en 1484)
