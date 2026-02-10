@@ -1,6 +1,6 @@
 ---
 tags: '#histoire/personne/militaire'
-titre: '''''Imperator Caius Sextus Caius Sextus Caius Julius Caesar'''''
+titre: Imperator Caius Julius Caesar
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg
 date_creation: '2026-02-10'
 ---
@@ -9,7 +9,6 @@ date_creation: '2026-02-10'
 > Jules César
 > ![[https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg|300]]
 >- **Dates** : 12 (ou 13) juillet 100 - 15 mars 44 av. J.-C.
->- **Conflits** : ----
 
 ## Biographie
 
@@ -22,22 +21,20 @@ César peut se présenter comme la victime de l’acharnement des conservateurs 
 ## Chronologie
 
 - **100 av. J.-C.** : Naissance (12 (ou 13) juillet 100 av. J.-C.)
-- **85 av. J.-C.** : Est le fils de Caius Sextus Caius Sextus Caius Julius Caesar II
-- **84 av. J.-C.** : César est choisi (ou est candidat) au sacerdoce de flamen dialis (premier prêtre de Jupiter) à la suite du suicide de Lucius Cornelius Merula durant les proscriptions marianistes
-- **82 av. J.-C.** : Suivie d'impitoyables chasses à l'homme contre les proscrits du camp adverse
+- **85 av. J.-C.** : Est le fils de Caius Julius Caesar II
+- **84 av. J.-C.** : César est choisi (ou est candidat) au sacerdoce de flamen dialis (premier prêtre de Jupiter) à la suite du suicide de Lucius Cornelius Merula durant
 - **78 av. J.-C.** : César demeure quelque temps en Asie
 - **75 av. J.-C.** : Il est enlevé par des pirates ciliciens qui le font prisonnier durant 38 jours sur l'île de Farmakonisi et réclament une rançon de vingt talents d'or
 - **65 av. J.-C.** : Il capte la faveur du peuple en rétablissant le pouvoir des tribuns de la plèbe et en relevant les statues de Marius
-- **64 av. J.-C.** : Il intente des procès contre d’anciens partisans de Sylla, fait condamner Lucius Liscius et Lucius Bellienus, payés pour avoir ramené la tête de proscrits
-- **63 av. J.-C.** : Avec l’aide du tribun de la plèbe Titus Labienus, César tente un coup juridique extravagant en accusant de haute trahison le vieux sénateur syllanien Caius Rabirius pour des faits anciens de
+- **64 av. J.-C.** : Il intente des procès contre d’anciens partisans de Sylla, fait condamner Lucius Liscius et Lucius Bellienus, payés pour avoir ramené la tête de
+- **63 av. J.-C.** : Avec l’aide du tribun de la plèbe Titus Labienus, César tente un coup juridique extravagant en accusant de haute trahison le vieux sénateur syllanien
 - **60 av. J.-C.** : Il ne peut partir qu’après avoir donné des cautions à ses créanciers
 - **59 av. J.-C.** : En ralliant notamment à sa cause Lucius Lucceius, un de ses éventuels compétiteurs
-- **54 av. J.-C.** : Les deux autres membres du triumvirat reçoivent le gouvernement d’une province : Crassus part en Asie chercher une gloire militaire qui pourrait égaler celle de Pompée et celle de César
-- **53 av. J.-C.** : La défaite et la mort de Crassus et de son fils Publius à la bataille de Carrhes contre les Parthes, achève de défaire les derniers liens du triumvirat
+- **54 av. J.-C.** : Les deux autres membres du triumvirat reçoivent le gouvernement d’une province : Crassus part en Asie chercher une gloire militaire qui pourrait
+- **53 av. J.-C.** : La défaite et la mort de Crassus et de son fils Publius à la bataille de Carrhes contre les Parthes, achève de défaire les derniers liens du
 - **52 av. J.-C.** : Jules César remporte une victoire décisive au siège d'Alésia, où il reçoit la reddition de Vercingétorix
-- **51 av. J.-C.** : Il annonce la construction d’un magnifique et nouveau forum, financé par le butin des Gaules, sur lequel est érigé le temple de Vénus Genitrix dont il prétend descendre
+- **51 av. J.-C.** : Il annonce la construction d’un magnifique et nouveau forum, financé par le butin des Gaules, sur lequel est érigé le temple de Vénus Genitrix dont
 - **50 av. J.-C.** : César mène sa politique à distance depuis la Gaule cisalpine où il campe ses troupes
-- **49 av. J.-C.** : Conformément à la loi qui impose un intervalle de dix ans entre chaque consulat
 - **46 av. J.-C.** : Les dernières forces du parti pompéien s’insurgent en Espagne, menées par Pompée le Jeune, fils de Pompée, et Titus Labienus
 - **44 av. J.-C.** : Le Sénat confère à César la dictature perpétuelle
 
@@ -49,5 +46,5 @@ Jules César, devenu dictateur, doit adapter les institutions à l'extension de 
 
 > [!info] **Relations**
 > - **Famille** : `[[Cossutia]]` (85 à 84), `[[Cornelia Cinna]]` (84 à 68), `[[Pompeia Sulla]]` (68 à 63), `[[Calpurnia Pisonis]]` (59 à 44), `[[Auguste (adopté)]]` (enfant), `[[Brutus ? (avec Servilia Caepionis)]]` (enfant), `[[Julia (avec Cornelia Cinna)]]` (enfant), `[[Ptolémée XV ? (avec Cléopâtre VII)]]` (enfant)
-> - **Rivaux/Ennemis** : `[[De Bello Civili]]` (adversaire), `[[Caius Antonius]]` (adversaire), `[[Caius Antonius Hybrida]]` (adversaire), `[[Lucius Bellienus]]` (adversaire)
+> - **Rivaux/Ennemis** : `[[Caius Antonius]]` (adversaire), `[[Caius Antonius Hybrida]]` (adversaire), `[[Lucius Bellienus]]` (adversaire), `[[Lucius Liscius]]` (adversaire)
 > - **Subordonnés notables** : `[[Lucius Cornelius Lentulus]]`, `[[Publius Vatinius]]`, `[[Servius Sulpicius Galba]]`, `[[Titus Labienus]]`
