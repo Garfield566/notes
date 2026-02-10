@@ -6,7 +6,7 @@ nationalite: France
 grade: Empereur des Français
 periode: Époque contemporaine
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Napoleon_I_of_France.jpg/300px-Napoleon_I_of_France.jpg
-date_creation: '2026-02-09'
+date_creation: '2026-02-10'
 ---
 
 > [!Infobox]
@@ -21,11 +21,7 @@ date_creation: '2026-02-09'
 
 ## Biographie
 
-Napoléon Bonaparte naît le 15 août 1769 à Ajaccio en Corse, dans une famille de la petite noblesse. Il entre à l'école militaire de Brienne-le-Château en 1779, puis à l'École royale militaire de Paris en 1784, où il se spécialise dans l'artillerie. Lieutenant en second en 1785, il se distingue au siège de Toulon en 1793, ce qui lui vaut le grade de général de brigade.
-
-Après une ascension fulgurante, il est nommé commandant en chef de l'armée d'Italie en 1796. Sa campagne d'Italie (1796-1797) lui apporte gloire et prestige grâce à des victoires décisives à Lodi, Arcole et Rivoli. En 1798, il mène l'expédition d'Égypte, à la fois militaire et scientifique. En 1799, il organise le coup d'État du 18 Brumaire, mettant fin au Directoire et devenant Premier consul.
-
-Le 2 décembre 1804, il est sacré empereur des Français sous le nom de Napoléon Ier. Son règne est marqué par des réformes majeures — le Code civil (1804), la création de la Banque de France, la réorganisation de l'administration — et par des campagnes militaires en Europe. Après l'apogée d'Austerlitz (1805), l'Empire s'étend de l'Espagne à la Pologne. La campagne de Russie (1812) marque le début du déclin. Après la défaite de Waterloo le 18 juin 1815, il abdique pour la seconde fois et est exilé à Sainte-Hélène, où il meurt le 5 mai 1821.
+Napoléon Bonaparte naît le 15 août 1769 à Ajaccio en Corse, dans une famille de la petite noblesse. Il entre à l'école militaire de Brienne-le-Château en 1779, puis à l'École royale militaire de Paris en 1784, où il se spécialise dans l'artillerie. Lieutenant en second en 1785, il se distingue au siège de Toulon en 1793, ce qui lui vaut le grade de général de brigade. Après une ascension fulgurante, il est nommé commandant en chef de l'armée d'Italie en 1796. Sa campagne d'Italie (1796-1797) lui apporte gloire et prestige grâce à des victoires décisives à Lodi, Arcole et Rivoli. En 1798, il mène l'expédition d'Égypte, à la fois militaire et scientifique. En 1799, il organise le coup d'État du 18 Brumaire, mettant fin au Directoire et devenant Premier consul. Le 2 décembre 1804, il est sacré empereur des Français sous le nom de Napoléon Ier. Son règne est marqué par des réformes majeures — le Code civil (1804), la création de la Banque de France, la réorganisation de l'administration — et par des campagnes militaires en Europe. Après l'apogée d'Austerlitz (1805), l'Empire s'étend de l'Espagne à la Pologne. La campagne de Russie (1812) marque le début du déclin. Après la défaite de Waterloo le 18 juin 1815, il abdique pour la seconde fois et est exilé à Sainte-Hélène, où il meurt le 5 mai 1821.
 
 ## Campagnes et batailles
 
@@ -61,9 +57,7 @@ Le 2 décembre 1804, il est sacré empereur des Français sous le nom de Napolé
 
 ## Art militaire
 
-Napoléon se distingue par son sens tactique et sa capacité à motiver ses troupes. Il innove dans l'utilisation de l'artillerie comme force mobile d'appui des attaques d'infanterie. Ses campagnes sont marquées par des mouvements rapides et des manœuvres audacieuses, comme à Austerlitz où il exploite une feinte pour encercler l'ennemi.
-
-Ses forces résident dans sa capacité à anticiper les mouvements adverses et à adapter sa stratégie en fonction des circonstances. Cependant, ses faiblesses incluent une tendance à sous-estimer la logistique et les conditions climatiques, comme lors de la campagne de Russie en 1812.
+Napoléon se distingue par son sens tactique et sa capacité à motiver ses troupes. Il innove dans l'utilisation de l'artillerie comme force mobile d'appui des attaques d'infanterie. Ses campagnes sont marquées par des mouvements rapides et des manœuvres audacieuses, comme à Austerlitz où il exploite une feinte pour encercler l'ennemi. Ses forces résident dans sa capacité à anticiper les mouvements adverses et à adapter sa stratégie en fonction des circonstances. Cependant, ses faiblesses incluent une tendance à sous-estimer la logistique et les conditions climatiques, comme lors de la campagne de Russie en 1812.
 
 ## Chronologie
 
